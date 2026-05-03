@@ -14,10 +14,10 @@
 <body>
   <div class="toolbar">
     <strong>Router test harness:</strong>
-    <span>this page simulates the Squarespace host page <code>/autoren-detail</code>.</span>
+    <span>simulates the Squarespace host page <code>/autoren-detail</code>.</span>
     <label>
       Author:
-      <select id="picker"></select>
+      <select id="picker"><option>Loading…</option></select>
     </label>
     <span id="status"></span>
   </div>
@@ -26,18 +26,19 @@
   <div id="ms-author-mount"></div>
 
   <script>
-    // The router uses window.location.pathname to decide what to do. The harness
-    // overrides the default to pretend we're on the host page, then reads the
-    // ?a= param normally.
-    Object.defineProperty(window.location, 'pathname', {
-      configurable: true,
-      get: function () { return '/autoren-detail'; }
-    });
-    window.MS_CDN_BASE = '.';  // load JSON from this same dist folder
+    // Tell the router to act as if we are on the host page (we cannot redefine
+    // window.location.pathname — Location is a host object).
+    window.MS_FORCE_HOST_PAGE = true;
+    // Load JSON from the same origin this harness is served from.
+    window.MS_CDN_BASE = '.';
 
     // Populate the picker from index.json so the harness mirrors prod data.
-    fetch('authors/index.json').then(function (r) { return r.json(); }).then(function (idx) {
+    fetch('authors/index.json').then(function (r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    }).then(function (idx) {
       var sel = document.getElementById('picker');
+      sel.innerHTML = '';
       var qs = new URLSearchParams(window.location.search);
       var current = qs.get('a') || (idx[0] && idx[0].slug);
       idx.sort(function (a, b) { return a.name.localeCompare(b.name); });
@@ -52,6 +53,9 @@
         window.location.search = '?a=' + encodeURIComponent(sel.value);
       });
       document.getElementById('status').textContent = idx.length + ' authors loaded';
+    }).catch(function (err) {
+      document.getElementById('status').textContent = 'index.json load failed: ' + err.message;
+      console.error(err);
     });
   </script>
   <script src="router.js" defer></script>

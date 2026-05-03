@@ -172,6 +172,14 @@
   }
 
   function route() {
+    if (window.MS_FORCE_HOST_PAGE) {
+      renderAuthor(getSlug());
+      return;
+    }
+    if (window.MS_FORCE_INDEX_PAGE) {
+      patchIndex();
+      return;
+    }
     var path = window.location.pathname.replace(/\/+$/, "") || "/";
     if (pathStartsWith(path, HOST_PAGE)) {
       renderAuthor(getSlug());
