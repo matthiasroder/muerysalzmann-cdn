@@ -50,7 +50,12 @@
         sel.appendChild(opt);
       });
       sel.addEventListener('change', function () {
-        window.location.search = '?a=' + encodeURIComponent(sel.value);
+        // Avoid full-page reload (which can be blocked inside preview iframes).
+        // Update the URL so it's shareable, then drive the router directly.
+        history.replaceState(null, '', '?a=' + encodeURIComponent(sel.value));
+        if (window.MS_AUTHOR_ROUTER) {
+          window.MS_AUTHOR_ROUTER.render(sel.value);
+        }
       });
       document.getElementById('status').textContent = idx.length + ' authors loaded';
     }).catch(function (err) {

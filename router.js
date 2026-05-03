@@ -188,6 +188,14 @@
     }
   }
 
+  // Tiny public API for test harnesses: call render(slug) without changing
+  // the URL. Production never uses this — Squarespace pages drive the router
+  // via real navigation.
+  window.MS_AUTHOR_ROUTER = {
+    render: renderAuthor,
+    patchIndex: patchIndex,
+  };
+
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", route);
   } else {
