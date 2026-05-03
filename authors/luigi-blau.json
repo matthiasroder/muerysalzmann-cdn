@@ -4,9 +4,18 @@
   "category": "",
   "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">1945–2023; lebte bis auf einen kurzen Parisaufenthalt bei Jean Prouvé in Wien, studierte in der Meisterschule von Ernst Anton Plischke, der bereits dessen Studentenarbeiten als sehr kultivierte Architektur bezeichnete. Neben Plischke prägten ihn insbesondere Adolf Loos und Josef Frank. <br/>Bald wurde Luigi Blau zu den wichtigsten Architekten, Möbeldesignern und Ausstellungsgestaltern Österreichs gezählt. Legendär ist auch seine Leidenschaft für Literatur.</p>",
   "photo_url": "images/luigi-blau.jpg",
-  "books": [],
+  "books": [
+    {
+      "title": "Luigi Blau. Architekt",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84ddf094b35b74b67d12d7/1768749463686/?format=1500w",
+      "price": 45.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-172-4",
+      "page_url": "https://www.muerysalzmann.com/kunst-architektur/luigi-blau"
+    }
+  ],
   "events": [],
-  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/luigi-blau.jpg\" alt=\"Luigi Blau\" width=\"300\"></div><div><h1>Luigi Blau</h1><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">1945–2023; lebte bis auf einen kurzen Parisaufenthalt bei Jean Prouvé in Wien, studierte in der Meisterschule von Ernst Anton Plischke, der bereits dessen Studentenarbeiten als sehr kultivierte Architektur bezeichnete. Neben Plischke prägten ihn insbesondere Adolf Loos und Josef Frank. <br/>Bald wurde Luigi Blau zu den wichtigsten Architekten, Möbeldesignern und Ausstellungsgestaltern Österreichs gezählt. Legendär ist auch seine Leidenschaft für Literatur.</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><p class=\"demo-empty\">Keine Titel im Katalog.</p></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/luigi-blau.jpg\" alt=\"Luigi Blau\" width=\"300\"></div><div><h1>Luigi Blau</h1><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">1945–2023; lebte bis auf einen kurzen Parisaufenthalt bei Jean Prouvé in Wien, studierte in der Meisterschule von Ernst Anton Plischke, der bereits dessen Studentenarbeiten als sehr kultivierte Architektur bezeichnete. Neben Plischke prägten ihn insbesondere Adolf Loos und Josef Frank. <br/>Bald wurde Luigi Blau zu den wichtigsten Architekten, Möbeldesignern und Ausstellungsgestaltern Österreichs gezählt. Legendär ist auch seine Leidenschaft für Literatur.</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/luigi-blau\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84ddf094b35b74b67d12d7/1768749463686/?format=1500w\" alt=\"Luigi Blau. Architekt\" loading=\"lazy\"></div><div class=\"demo-book-title\">Luigi Blau. Architekt</div><div class=\"demo-book-price\">45.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
   "meta": {
     "title": "Luigi Blau · Müry Salzmann Verlag",
     "description": "1945–2023; lebte bis auf einen kurzen Parisaufenthalt bei Jean Prouvé in Wien, studierte in der Meisterschule von Ernst Anton Plischke, der bereits dessen Studentenarbeiten als sehr kultivierte…"

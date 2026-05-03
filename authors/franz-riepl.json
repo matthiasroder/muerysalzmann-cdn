@@ -4,9 +4,18 @@
   "category": "",
   "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1932 in Sarleinsbach (Oberösterreich), Architekturstudium an der TU Wien. 1958-67 Assistent an der TU München bei Prof. Johannes Ludwig, dessen Büropartner; ab 1967 freischaffender Architekt mit Büro in München. 1980-2000 Professor für Ländliches Bauen an der TU Graz. Zahlreiche Preise, darunter dreimal der BDA-Preis Bayern.</p>",
   "photo_url": "images/franz-riepl.jpg",
-  "books": [],
+  "books": [
+    {
+      "title": "Franz Riepl über Architektur",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5ea7e0cb1abfc66c9af44ae0/1768749463682/?format=1500w",
+      "price": 28.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-119-9",
+      "page_url": "https://www.muerysalzmann.com/kunst-architektur/franz-riepl"
+    }
+  ],
   "events": [],
-  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/franz-riepl.jpg\" alt=\"Franz Riepl\" width=\"300\"></div><div><h1>Franz Riepl</h1><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1932 in Sarleinsbach (Oberösterreich), Architekturstudium an der TU Wien. 1958-67 Assistent an der TU München bei Prof. Johannes Ludwig, dessen Büropartner; ab 1967 freischaffender Architekt mit Büro in München. 1980-2000 Professor für Ländliches Bauen an der TU Graz. Zahlreiche Preise, darunter dreimal der BDA-Preis Bayern.</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><p class=\"demo-empty\">Keine Titel im Katalog.</p></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/franz-riepl.jpg\" alt=\"Franz Riepl\" width=\"300\"></div><div><h1>Franz Riepl</h1><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1932 in Sarleinsbach (Oberösterreich), Architekturstudium an der TU Wien. 1958-67 Assistent an der TU München bei Prof. Johannes Ludwig, dessen Büropartner; ab 1967 freischaffender Architekt mit Büro in München. 1980-2000 Professor für Ländliches Bauen an der TU Graz. Zahlreiche Preise, darunter dreimal der BDA-Preis Bayern.</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/franz-riepl\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5ea7e0cb1abfc66c9af44ae0/1768749463682/?format=1500w\" alt=\"Franz Riepl über Architektur\" loading=\"lazy\"></div><div class=\"demo-book-title\">Franz Riepl über Architektur</div><div class=\"demo-book-price\">28.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
   "meta": {
     "title": "Franz Riepl · Müry Salzmann Verlag",
     "description": "geboren 1932 in Sarleinsbach (Oberösterreich), Architekturstudium an der TU Wien. 1958-67 Assistent an der TU München bei Prof. Johannes Ludwig, dessen Büropartner; ab 1967 freischaffender…"
