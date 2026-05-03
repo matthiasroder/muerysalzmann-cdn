@@ -11,7 +11,7 @@
       "price": 28.0,
       "currency": "EUR",
       "isbn": "978-3-99014-119-9",
-      "page_url": "/kunst-architektur/franz-riepl"
+      "page_url": "https://www.muerysalzmann.com/kunst-architektur/franz-riepl"
     },
     {
       "title": "Landschaft und Lebenssinn",
@@ -19,11 +19,11 @@
       "price": 25.0,
       "currency": "EUR",
       "isbn": "978-3-99014-137-3",
-      "page_url": "/kunst-architektur/landschaft-und-lebenssinn"
+      "page_url": "https://www.muerysalzmann.com/kunst-architektur/landschaft-und-lebenssinn"
     }
   ],
   "events": [],
-  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/albert-kirchengast.jpg\" alt=\"Albert Kirchengast\" width=\"300\"></div><div><h1>Albert Kirchengast</h1><div class=\"demo-author-category\">Kunst/Architektur</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1980, Architekturstudium an der TU Graz. Seit 2008 wissenschaftlicher Mitarbeiter an der ETH Zürich. 2013 Research Fellow an der Harvard University. Zahlreiche Veröffentlichungen, zuletzt: \"Landschaft im Gespräch\" (Wien, 2015).</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/kunst-architektur/franz-riepl\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5ea7e0cb1abfc66c9af44ae0/1768749463682/?format=1500w\" alt=\"Franz Riepl über Architektur\" loading=\"lazy\"></div><div class=\"demo-book-title\">Franz Riepl über Architektur</div><div class=\"demo-book-price\">28.00 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/landschaft-und-lebenssinn\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84e00b7f9feb549b1e5707/1768749464005/?format=1500w\" alt=\"Landschaft und Lebenssinn\" loading=\"lazy\"></div><div class=\"demo-book-title\">Landschaft und Lebenssinn</div><div class=\"demo-book-price\">25.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/albert-kirchengast.jpg\" alt=\"Albert Kirchengast\" width=\"300\"></div><div><h1>Albert Kirchengast</h1><div class=\"demo-author-category\">Kunst/Architektur</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1980, Architekturstudium an der TU Graz. Seit 2008 wissenschaftlicher Mitarbeiter an der ETH Zürich. 2013 Research Fellow an der Harvard University. Zahlreiche Veröffentlichungen, zuletzt: \"Landschaft im Gespräch\" (Wien, 2015).</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/franz-riepl\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5ea7e0cb1abfc66c9af44ae0/1768749463682/?format=1500w\" alt=\"Franz Riepl über Architektur\" loading=\"lazy\"></div><div class=\"demo-book-title\">Franz Riepl über Architektur</div><div class=\"demo-book-price\">28.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/landschaft-und-lebenssinn\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84e00b7f9feb549b1e5707/1768749464005/?format=1500w\" alt=\"Landschaft und Lebenssinn\" loading=\"lazy\"></div><div class=\"demo-book-title\">Landschaft und Lebenssinn</div><div class=\"demo-book-price\">25.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
   "meta": {
     "title": "Albert Kirchengast · Müry Salzmann Verlag",
     "description": "geboren 1980, Architekturstudium an der TU Graz. Seit 2008 wissenschaftlicher Mitarbeiter an der ETH Zürich. 2013 Research Fellow an der Harvard University. Zahlreiche Veröffentlichungen, zuletzt:…"

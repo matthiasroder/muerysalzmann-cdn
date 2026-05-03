@@ -11,7 +11,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-225-7",
-      "page_url": "/belletristik/baerensommer"
+      "page_url": "https://www.muerysalzmann.com/belletristik/baerensommer"
     },
     {
       "title": "Der Mongole",
@@ -19,7 +19,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-177-9",
-      "page_url": "/belletristik/der-mongole"
+      "page_url": "https://www.muerysalzmann.com/belletristik/der-mongole"
     },
     {
       "title": "Kupfersonne",
@@ -27,7 +27,7 @@
       "price": 29.0,
       "currency": "EUR",
       "isbn": "9783990142011",
-      "page_url": "/belletristik/kupfersonne"
+      "page_url": "https://www.muerysalzmann.com/belletristik/kupfersonne"
     },
     {
       "title": "Mein Proust-Moment",
@@ -35,7 +35,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-221-9",
-      "page_url": "/belletristik/mein-proust-moment"
+      "page_url": "https://www.muerysalzmann.com/belletristik/mein-proust-moment"
     },
     {
       "title": "Westöstliche Couch",
@@ -43,7 +43,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-209-7",
-      "page_url": "/belletristik/westoestliche-couch"
+      "page_url": "https://www.muerysalzmann.com/belletristik/westoestliche-couch"
     }
   ],
   "events": [
@@ -53,7 +53,7 @@
       "end_date": "2020-11-12T21:00:00+0100",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/buchpremiere-weststliche-couch-ein-literarisches-alphabet"
+      "page_url": "https://www.muerysalzmann.com/kalender/buchpremiere-weststliche-couch-ein-literarisches-alphabet"
     },
     {
       "title": "ABGESAGT - Buchpräsentation \"Kupfersonne\" von Reinhard Stöckel",
@@ -61,7 +61,7 @@
       "end_date": "2021-02-15T21:00:00+0100",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/buchprsentation-kupfersonne-von-reinhard-stckel"
+      "page_url": "https://www.muerysalzmann.com/kalender/buchprsentation-kupfersonne-von-reinhard-stckel"
     },
     {
       "title": "Autorenlesung \"Westöstliche Couch: ein literarisches Alphabet\"",
@@ -69,7 +69,7 @@
       "end_date": "2021-08-19T21:00:00+0200",
       "location_name": "Galerie Brandenburg",
       "location_address": "7 Güterzufuhrstraße Cottbus, BB, 03046 Deutschland",
-      "page_url": "/kalender/autorenlesung-weststliche-couch-ein-literarisches-alphabet"
+      "page_url": "https://www.muerysalzmann.com/kalender/autorenlesung-weststliche-couch-ein-literarisches-alphabet"
     },
     {
       "title": "Reinhard Stöckel liest aus \"Westöstliche Couch\"",
@@ -77,7 +77,7 @@
       "end_date": "2021-09-05T17:00:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/reinhard-liest-aus-weststliche-couch"
+      "page_url": "https://www.muerysalzmann.com/kalender/reinhard-liest-aus-weststliche-couch"
     },
     {
       "title": "Reinhard Stöckel liest aus \"Kupfersonne\"",
@@ -85,7 +85,7 @@
       "end_date": "2021-09-09T16:00:00+0200",
       "location_name": "Bücherei Sandow",
       "location_address": "Muskauer Straße 1 03042 Cottbus Deutschland",
-      "page_url": "/kalender/reinhard-stckel-liest-aus-kupfersonne"
+      "page_url": "https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-kupfersonne"
     },
     {
       "title": "Lesung Reinhard Stöckel",
@@ -93,7 +93,7 @@
       "end_date": "2021-09-16T20:00:00+0200",
       "location_name": "extrazimmer",
       "location_address": "2a Robinigstraße Salzburg, Salzburg, 5020 Österreich",
-      "page_url": "/kalender/lesung-reinhard-stckel"
+      "page_url": "https://www.muerysalzmann.com/kalender/lesung-reinhard-stckel"
     },
     {
       "title": "Reinhard Stöckel liest aus \"Kupfersonne\"",
@@ -101,7 +101,7 @@
       "end_date": "2021-10-22T20:30:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/reinhard-stckel-liest-aus-kupfersonne-1"
+      "page_url": "https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-kupfersonne-1"
     },
     {
       "title": "Kathrin Groß-Striffler und Reinhard Stöckel lesen aus \"Westöstliche Couch\"",
@@ -109,7 +109,7 @@
       "end_date": "2022-04-22T20:30:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/kathrin-gro-striffler-und-reinhard-stckel-lesen-aus-weststliche-couch"
+      "page_url": "https://www.muerysalzmann.com/kalender/kathrin-gro-striffler-und-reinhard-stckel-lesen-aus-weststliche-couch"
     },
     {
       "title": "Buchpremiere \"Bärensommer\" von Reinhard Stöckel",
@@ -117,7 +117,7 @@
       "end_date": "2022-05-04T20:00:00+0200",
       "location_name": "Lesezentrum Cottbus",
       "location_address": "Berliner Straße 13/14 03046 Cottbus Deutschland",
-      "page_url": "/kalender/buchpremiere-brensommer-von-reinhard-stckel"
+      "page_url": "https://www.muerysalzmann.com/kalender/buchpremiere-brensommer-von-reinhard-stckel"
     },
     {
       "title": "Reinhard Stöckel liest aus \"Bärensommer\"",
@@ -125,7 +125,7 @@
       "end_date": "2022-06-08T17:00:00+0200",
       "location_name": "Stadt- und Regionalbibliothek Erfurt",
       "location_address": "Am Domplatz 1 99111 Erfurt Deutschland",
-      "page_url": "/kalender/reinhard-stckel-liest-aus-brensommer"
+      "page_url": "https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-brensommer"
     },
     {
       "title": "Lesung Reinhard Stöckel aus \"Bärensommer\"",
@@ -133,7 +133,7 @@
       "end_date": "2022-09-04T16:00:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/lesung-reinhard-stckel-aus-brensommer"
+      "page_url": "https://www.muerysalzmann.com/kalender/lesung-reinhard-stckel-aus-brensommer"
     },
     {
       "title": "Reinhard Stöckel liest aus \"Bärensommer\"",
@@ -141,7 +141,7 @@
       "end_date": "2022-09-22T16:00:00+0200",
       "location_name": "Bücherei Sandow",
       "location_address": "1 Muskauer Straße Cottbus, BB, 03042 Deutschland",
-      "page_url": "/kalender/reinhard-stckel-liest-aus-brensommer-1"
+      "page_url": "https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-brensommer-1"
     },
     {
       "title": "Lesung Reinhard Stöckel aus \"Bärensommer\"",
@@ -149,7 +149,7 @@
       "end_date": "2023-04-21T19:00:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/lesung-reinhard-stckel-aus-brensommer-1"
+      "page_url": "https://www.muerysalzmann.com/kalender/lesung-reinhard-stckel-aus-brensommer-1"
     },
     {
       "title": "Reinhard Stöckel liest aus \"Bärensommer\"",
@@ -157,7 +157,7 @@
       "end_date": "2023-09-08T17:00:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/reinhard-stckel-liest-aus-brensommer-2"
+      "page_url": "https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-brensommer-2"
     },
     {
       "title": "Reinhard Stöckel liest aus \"Bärensommer\"",
@@ -165,7 +165,7 @@
       "end_date": "2023-10-27T20:00:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/reinhard-stckel-liest-aus-brensommer-3"
+      "page_url": "https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-brensommer-3"
     },
     {
       "title": "Reinhard Stöckel liest aus \"Bärensommer\"",
@@ -173,7 +173,7 @@
       "end_date": "2023-11-30T19:00:00+0100",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/reinhard-stckel-liest-aus-brensommer-4"
+      "page_url": "https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-brensommer-4"
     },
     {
       "title": "Reinhard Stöckel liest aus \"Bärensommer\"",
@@ -181,10 +181,10 @@
       "end_date": "2024-10-19T17:00:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/reinhard-stckel-liest-aus-brensommer-5"
+      "page_url": "https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-brensommer-5"
     }
   ],
-  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/reinhard-stockel.jpg\" alt=\"Reinhard Stöckel\" width=\"300\"></div><div><h1>Reinhard Stöckel</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1956, lebt in der Niederlausitz nahe Cottbus. Gelernter Bibliothekar, studierte am Leipziger Literaturinstitut, arbeitete u.a. als Gießereimitarbeiter und Publizist, gegenwärtig im IT-Service tätig. Er schreibt Romane, Kurzgeschichten, Theaterstücke und Kinderbücher. Sein Roman \"Der Lavagänger\" erschien 2009 im Aufbau Verlag.</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/baerensommer\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/620f76acb0d547450bb3f803/1768657023307/ba%CC%88rensommer_mockup.png?format=1500w\" alt=\"Bärensommer\" loading=\"lazy\"></div><div class=\"demo-book-title\">Bärensommer</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/der-mongole\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e78b07564f35a2e28a18319/1768657023318/mongole_mockup.png?format=1500w\" alt=\"Der Mongole\" loading=\"lazy\"></div><div class=\"demo-book-title\">Der Mongole</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/kupfersonne\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e78abe964f35a2e28a102a6/1768657023313/kupfersonne_mockup.png?format=1500w\" alt=\"Kupfersonne\" loading=\"lazy\"></div><div class=\"demo-book-title\">Kupfersonne</div><div class=\"demo-book-price\">29.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/mein-proust-moment\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b63c5763c4315e5efdf51e/1768657023275/Mein+Proust+Moment.png?format=1500w\" alt=\"Mein Proust-Moment\" loading=\"lazy\"></div><div class=\"demo-book-title\">Mein Proust-Moment</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/westoestliche-couch\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5ec4fd1ec35021712aa69ecb/1768657023323/westo%CC%88stliche_couch_mockup.png?format=1500w\" alt=\"Westöstliche Couch\" loading=\"lazy\"></div><div class=\"demo-book-title\">Westöstliche Couch</div><div class=\"demo-book-price\">19.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">12.11.2020 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchpremiere-weststliche-couch-ein-literarisches-alphabet\">LEIDER ABGESAGT --- Buchpremiere \"Westöstliche Couch. Ein literarisches Alphabet\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">15.02.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-kupfersonne-von-reinhard-stckel\">ABGESAGT - Buchpräsentation \"Kupfersonne\" von Reinhard Stöckel</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">19.08.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/autorenlesung-weststliche-couch-ein-literarisches-alphabet\">Autorenlesung \"Westöstliche Couch: ein literarisches Alphabet\"</a></div><div class=\"demo-event-loc\">Galerie Brandenburg</div></div></li><li><div class=\"demo-event-date\">04.09.2021 &middot; 15:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/reinhard-liest-aus-weststliche-couch\">Reinhard Stöckel liest aus \"Westöstliche Couch\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">09.09.2021 &middot; 15:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/reinhard-stckel-liest-aus-kupfersonne\">Reinhard Stöckel liest aus \"Kupfersonne\"</a></div><div class=\"demo-event-loc\">Bücherei Sandow</div></div></li><li><div class=\"demo-event-date\">16.09.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-reinhard-stckel\">Lesung Reinhard Stöckel</a></div><div class=\"demo-event-loc\">extrazimmer</div></div></li><li><div class=\"demo-event-date\">22.10.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/reinhard-stckel-liest-aus-kupfersonne-1\">Reinhard Stöckel liest aus \"Kupfersonne\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.04.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/kathrin-gro-striffler-und-reinhard-stckel-lesen-aus-weststliche-couch\">Kathrin Groß-Striffler und Reinhard Stöckel lesen aus \"Westöstliche Couch\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">04.05.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchpremiere-brensommer-von-reinhard-stckel\">Buchpremiere \"Bärensommer\" von Reinhard Stöckel</a></div><div class=\"demo-event-loc\">Lesezentrum Cottbus</div></div></li><li><div class=\"demo-event-date\">08.06.2022 &middot; 16:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/reinhard-stckel-liest-aus-brensommer\">Reinhard Stöckel liest aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\">Stadt- und Regionalbibliothek Erfurt</div></div></li><li><div class=\"demo-event-date\">04.09.2022 &middot; 15:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-reinhard-stckel-aus-brensommer\">Lesung Reinhard Stöckel aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.09.2022 &middot; 15:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/reinhard-stckel-liest-aus-brensommer-1\">Reinhard Stöckel liest aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\">Bücherei Sandow</div></div></li><li><div class=\"demo-event-date\">21.04.2023 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-reinhard-stckel-aus-brensommer-1\">Lesung Reinhard Stöckel aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">08.09.2023 &middot; 16:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/reinhard-stckel-liest-aus-brensommer-2\">Reinhard Stöckel liest aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">27.10.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/reinhard-stckel-liest-aus-brensommer-3\">Reinhard Stöckel liest aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">30.11.2023 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/reinhard-stckel-liest-aus-brensommer-4\">Reinhard Stöckel liest aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">19.10.2024 &middot; 16:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/reinhard-stckel-liest-aus-brensommer-5\">Reinhard Stöckel liest aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\"></div></div></li></ul></div>",
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/reinhard-stockel.jpg\" alt=\"Reinhard Stöckel\" width=\"300\"></div><div><h1>Reinhard Stöckel</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1956, lebt in der Niederlausitz nahe Cottbus. Gelernter Bibliothekar, studierte am Leipziger Literaturinstitut, arbeitete u.a. als Gießereimitarbeiter und Publizist, gegenwärtig im IT-Service tätig. Er schreibt Romane, Kurzgeschichten, Theaterstücke und Kinderbücher. Sein Roman \"Der Lavagänger\" erschien 2009 im Aufbau Verlag.</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/baerensommer\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/620f76acb0d547450bb3f803/1768657023307/ba%CC%88rensommer_mockup.png?format=1500w\" alt=\"Bärensommer\" loading=\"lazy\"></div><div class=\"demo-book-title\">Bärensommer</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/der-mongole\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e78b07564f35a2e28a18319/1768657023318/mongole_mockup.png?format=1500w\" alt=\"Der Mongole\" loading=\"lazy\"></div><div class=\"demo-book-title\">Der Mongole</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/kupfersonne\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e78abe964f35a2e28a102a6/1768657023313/kupfersonne_mockup.png?format=1500w\" alt=\"Kupfersonne\" loading=\"lazy\"></div><div class=\"demo-book-title\">Kupfersonne</div><div class=\"demo-book-price\">29.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/mein-proust-moment\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b63c5763c4315e5efdf51e/1768657023275/Mein+Proust+Moment.png?format=1500w\" alt=\"Mein Proust-Moment\" loading=\"lazy\"></div><div class=\"demo-book-title\">Mein Proust-Moment</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/westoestliche-couch\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5ec4fd1ec35021712aa69ecb/1768657023323/westo%CC%88stliche_couch_mockup.png?format=1500w\" alt=\"Westöstliche Couch\" loading=\"lazy\"></div><div class=\"demo-book-title\">Westöstliche Couch</div><div class=\"demo-book-price\">19.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">12.11.2020 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/buchpremiere-weststliche-couch-ein-literarisches-alphabet\">LEIDER ABGESAGT --- Buchpremiere \"Westöstliche Couch. Ein literarisches Alphabet\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">15.02.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/buchprsentation-kupfersonne-von-reinhard-stckel\">ABGESAGT - Buchpräsentation \"Kupfersonne\" von Reinhard Stöckel</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">19.08.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/autorenlesung-weststliche-couch-ein-literarisches-alphabet\">Autorenlesung \"Westöstliche Couch: ein literarisches Alphabet\"</a></div><div class=\"demo-event-loc\">Galerie Brandenburg</div></div></li><li><div class=\"demo-event-date\">04.09.2021 &middot; 15:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/reinhard-liest-aus-weststliche-couch\">Reinhard Stöckel liest aus \"Westöstliche Couch\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">09.09.2021 &middot; 15:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-kupfersonne\">Reinhard Stöckel liest aus \"Kupfersonne\"</a></div><div class=\"demo-event-loc\">Bücherei Sandow</div></div></li><li><div class=\"demo-event-date\">16.09.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/lesung-reinhard-stckel\">Lesung Reinhard Stöckel</a></div><div class=\"demo-event-loc\">extrazimmer</div></div></li><li><div class=\"demo-event-date\">22.10.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-kupfersonne-1\">Reinhard Stöckel liest aus \"Kupfersonne\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.04.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/kathrin-gro-striffler-und-reinhard-stckel-lesen-aus-weststliche-couch\">Kathrin Groß-Striffler und Reinhard Stöckel lesen aus \"Westöstliche Couch\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">04.05.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/buchpremiere-brensommer-von-reinhard-stckel\">Buchpremiere \"Bärensommer\" von Reinhard Stöckel</a></div><div class=\"demo-event-loc\">Lesezentrum Cottbus</div></div></li><li><div class=\"demo-event-date\">08.06.2022 &middot; 16:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-brensommer\">Reinhard Stöckel liest aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\">Stadt- und Regionalbibliothek Erfurt</div></div></li><li><div class=\"demo-event-date\">04.09.2022 &middot; 15:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/lesung-reinhard-stckel-aus-brensommer\">Lesung Reinhard Stöckel aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.09.2022 &middot; 15:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-brensommer-1\">Reinhard Stöckel liest aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\">Bücherei Sandow</div></div></li><li><div class=\"demo-event-date\">21.04.2023 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/lesung-reinhard-stckel-aus-brensommer-1\">Lesung Reinhard Stöckel aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">08.09.2023 &middot; 16:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-brensommer-2\">Reinhard Stöckel liest aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">27.10.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-brensommer-3\">Reinhard Stöckel liest aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">30.11.2023 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-brensommer-4\">Reinhard Stöckel liest aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">19.10.2024 &middot; 16:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/reinhard-stckel-liest-aus-brensommer-5\">Reinhard Stöckel liest aus \"Bärensommer\"</a></div><div class=\"demo-event-loc\"></div></div></li></ul></div>",
   "meta": {
     "title": "Reinhard Stöckel · Müry Salzmann Verlag",
     "description": "geboren 1956, lebt in der Niederlausitz nahe Cottbus. Gelernter Bibliothekar, studierte am Leipziger Literaturinstitut, arbeitete u.a. als Gießereimitarbeiter und Publizist, gegenwärtig im…"

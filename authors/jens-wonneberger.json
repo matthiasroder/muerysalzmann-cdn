@@ -11,7 +11,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-218-9",
-      "page_url": "/belletristik/flug-der-flamingos"
+      "page_url": "https://www.muerysalzmann.com/belletristik/flug-der-flamingos"
     },
     {
       "title": "Goetheallee",
@@ -19,7 +19,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-101-4",
-      "page_url": "/belletristik/goetheallee"
+      "page_url": "https://www.muerysalzmann.com/belletristik/goetheallee"
     },
     {
       "title": "Himmelreich",
@@ -27,7 +27,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-128-1",
-      "page_url": "/belletristik/himmelreich"
+      "page_url": "https://www.muerysalzmann.com/belletristik/himmelreich"
     },
     {
       "title": "Inventur – Jens Wonnebergers Buch über die Spuren der Zeit",
@@ -35,7 +35,7 @@
       "price": 22.0,
       "currency": "EUR",
       "isbn": "978-3-99014-311-7",
-      "page_url": "/belletristik/inventur"
+      "page_url": "https://www.muerysalzmann.com/belletristik/inventur"
     },
     {
       "title": "Mein Proust-Moment",
@@ -43,7 +43,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-221-9",
-      "page_url": "/belletristik/mein-proust-moment"
+      "page_url": "https://www.muerysalzmann.com/belletristik/mein-proust-moment"
     },
     {
       "title": "Meine stille Nacht",
@@ -51,7 +51,7 @@
       "price": 24.0,
       "currency": "EUR",
       "isbn": "978-3-99014-236-2",
-      "page_url": "/belletristik/meine-stille-nacht-sa6fx"
+      "page_url": "https://www.muerysalzmann.com/belletristik/meine-stille-nacht-sa6fx"
     },
     {
       "title": "Mission Pflaumenbaum",
@@ -59,7 +59,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-194-6",
-      "page_url": "/belletristik/mission-pflaumenbaum"
+      "page_url": "https://www.muerysalzmann.com/belletristik/mission-pflaumenbaum"
     },
     {
       "title": "Pension Seeparadies",
@@ -67,7 +67,7 @@
       "price": 24.0,
       "currency": "EUR",
       "isbn": "978-3-99014-255-4",
-      "page_url": "/belletristik/pension-seeparadies"
+      "page_url": "https://www.muerysalzmann.com/belletristik/pension-seeparadies"
     },
     {
       "title": "Sprich oder stirb",
@@ -75,7 +75,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-155-7",
-      "page_url": "/belletristik/sprich-oder-stirb"
+      "page_url": "https://www.muerysalzmann.com/belletristik/sprich-oder-stirb"
     },
     {
       "title": "Weltliteratur",
@@ -83,7 +83,7 @@
       "price": 22.0,
       "currency": "EUR",
       "isbn": "978-3-99014-240-0",
-      "page_url": "/belletristik/weltliteratur"
+      "page_url": "https://www.muerysalzmann.com/belletristik/weltliteratur"
     }
   ],
   "events": [
@@ -93,7 +93,7 @@
       "end_date": "2020-02-13T21:00:00+0100",
       "location_name": "Buchhandlung Lessing & Kompanie",
       "location_address": "8 Franz-Mehring-Straße Chemnitz, SN, 09112 Deutschland",
-      "page_url": "/kalender/jens-wonneberger-liet-aus-mission-pflaumenbaum"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liet-aus-mission-pflaumenbaum"
     },
     {
       "title": "Jens Wonneberger liest in Wien",
@@ -101,7 +101,7 @@
       "end_date": "2020-02-25T20:00:00+0100",
       "location_name": "Hauptbücherei Wien",
       "location_address": "Urban-Loritz-Platz Wien, Wien, 1070 Österreich",
-      "page_url": "/kalender/jens-wonneberger-liet-in-wien"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liet-in-wien"
     },
     {
       "title": "Jens Wonneberger ließt aus \"Mission Pflaumenbaum\"",
@@ -109,7 +109,7 @@
       "end_date": "2020-03-04T20:00:00+0100",
       "location_name": "Schloss Pulsnitz",
       "location_address": "Wittgensteiner Straße 1 Pulsnitz, SN, 01896 Deutschland",
-      "page_url": "/kalender/jens-wonneberger-liet-aus-mission-pflaumenbaum-1"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liet-aus-mission-pflaumenbaum-1"
     },
     {
       "title": "Longlist-Abend im Literaturhaus Hamburg",
@@ -117,7 +117,7 @@
       "end_date": "2020-08-31T22:00:00+0200",
       "location_name": "Freie Akademie der Künste",
       "location_address": "Hamburg Deutschland",
-      "page_url": "/kalender/longlist-abend-im-literaturhaus-hamburg"
+      "page_url": "https://www.muerysalzmann.com/kalender/longlist-abend-im-literaturhaus-hamburg"
     },
     {
       "title": "Lesung Jens Wonneberger",
@@ -125,7 +125,7 @@
       "end_date": "2020-09-03T20:30:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/lesung-jens-wonneberger"
+      "page_url": "https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger"
     },
     {
       "title": "Jens Wonneberger liest aus \"Mission Pflaumenbaum\"",
@@ -133,7 +133,7 @@
       "end_date": "2020-10-29T21:00:00+0100",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum"
     },
     {
       "title": "Jens Wonneberger liest aus \"Mission Pflaumenbaum\"",
@@ -141,7 +141,7 @@
       "end_date": "2020-11-21T21:00:00+0100",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-1"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-1"
     },
     {
       "title": "Tandem-Lesung: Thomas Kunst und Jens Wonneberger erzählen Dorfgeschichten zwischen Misere und Paradies",
@@ -149,7 +149,7 @@
       "end_date": "2021-04-14T20:30:00+0200",
       "location_name": "Zentralbibliothek im Kulturpalast",
       "location_address": "Schlossstraße 2 01067 Dresden Deutschland",
-      "page_url": "/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-2"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-2"
     },
     {
       "title": "Jens Wonneberger liest aus \"Mission Pflaumenbaum\"",
@@ -157,7 +157,7 @@
       "end_date": "2021-09-07T20:00:00+0200",
       "location_name": "Stadtbibliothek Chemnitz",
       "location_address": "Moritzstraße 20 09111 Chemnitz Deutschland",
-      "page_url": "/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-4"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-4"
     },
     {
       "title": "Jens Wonneberger liest aus \"Mission Pflaumenbaum\"",
@@ -165,7 +165,7 @@
       "end_date": "2021-09-08T20:00:00+0200",
       "location_name": "Bibliothek Langebrück",
       "location_address": "Hauptstraße 4 01465 Dresden Deutschland",
-      "page_url": "/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-3"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-3"
     },
     {
       "title": "Lesung Jens Wonneberger \"Flug der Flamingos\"",
@@ -173,7 +173,7 @@
       "end_date": "2021-09-15T20:00:00+0200",
       "location_name": "Stadtbibliothek Bautzen",
       "location_address": "Schloßstraße 12 02625 Bautzen Deutschland",
-      "page_url": "/kalender/lesung-jens-wonneberger-flug-der-flamingos"
+      "page_url": "https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-flug-der-flamingos"
     },
     {
       "title": "Lesung Jens Wonneberger \"Flug der Flamingos\"",
@@ -181,7 +181,7 @@
       "end_date": "2021-09-29T20:00:00+0200",
       "location_name": "Erich Kästner Haus für Literatur",
       "location_address": "1 Antonstraße Dresden, SN, 01097 Deutschland",
-      "page_url": "/kalender/lesung-jens-wonneberger-flug-der-flamingos-1"
+      "page_url": "https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-flug-der-flamingos-1"
     },
     {
       "title": "Jens Wonneberger zu Gast im \"Buchsalon\" Leipzig",
@@ -189,7 +189,7 @@
       "end_date": "2021-10-28T20:30:00+0200",
       "location_name": "Moritzbastei Leipzig",
       "location_address": "1 Kurt-Masur-Platz Leipzig, SN, 04109 Deutschland",
-      "page_url": "/kalender/jens-wonneberger-zu-gast-im-buchsalon-leipzig"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-zu-gast-im-buchsalon-leipzig"
     },
     {
       "title": "Jens Wonneberger liest aus \"Mission Pflaumenbaum\"",
@@ -197,7 +197,7 @@
       "end_date": "2021-11-04T20:00:00+0100",
       "location_name": "Buchhandlung Metzing",
       "location_address": "Breite Straße 2a 38486 Klötze Deutschland",
-      "page_url": "/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-5"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-5"
     },
     {
       "title": "Jens Wonneberger liest aus \"Mission Pflaumenbaum\"",
@@ -205,7 +205,7 @@
       "end_date": "2021-11-05T20:00:00+0100",
       "location_name": "Gut Zichtau",
       "location_address": "Am Gutshof 2 39638 Gardelegen Deutschland",
-      "page_url": "/kalender/rs9agk4p6y56kcleh2wxfxjnplt7jw"
+      "page_url": "https://www.muerysalzmann.com/kalender/rs9agk4p6y56kcleh2wxfxjnplt7jw"
     },
     {
       "title": "Jens Wonneberger liest aus \"Flug der Flamingos\"",
@@ -213,7 +213,7 @@
       "end_date": "2022-01-31T18:00:00+0100",
       "location_name": "Bibliothek Blaswitz",
       "location_address": "8 Tolkewitzer Straße Dresden, SN, 01277 Deutschland",
-      "page_url": "/kalender/jens-wonneberger-liest-aus-flug-der-flamingos"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-flug-der-flamingos"
     },
     {
       "title": "Eleonora Hummel, Jens Wonneberger und Yvonne Zitzmann lesen beim Lesefestival \"Literatur auf der Parkbank\" in Cottbus",
@@ -221,7 +221,7 @@
       "end_date": "2022-09-04T17:00:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/eleonora-hummel-jens-wonneberger-und-yvonne-zitzmann-lesen-beim-lesefestival-literatur-auf-der-parkbank-in-cottbus"
+      "page_url": "https://www.muerysalzmann.com/kalender/eleonora-hummel-jens-wonneberger-und-yvonne-zitzmann-lesen-beim-lesefestival-literatur-auf-der-parkbank-in-cottbus"
     },
     {
       "title": "Lesung Jens Wonneberger aus \"Flug der Flamingos\"",
@@ -229,7 +229,7 @@
       "end_date": "2022-10-18T20:00:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/lesung-jens-wonneberger-aus-flug-der-flamingos"
+      "page_url": "https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-aus-flug-der-flamingos"
     },
     {
       "title": "Buchpräsentation \"Meine stille Nacht\"",
@@ -237,7 +237,7 @@
       "end_date": "2022-11-02T21:00:00+0100",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/buchprsentation-meine-stille-nacht"
+      "page_url": "https://www.muerysalzmann.com/kalender/buchprsentation-meine-stille-nacht"
     },
     {
       "title": "Lesung Jens Wonneberger aus \"Flug der Flamingos\"",
@@ -245,7 +245,7 @@
       "end_date": "2022-11-10T20:00:00+0100",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/lesung-jens-wonneberger-aus-flug-der-flamingos-1"
+      "page_url": "https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-aus-flug-der-flamingos-1"
     },
     {
       "title": "Lesung Jens Wonneberger aus \"Flug der Flamingos\"",
@@ -253,7 +253,7 @@
       "end_date": "2022-11-11T20:00:00+0100",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/lesung-jens-wonneberger-aus-flug-der-flamingos-2"
+      "page_url": "https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-aus-flug-der-flamingos-2"
     },
     {
       "title": "Lesung Jens Wonneberger \"Flug der Flamingos\"",
@@ -261,7 +261,7 @@
       "end_date": "2022-11-18T20:00:00+0100",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/lesung-jens-wonneberger-flug-der-flamingos-2"
+      "page_url": "https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-flug-der-flamingos-2"
     },
     {
       "title": "Jens Wonneberger liest aus \"Flug der Flamingos\"",
@@ -269,7 +269,7 @@
       "end_date": "2022-11-29T20:00:00+0100",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/jens-wonneberger-liest-aus-flug-der-flamingos-1"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-flug-der-flamingos-1"
     },
     {
       "title": "Buchpremiere Jens Wonneberger \"Weltliteratur. Kleine Prosa\"",
@@ -277,7 +277,7 @@
       "end_date": "2023-03-22T20:00:00+0100",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/buchpremiere-jens-wonneberger-weltliteratur-kleine-prosa"
+      "page_url": "https://www.muerysalzmann.com/kalender/buchpremiere-jens-wonneberger-weltliteratur-kleine-prosa"
     },
     {
       "title": "Lesung Jens Wonneberger",
@@ -285,7 +285,7 @@
       "end_date": "2023-03-24T20:00:00+0100",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/lesung-jens-wonneberger-1"
+      "page_url": "https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-1"
     },
     {
       "title": "Jens Wonneberger liest aus \"Weltliteratur\"",
@@ -293,7 +293,7 @@
       "end_date": "2023-04-28T20:30:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/jens-wonneberger-liest-aus-weltliteratur"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-weltliteratur"
     },
     {
       "title": "Jens Wonneberger liest aus \"Weltliteratur\"",
@@ -301,7 +301,7 @@
       "end_date": "2023-05-11T20:30:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/jens-wonneberger-liest-aus-weltliteratur-1"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-weltliteratur-1"
     },
     {
       "title": "Jens Wonneberger liest aus \"Weltliteratur\"",
@@ -309,7 +309,7 @@
       "end_date": "2023-09-13T20:00:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/jens-wonneberger-liest-aus-weltliteratur-2"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-weltliteratur-2"
     },
     {
       "title": "Buchpräsentation Jens Wonneberger \"Pension Seeparadies\" - Leipzig liest",
@@ -317,7 +317,7 @@
       "end_date": "2024-03-22T20:00:00+0100",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/buchprsentation-jens-wonneberger-pension-seeparadies-leipzig-liest"
+      "page_url": "https://www.muerysalzmann.com/kalender/buchprsentation-jens-wonneberger-pension-seeparadies-leipzig-liest"
     },
     {
       "title": "Jens Wonneberger liest aus \"Weltliteratur\"",
@@ -325,7 +325,7 @@
       "end_date": "2025-11-01T18:00:00+0100",
       "location_name": "Müry Salzmann Verlag",
       "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
-      "page_url": "/kalender/jens-wonneberger-liest-aus-weltliteratur-3"
+      "page_url": "https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-weltliteratur-3"
     },
     {
       "title": "Buchpremiere Jens Wonneberger \"Inventur\"",
@@ -333,7 +333,7 @@
       "end_date": "2026-03-24T20:00:00+0100",
       "location_name": "Müry Salzmann Verlag",
       "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
-      "page_url": "/kalender/buchpremiere-jens-wonneberger-inventur"
+      "page_url": "https://www.muerysalzmann.com/kalender/buchpremiere-jens-wonneberger-inventur"
     },
     {
       "title": "Lesung Jens Wonneberger aus \"Inventur\"",
@@ -341,10 +341,10 @@
       "end_date": "2026-05-07T20:30:00+0200",
       "location_name": "Müry Salzmann Verlag",
       "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
-      "page_url": "/kalender/lesung-jens-wonneberger-aus-inventur"
+      "page_url": "https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-aus-inventur"
     }
   ],
-  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/jens-wonneberger.jpg\" alt=\"Jens Wonneberger\" width=\"300\"></div><div><h1>Jens Wonneberger</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1960, lebt in Dresden. Er studierte zunächst Bauingenieurwesen und arbeitete anschließend als Reinigungskraft und Verkäufer. Seit 1992 ist er freiberuflicher Autor und Redakteur. Diverse Stipendien, 2010 Sächsischer Literaturpreis. Zahlreiche Romane, Erzählungen und Sachbücher. Zuletzt erschienen „Gegenüber brennt noch Licht“ (2008), „Heimatkunde Dresden“ (2009) und „Sture Hunde“ (2011).</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/flug-der-flamingos\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b7453b67f6f9386d5091bf/1768657023392/flamingos_mockup.png?format=1500w\" alt=\"Flug der Flamingos\" loading=\"lazy\"></div><div class=\"demo-book-title\">Flug der Flamingos</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/goetheallee\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a29c17fff240f38debeb7/1768657023420/goetheallee_mockup.png?format=1500w\" alt=\"Goetheallee\" loading=\"lazy\"></div><div class=\"demo-book-title\">Goetheallee</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/himmelreich\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5f5b45961cb85e0e1e94029f/1768657023413/himmelreich_mockup.png?format=1500w\" alt=\"Himmelreich\" loading=\"lazy\"></div><div class=\"demo-book-title\">Himmelreich</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/inventur\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/696b8b8f8ba9cc37241a880c/1768655688931/inventur-mockup.png?format=1500w\" alt=\"Inventur – Jens Wonnebergers Buch über die Spuren der Zeit\" loading=\"lazy\"></div><div class=\"demo-book-title\">Inventur – Jens Wonnebergers Buch über die Spuren der Zeit</div><div class=\"demo-book-price\">22.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/mein-proust-moment\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b63c5763c4315e5efdf51e/1768657023275/Mein+Proust+Moment.png?format=1500w\" alt=\"Mein Proust-Moment\" loading=\"lazy\"></div><div class=\"demo-book-title\">Mein Proust-Moment</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/meine-stille-nacht-sa6fx\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/6321965c3c369e69eb0af3aa/1768657023264/Meine+Stille+Nacht+MockUp+.png?format=1500w\" alt=\"Meine stille Nacht\" loading=\"lazy\"></div><div class=\"demo-book-title\">Meine stille Nacht</div><div class=\"demo-book-price\">24.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/mission-pflaumenbaum\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a2979546770734827414b/1768657023403/pflaumenbaum_mockup.png?format=1500w\" alt=\"Mission Pflaumenbaum\" loading=\"lazy\"></div><div class=\"demo-book-title\">Mission Pflaumenbaum</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/pension-seeparadies\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/659c21b03d6c88134820100d/1768657023175/Pension+Seeparadies+MockUp.png?format=1500w\" alt=\"Pension Seeparadies\" loading=\"lazy\"></div><div class=\"demo-book-title\">Pension Seeparadies</div><div class=\"demo-book-price\">24.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/sprich-oder-stirb\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5f5b502cd4235a311583c253/1768657023408/sprich-oder-stirb_mockup.png?format=1500w\" alt=\"Sprich oder stirb\" loading=\"lazy\"></div><div class=\"demo-book-title\">Sprich oder stirb</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/weltliteratur\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/63da636dfdb25e0cd984f50f/1768657023387/weltliteratur_mockup.png?format=1500w\" alt=\"Weltliteratur\" loading=\"lazy\"></div><div class=\"demo-book-title\">Weltliteratur</div><div class=\"demo-book-price\">22.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">13.02.2020 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liet-aus-mission-pflaumenbaum\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\">Buchhandlung Lessing & Kompanie</div></div></li><li><div class=\"demo-event-date\">25.02.2020 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liet-in-wien\">Jens Wonneberger liest in Wien</a></div><div class=\"demo-event-loc\">Hauptbücherei Wien</div></div></li><li><div class=\"demo-event-date\">04.03.2020 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liet-aus-mission-pflaumenbaum-1\">Jens Wonneberger ließt aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\">Schloss Pulsnitz</div></div></li><li><div class=\"demo-event-date\">31.08.2020 &middot; 18:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/longlist-abend-im-literaturhaus-hamburg\">Longlist-Abend im Literaturhaus Hamburg</a></div><div class=\"demo-event-loc\">Freie Akademie der Künste</div></div></li><li><div class=\"demo-event-date\">03.09.2020 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-jens-wonneberger\">Lesung Jens Wonneberger</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">29.10.2020 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">21.11.2020 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-1\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">14.04.2021 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-2\">Tandem-Lesung: Thomas Kunst und Jens Wonneberger erzählen Dorfgeschichten zwischen Misere und Paradies</a></div><div class=\"demo-event-loc\">Zentralbibliothek im Kulturpalast</div></div></li><li><div class=\"demo-event-date\">07.09.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-4\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\">Stadtbibliothek Chemnitz</div></div></li><li><div class=\"demo-event-date\">08.09.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-3\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\">Bibliothek Langebrück</div></div></li><li><div class=\"demo-event-date\">15.09.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-jens-wonneberger-flug-der-flamingos\">Lesung Jens Wonneberger \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\">Stadtbibliothek Bautzen</div></div></li><li><div class=\"demo-event-date\">29.09.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-jens-wonneberger-flug-der-flamingos-1\">Lesung Jens Wonneberger \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\">Erich Kästner Haus für Literatur</div></div></li><li><div class=\"demo-event-date\">28.10.2021 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-zu-gast-im-buchsalon-leipzig\">Jens Wonneberger zu Gast im \"Buchsalon\" Leipzig</a></div><div class=\"demo-event-loc\">Moritzbastei Leipzig</div></div></li><li><div class=\"demo-event-date\">04.11.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-5\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\">Buchhandlung Metzing</div></div></li><li><div class=\"demo-event-date\">05.11.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/rs9agk4p6y56kcleh2wxfxjnplt7jw\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\">Gut Zichtau</div></div></li><li><div class=\"demo-event-date\">31.01.2022 &middot; 17:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liest-aus-flug-der-flamingos\">Jens Wonneberger liest aus \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\">Bibliothek Blaswitz</div></div></li><li><div class=\"demo-event-date\">03.09.2022 &middot; 13:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/eleonora-hummel-jens-wonneberger-und-yvonne-zitzmann-lesen-beim-lesefestival-literatur-auf-der-parkbank-in-cottbus\">Eleonora Hummel, Jens Wonneberger und Yvonne Zitzmann lesen beim Lesefestival \"Literatur auf der Parkbank\" in Cottbus</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">18.10.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-jens-wonneberger-aus-flug-der-flamingos\">Lesung Jens Wonneberger aus \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">02.11.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-meine-stille-nacht\">Buchpräsentation \"Meine stille Nacht\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">10.11.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-jens-wonneberger-aus-flug-der-flamingos-1\">Lesung Jens Wonneberger aus \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">11.11.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-jens-wonneberger-aus-flug-der-flamingos-2\">Lesung Jens Wonneberger aus \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">18.11.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-jens-wonneberger-flug-der-flamingos-2\">Lesung Jens Wonneberger \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">29.11.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liest-aus-flug-der-flamingos-1\">Jens Wonneberger liest aus \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.03.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchpremiere-jens-wonneberger-weltliteratur-kleine-prosa\">Buchpremiere Jens Wonneberger \"Weltliteratur. Kleine Prosa\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">24.03.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-jens-wonneberger-1\">Lesung Jens Wonneberger</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">28.04.2023 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liest-aus-weltliteratur\">Jens Wonneberger liest aus \"Weltliteratur\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">11.05.2023 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liest-aus-weltliteratur-1\">Jens Wonneberger liest aus \"Weltliteratur\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">13.09.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liest-aus-weltliteratur-2\">Jens Wonneberger liest aus \"Weltliteratur\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.03.2024 &middot; 18:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-jens-wonneberger-pension-seeparadies-leipzig-liest\">Buchpräsentation Jens Wonneberger \"Pension Seeparadies\" - Leipzig liest</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">01.11.2025 &middot; 17:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/jens-wonneberger-liest-aus-weltliteratur-3\">Jens Wonneberger liest aus \"Weltliteratur\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">24.03.2026 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchpremiere-jens-wonneberger-inventur\">Buchpremiere Jens Wonneberger \"Inventur\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">07.05.2026 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-jens-wonneberger-aus-inventur\">Lesung Jens Wonneberger aus \"Inventur\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li></ul></div>",
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/jens-wonneberger.jpg\" alt=\"Jens Wonneberger\" width=\"300\"></div><div><h1>Jens Wonneberger</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1960, lebt in Dresden. Er studierte zunächst Bauingenieurwesen und arbeitete anschließend als Reinigungskraft und Verkäufer. Seit 1992 ist er freiberuflicher Autor und Redakteur. Diverse Stipendien, 2010 Sächsischer Literaturpreis. Zahlreiche Romane, Erzählungen und Sachbücher. Zuletzt erschienen „Gegenüber brennt noch Licht“ (2008), „Heimatkunde Dresden“ (2009) und „Sture Hunde“ (2011).</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/flug-der-flamingos\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b7453b67f6f9386d5091bf/1768657023392/flamingos_mockup.png?format=1500w\" alt=\"Flug der Flamingos\" loading=\"lazy\"></div><div class=\"demo-book-title\">Flug der Flamingos</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/goetheallee\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a29c17fff240f38debeb7/1768657023420/goetheallee_mockup.png?format=1500w\" alt=\"Goetheallee\" loading=\"lazy\"></div><div class=\"demo-book-title\">Goetheallee</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/himmelreich\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5f5b45961cb85e0e1e94029f/1768657023413/himmelreich_mockup.png?format=1500w\" alt=\"Himmelreich\" loading=\"lazy\"></div><div class=\"demo-book-title\">Himmelreich</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/inventur\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/696b8b8f8ba9cc37241a880c/1768655688931/inventur-mockup.png?format=1500w\" alt=\"Inventur – Jens Wonnebergers Buch über die Spuren der Zeit\" loading=\"lazy\"></div><div class=\"demo-book-title\">Inventur – Jens Wonnebergers Buch über die Spuren der Zeit</div><div class=\"demo-book-price\">22.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/mein-proust-moment\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b63c5763c4315e5efdf51e/1768657023275/Mein+Proust+Moment.png?format=1500w\" alt=\"Mein Proust-Moment\" loading=\"lazy\"></div><div class=\"demo-book-title\">Mein Proust-Moment</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/meine-stille-nacht-sa6fx\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/6321965c3c369e69eb0af3aa/1768657023264/Meine+Stille+Nacht+MockUp+.png?format=1500w\" alt=\"Meine stille Nacht\" loading=\"lazy\"></div><div class=\"demo-book-title\">Meine stille Nacht</div><div class=\"demo-book-price\">24.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/mission-pflaumenbaum\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a2979546770734827414b/1768657023403/pflaumenbaum_mockup.png?format=1500w\" alt=\"Mission Pflaumenbaum\" loading=\"lazy\"></div><div class=\"demo-book-title\">Mission Pflaumenbaum</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/pension-seeparadies\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/659c21b03d6c88134820100d/1768657023175/Pension+Seeparadies+MockUp.png?format=1500w\" alt=\"Pension Seeparadies\" loading=\"lazy\"></div><div class=\"demo-book-title\">Pension Seeparadies</div><div class=\"demo-book-price\">24.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/sprich-oder-stirb\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5f5b502cd4235a311583c253/1768657023408/sprich-oder-stirb_mockup.png?format=1500w\" alt=\"Sprich oder stirb\" loading=\"lazy\"></div><div class=\"demo-book-title\">Sprich oder stirb</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/weltliteratur\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/63da636dfdb25e0cd984f50f/1768657023387/weltliteratur_mockup.png?format=1500w\" alt=\"Weltliteratur\" loading=\"lazy\"></div><div class=\"demo-book-title\">Weltliteratur</div><div class=\"demo-book-price\">22.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">13.02.2020 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liet-aus-mission-pflaumenbaum\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\">Buchhandlung Lessing & Kompanie</div></div></li><li><div class=\"demo-event-date\">25.02.2020 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liet-in-wien\">Jens Wonneberger liest in Wien</a></div><div class=\"demo-event-loc\">Hauptbücherei Wien</div></div></li><li><div class=\"demo-event-date\">04.03.2020 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liet-aus-mission-pflaumenbaum-1\">Jens Wonneberger ließt aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\">Schloss Pulsnitz</div></div></li><li><div class=\"demo-event-date\">31.08.2020 &middot; 18:30</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/longlist-abend-im-literaturhaus-hamburg\">Longlist-Abend im Literaturhaus Hamburg</a></div><div class=\"demo-event-loc\">Freie Akademie der Künste</div></div></li><li><div class=\"demo-event-date\">03.09.2020 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger\">Lesung Jens Wonneberger</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">29.10.2020 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">21.11.2020 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-1\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">14.04.2021 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-2\">Tandem-Lesung: Thomas Kunst und Jens Wonneberger erzählen Dorfgeschichten zwischen Misere und Paradies</a></div><div class=\"demo-event-loc\">Zentralbibliothek im Kulturpalast</div></div></li><li><div class=\"demo-event-date\">07.09.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-4\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\">Stadtbibliothek Chemnitz</div></div></li><li><div class=\"demo-event-date\">08.09.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-3\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\">Bibliothek Langebrück</div></div></li><li><div class=\"demo-event-date\">15.09.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-flug-der-flamingos\">Lesung Jens Wonneberger \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\">Stadtbibliothek Bautzen</div></div></li><li><div class=\"demo-event-date\">29.09.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-flug-der-flamingos-1\">Lesung Jens Wonneberger \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\">Erich Kästner Haus für Literatur</div></div></li><li><div class=\"demo-event-date\">28.10.2021 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-zu-gast-im-buchsalon-leipzig\">Jens Wonneberger zu Gast im \"Buchsalon\" Leipzig</a></div><div class=\"demo-event-loc\">Moritzbastei Leipzig</div></div></li><li><div class=\"demo-event-date\">04.11.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-mission-pflaumenbaum-5\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\">Buchhandlung Metzing</div></div></li><li><div class=\"demo-event-date\">05.11.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/rs9agk4p6y56kcleh2wxfxjnplt7jw\">Jens Wonneberger liest aus \"Mission Pflaumenbaum\"</a></div><div class=\"demo-event-loc\">Gut Zichtau</div></div></li><li><div class=\"demo-event-date\">31.01.2022 &middot; 17:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-flug-der-flamingos\">Jens Wonneberger liest aus \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\">Bibliothek Blaswitz</div></div></li><li><div class=\"demo-event-date\">03.09.2022 &middot; 13:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/eleonora-hummel-jens-wonneberger-und-yvonne-zitzmann-lesen-beim-lesefestival-literatur-auf-der-parkbank-in-cottbus\">Eleonora Hummel, Jens Wonneberger und Yvonne Zitzmann lesen beim Lesefestival \"Literatur auf der Parkbank\" in Cottbus</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">18.10.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-aus-flug-der-flamingos\">Lesung Jens Wonneberger aus \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">02.11.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/buchprsentation-meine-stille-nacht\">Buchpräsentation \"Meine stille Nacht\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">10.11.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-aus-flug-der-flamingos-1\">Lesung Jens Wonneberger aus \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">11.11.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-aus-flug-der-flamingos-2\">Lesung Jens Wonneberger aus \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">18.11.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-flug-der-flamingos-2\">Lesung Jens Wonneberger \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">29.11.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-flug-der-flamingos-1\">Jens Wonneberger liest aus \"Flug der Flamingos\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.03.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/buchpremiere-jens-wonneberger-weltliteratur-kleine-prosa\">Buchpremiere Jens Wonneberger \"Weltliteratur. Kleine Prosa\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">24.03.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-1\">Lesung Jens Wonneberger</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">28.04.2023 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-weltliteratur\">Jens Wonneberger liest aus \"Weltliteratur\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">11.05.2023 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-weltliteratur-1\">Jens Wonneberger liest aus \"Weltliteratur\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">13.09.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-weltliteratur-2\">Jens Wonneberger liest aus \"Weltliteratur\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.03.2024 &middot; 18:30</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/buchprsentation-jens-wonneberger-pension-seeparadies-leipzig-liest\">Buchpräsentation Jens Wonneberger \"Pension Seeparadies\" - Leipzig liest</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">01.11.2025 &middot; 17:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/jens-wonneberger-liest-aus-weltliteratur-3\">Jens Wonneberger liest aus \"Weltliteratur\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">24.03.2026 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/buchpremiere-jens-wonneberger-inventur\">Buchpremiere Jens Wonneberger \"Inventur\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">07.05.2026 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/lesung-jens-wonneberger-aus-inventur\">Lesung Jens Wonneberger aus \"Inventur\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li></ul></div>",
   "meta": {
     "title": "Jens Wonneberger · Müry Salzmann Verlag",
     "description": "geboren 1960, lebt in Dresden. Er studierte zunächst Bauingenieurwesen und arbeitete anschließend als Reinigungskraft und Verkäufer. Seit 1992 ist er freiberuflicher Autor und Redakteur. Diverse…"

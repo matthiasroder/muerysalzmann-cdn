@@ -11,7 +11,7 @@
       "price": 48.0,
       "currency": "EUR",
       "isbn": "978-3-99014-021-5",
-      "page_url": "/kunst-architektur/arbeitsgruppe-4"
+      "page_url": "https://www.muerysalzmann.com/kunst-architektur/arbeitsgruppe-4"
     },
     {
       "title": "Aufrufe Zurufe Nachrufe",
@@ -19,7 +19,7 @@
       "price": 29.0,
       "currency": "EUR",
       "isbn": "978-3-99014-026-0",
-      "page_url": "/kunst-architektur/aufrufe-zurufe-nachrufe"
+      "page_url": "https://www.muerysalzmann.com/kunst-architektur/aufrufe-zurufe-nachrufe"
     },
     {
       "title": "Einige Projekte, Architekturtexte und Dergleichen",
@@ -27,7 +27,7 @@
       "price": 29.0,
       "currency": "EUR",
       "isbn": "978-3-99014-141-0",
-      "page_url": "/kunst-architektur/einige-projekte-architekturtexte-und-dergleichen"
+      "page_url": "https://www.muerysalzmann.com/kunst-architektur/einige-projekte-architekturtexte-und-dergleichen"
     },
     {
       "title": "Mehr und mehr komme ich weniger und weniger aus",
@@ -35,7 +35,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-043-7",
-      "page_url": "/kunst-architektur/die-nullerjahre"
+      "page_url": "https://www.muerysalzmann.com/kunst-architektur/die-nullerjahre"
     },
     {
       "title": "Wilhelm Holzbauer - Schriften zur Architektur",
@@ -43,7 +43,7 @@
       "price": 32.0,
       "currency": "EUR",
       "isbn": "978-3-99014-202-8",
-      "page_url": "/kunst-architektur/Holzbauer"
+      "page_url": "https://www.muerysalzmann.com/kunst-architektur/Holzbauer"
     },
     {
       "title": "meiself in bosdn",
@@ -51,11 +51,11 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-053-6",
-      "page_url": "/kunst-architektur/meiself-in-bosdn"
+      "page_url": "https://www.muerysalzmann.com/kunst-architektur/meiself-in-bosdn"
     }
   ],
   "events": [],
-  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/wilhelm-holzbauer.jpg\" alt=\"Wilhelm Holzbauer\" width=\"300\"></div><div><h1>Wilhelm Holzbauer</h1><div class=\"demo-author-category\">Kunst/Architektur</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">1930 (Salzburg) - 2019 (Wien), international tätiger Architekt und Architekturlehrer. Ab 1964 eigenes Büro in Wien. Zuletzt erschien 2006 die große Werkmonografie „Wilhelm Holzbauer“ (Springer).</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/kunst-architektur/arbeitsgruppe-4\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84deab56e5f802dd6a948e/1768749463691/?format=1500w\" alt=\"Arbeitsgruppe 4\" loading=\"lazy\"></div><div class=\"demo-book-title\">Arbeitsgruppe 4</div><div class=\"demo-book-price\">48.00 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/aufrufe-zurufe-nachrufe\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84df991e63fc4221349f77/1768749463723/?format=1500w\" alt=\"Aufrufe Zurufe Nachrufe\" loading=\"lazy\"></div><div class=\"demo-book-title\">Aufrufe Zurufe Nachrufe</div><div class=\"demo-book-price\">29.00 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/einige-projekte-architekturtexte-und-dergleichen\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84df54f355ea7fc317ec6b/1768749463719/?format=1500w\" alt=\"Einige Projekte, Architekturtexte und Dergleichen\" loading=\"lazy\"></div><div class=\"demo-book-title\">Einige Projekte, Architekturtexte und Dergleichen</div><div class=\"demo-book-price\">29.00 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/die-nullerjahre\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84df36224cce74bd7bcf96/1768749463714/?format=1500w\" alt=\"Mehr und mehr komme ich weniger und weniger aus\" loading=\"lazy\"></div><div class=\"demo-book-title\">Mehr und mehr komme ich weniger und weniger aus</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/Holzbauer\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5ecf7ea4e3e597405d4e0cdf/1768749463665/Holzbauer_Cover.jpg?format=1500w\" alt=\"Wilhelm Holzbauer - Schriften zur Architektur\" loading=\"lazy\"></div><div class=\"demo-book-title\">Wilhelm Holzbauer - Schriften zur Architektur</div><div class=\"demo-book-price\">32.00 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/meiself-in-bosdn\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84dda7f355ea7fc3178a41/1768749463670/?format=1500w\" alt=\"meiself in bosdn\" loading=\"lazy\"></div><div class=\"demo-book-title\">meiself in bosdn</div><div class=\"demo-book-price\">19.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/wilhelm-holzbauer.jpg\" alt=\"Wilhelm Holzbauer\" width=\"300\"></div><div><h1>Wilhelm Holzbauer</h1><div class=\"demo-author-category\">Kunst/Architektur</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">1930 (Salzburg) - 2019 (Wien), international tätiger Architekt und Architekturlehrer. Ab 1964 eigenes Büro in Wien. Zuletzt erschien 2006 die große Werkmonografie „Wilhelm Holzbauer“ (Springer).</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/arbeitsgruppe-4\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84deab56e5f802dd6a948e/1768749463691/?format=1500w\" alt=\"Arbeitsgruppe 4\" loading=\"lazy\"></div><div class=\"demo-book-title\">Arbeitsgruppe 4</div><div class=\"demo-book-price\">48.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/aufrufe-zurufe-nachrufe\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84df991e63fc4221349f77/1768749463723/?format=1500w\" alt=\"Aufrufe Zurufe Nachrufe\" loading=\"lazy\"></div><div class=\"demo-book-title\">Aufrufe Zurufe Nachrufe</div><div class=\"demo-book-price\">29.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/einige-projekte-architekturtexte-und-dergleichen\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84df54f355ea7fc317ec6b/1768749463719/?format=1500w\" alt=\"Einige Projekte, Architekturtexte und Dergleichen\" loading=\"lazy\"></div><div class=\"demo-book-title\">Einige Projekte, Architekturtexte und Dergleichen</div><div class=\"demo-book-price\">29.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/die-nullerjahre\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84df36224cce74bd7bcf96/1768749463714/?format=1500w\" alt=\"Mehr und mehr komme ich weniger und weniger aus\" loading=\"lazy\"></div><div class=\"demo-book-title\">Mehr und mehr komme ich weniger und weniger aus</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/Holzbauer\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5ecf7ea4e3e597405d4e0cdf/1768749463665/Holzbauer_Cover.jpg?format=1500w\" alt=\"Wilhelm Holzbauer - Schriften zur Architektur\" loading=\"lazy\"></div><div class=\"demo-book-title\">Wilhelm Holzbauer - Schriften zur Architektur</div><div class=\"demo-book-price\">32.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/meiself-in-bosdn\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84dda7f355ea7fc3178a41/1768749463670/?format=1500w\" alt=\"meiself in bosdn\" loading=\"lazy\"></div><div class=\"demo-book-title\">meiself in bosdn</div><div class=\"demo-book-price\">19.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
   "meta": {
     "title": "Wilhelm Holzbauer · Müry Salzmann Verlag",
     "description": "1930 (Salzburg) - 2019 (Wien), international tätiger Architekt und Architekturlehrer. Ab 1964 eigenes Büro in Wien. Zuletzt erschien 2006 die große Werkmonografie „Wilhelm Holzbauer“ (Springer)."

@@ -11,7 +11,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-166-3",
-      "page_url": "/belletristik/eins-zwei-fittipaldi"
+      "page_url": "https://www.muerysalzmann.com/belletristik/eins-zwei-fittipaldi"
     },
     {
       "title": "Virusalem",
@@ -19,7 +19,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-207-3",
-      "page_url": "/belletristik/virusalem"
+      "page_url": "https://www.muerysalzmann.com/belletristik/virusalem"
     }
   ],
   "events": [
@@ -29,7 +29,7 @@
       "end_date": "2020-10-02T21:30:00+0200",
       "location_name": "",
       "location_address": "",
-      "page_url": "/kalender/elke-laznia-und-helmut-neundlinger-lesen-bei-der-poesiegalerie-wien"
+      "page_url": "https://www.muerysalzmann.com/kalender/elke-laznia-und-helmut-neundlinger-lesen-bei-der-poesiegalerie-wien"
     },
     {
       "title": "Buchpremiere \"Virusalem\" von Helmut Neundlinger",
@@ -37,7 +37,7 @@
       "end_date": "2020-10-15T21:00:00+0200",
       "location_name": "Alte Schmiede",
       "location_address": "9 Schönlaterngasse Wien, Wien, 1010 Österreich",
-      "page_url": "/kalender/buchpremiere-virusalem-von-helmut-neundlinger"
+      "page_url": "https://www.muerysalzmann.com/kalender/buchpremiere-virusalem-von-helmut-neundlinger"
     },
     {
       "title": "Christina Maria Landerl und Helmut Neundlinger präsentieren ihre neuen Bücher",
@@ -45,7 +45,7 @@
       "end_date": "2021-02-02T20:30:00+0100",
       "location_name": "Stifterhaus ",
       "location_address": "1 Adalbert-Stifter-Platz Linz, Oberösterreich, 4020 Österreich",
-      "page_url": "/kalender/buchprsentationen-von-christina-maria-landerl-und-helmut-neundlinger"
+      "page_url": "https://www.muerysalzmann.com/kalender/buchprsentationen-von-christina-maria-landerl-und-helmut-neundlinger"
     },
     {
       "title": "Helmut Neundlinger liest aus \"Virusalem\"",
@@ -53,10 +53,10 @@
       "end_date": "2021-03-04T20:00:00+0100",
       "location_name": "Österreichische Gesellschaft für Literatur",
       "location_address": "Herrengasse 5 1010 Wien Österreich",
-      "page_url": "/kalender/helmut-neundlinger-liest-aus-virusalem"
+      "page_url": "https://www.muerysalzmann.com/kalender/helmut-neundlinger-liest-aus-virusalem"
     }
   ],
-  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/helmut-neundlinger.jpg\" alt=\"Helmut Neundlinger\" width=\"300\"></div><div><h1>Helmut Neundlinger</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1973, aufgewachsen in Eferding (OÖ), lebt seit 1992 in Wien. Studium der Philosophie und Germanistik. Arbeitet als Autor, Literaturwissenschaftler und Musiker. Zuletzt erschienen die Lyrikbände \"Tagdunkel\" (2011) und \"Die Gerüche des Meeres und der Eingeweide\" (2017).</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/eins-zwei-fittipaldi\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a2a43d254a560aa419491/1768657023302/fittipaldi_mockup.png?format=1500w\" alt=\"Eins zwei Fittipaldi\" loading=\"lazy\"></div><div class=\"demo-book-title\">Eins zwei Fittipaldi</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/virusalem\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5ec4fb32c35021712aa66888/1768657023297/virusalem_mockup.png?format=1500w\" alt=\"Virusalem\" loading=\"lazy\"></div><div class=\"demo-book-title\">Virusalem</div><div class=\"demo-book-price\">19.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">02.10.2020 &middot; 20:20</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-und-helmut-neundlinger-lesen-bei-der-poesiegalerie-wien\">Elke Laznia und Helmut Neundlinger lesen bei der Poesiegalerie, Wien</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">15.10.2020 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchpremiere-virusalem-von-helmut-neundlinger\">Buchpremiere \"Virusalem\" von Helmut Neundlinger</a></div><div class=\"demo-event-loc\">Alte Schmiede</div></div></li><li><div class=\"demo-event-date\">02.02.2021 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentationen-von-christina-maria-landerl-und-helmut-neundlinger\">Christina Maria Landerl und Helmut Neundlinger präsentieren ihre neuen Bücher</a></div><div class=\"demo-event-loc\">Stifterhaus </div></div></li><li><div class=\"demo-event-date\">04.03.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/helmut-neundlinger-liest-aus-virusalem\">Helmut Neundlinger liest aus \"Virusalem\"</a></div><div class=\"demo-event-loc\">Österreichische Gesellschaft für Literatur</div></div></li></ul></div>",
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/helmut-neundlinger.jpg\" alt=\"Helmut Neundlinger\" width=\"300\"></div><div><h1>Helmut Neundlinger</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1973, aufgewachsen in Eferding (OÖ), lebt seit 1992 in Wien. Studium der Philosophie und Germanistik. Arbeitet als Autor, Literaturwissenschaftler und Musiker. Zuletzt erschienen die Lyrikbände \"Tagdunkel\" (2011) und \"Die Gerüche des Meeres und der Eingeweide\" (2017).</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/eins-zwei-fittipaldi\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a2a43d254a560aa419491/1768657023302/fittipaldi_mockup.png?format=1500w\" alt=\"Eins zwei Fittipaldi\" loading=\"lazy\"></div><div class=\"demo-book-title\">Eins zwei Fittipaldi</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/virusalem\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5ec4fb32c35021712aa66888/1768657023297/virusalem_mockup.png?format=1500w\" alt=\"Virusalem\" loading=\"lazy\"></div><div class=\"demo-book-title\">Virusalem</div><div class=\"demo-book-price\">19.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">02.10.2020 &middot; 20:20</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/elke-laznia-und-helmut-neundlinger-lesen-bei-der-poesiegalerie-wien\">Elke Laznia und Helmut Neundlinger lesen bei der Poesiegalerie, Wien</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">15.10.2020 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/buchpremiere-virusalem-von-helmut-neundlinger\">Buchpremiere \"Virusalem\" von Helmut Neundlinger</a></div><div class=\"demo-event-loc\">Alte Schmiede</div></div></li><li><div class=\"demo-event-date\">02.02.2021 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/buchprsentationen-von-christina-maria-landerl-und-helmut-neundlinger\">Christina Maria Landerl und Helmut Neundlinger präsentieren ihre neuen Bücher</a></div><div class=\"demo-event-loc\">Stifterhaus </div></div></li><li><div class=\"demo-event-date\">04.03.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"https://www.muerysalzmann.com/kalender/helmut-neundlinger-liest-aus-virusalem\">Helmut Neundlinger liest aus \"Virusalem\"</a></div><div class=\"demo-event-loc\">Österreichische Gesellschaft für Literatur</div></div></li></ul></div>",
   "meta": {
     "title": "Helmut Neundlinger · Müry Salzmann Verlag",
     "description": "geboren 1973, aufgewachsen in Eferding (OÖ), lebt seit 1992 in Wien. Studium der Philosophie und Germanistik. Arbeitet als Autor, Literaturwissenschaftler und Musiker. Zuletzt erschienen die…"

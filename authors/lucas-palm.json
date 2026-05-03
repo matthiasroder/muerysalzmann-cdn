@@ -11,7 +11,7 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-176-2",
-      "page_url": "/belletristik/transhumania"
+      "page_url": "https://www.muerysalzmann.com/belletristik/transhumania"
     },
     {
       "title": "Weg von hier",
@@ -19,11 +19,11 @@
       "price": 19.0,
       "currency": "EUR",
       "isbn": "978-3-99014-081-9",
-      "page_url": "/belletristik/weg-von-hier"
+      "page_url": "https://www.muerysalzmann.com/belletristik/weg-von-hier"
     }
   ],
   "events": [],
-  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/lucas-palm.jpg\" alt=\"Lucas Palm\" width=\"300\"></div><div><h1>Lucas Palm</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1988 in Wien, ab 1989 aufgewachsen in Zürich. Nach Schulabbruch Berufslehre in einem Schweizer Musikgeschäft, dann Hospitanzen am Opernhaus Zürich und dem Schauspielhaus Zürich, 2008 Umzug nach Wien, seit 2011 Studium der Geschichte an der Universität Wien.</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/transhumania\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a2aeba7fbd7571648d7e7/1768657023447/transhumania_mockup.png?format=1500w\" alt=\"Transhumania\" loading=\"lazy\"></div><div class=\"demo-book-title\">Transhumania</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/weg-von-hier\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a2b02b8ae72565ed13b35/1768657023452/weg-von-hier_mockup.png?format=1500w\" alt=\"Weg von hier\" loading=\"lazy\"></div><div class=\"demo-book-title\">Weg von hier</div><div class=\"demo-book-price\">19.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/lucas-palm.jpg\" alt=\"Lucas Palm\" width=\"300\"></div><div><h1>Lucas Palm</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1988 in Wien, ab 1989 aufgewachsen in Zürich. Nach Schulabbruch Berufslehre in einem Schweizer Musikgeschäft, dann Hospitanzen am Opernhaus Zürich und dem Schauspielhaus Zürich, 2008 Umzug nach Wien, seit 2011 Studium der Geschichte an der Universität Wien.</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/transhumania\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a2aeba7fbd7571648d7e7/1768657023447/transhumania_mockup.png?format=1500w\" alt=\"Transhumania\" loading=\"lazy\"></div><div class=\"demo-book-title\">Transhumania</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/belletristik/weg-von-hier\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a2b02b8ae72565ed13b35/1768657023452/weg-von-hier_mockup.png?format=1500w\" alt=\"Weg von hier\" loading=\"lazy\"></div><div class=\"demo-book-title\">Weg von hier</div><div class=\"demo-book-price\">19.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
   "meta": {
     "title": "Lucas Palm · Müry Salzmann Verlag",
     "description": "geboren 1988 in Wien, ab 1989 aufgewachsen in Zürich. Nach Schulabbruch Berufslehre in einem Schweizer Musikgeschäft, dann Hospitanzen am Opernhaus Zürich und dem Schauspielhaus Zürich, 2008 Umzug…"
