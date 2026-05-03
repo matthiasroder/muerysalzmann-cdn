@@ -1,0 +1,23 @@
+{
+  "slug": "herbert-sklenka",
+  "name": "Herbert Sklenka",
+  "category": "Fiction/Die Weiße Reihe",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1958 in Linz, studierte Publizistik und Germanistik in Salzburg. Ab 1984 arbeitete er als Journalist, Redaktionsleiter und Moderator für den ORF. Er unternahm immer wieder ausgedehnte Reisen, unter anderem verbrachte er ein Jahr in Indien und vier Jahre in Westafrika, vor allem in Burkina Faso, Togo und dem Senegal. <br/>Seit 2007 lebt er als freier Schriftsteller in Linz. Sein erster Roman ist 2011 im Piper Verlag erschienen.</p>",
+  "photo_url": "images/herbert-sklenka.jpg",
+  "books": [
+    {
+      "title": "Chamäleonhimmel",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e83791ca3ed8c12e0627420/1768657023556/chama%CC%88leonhimmel_mockup.png?format=1500w",
+      "price": 19.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-154-0",
+      "page_url": "/belletristik/chamaeleonhimmel"
+    }
+  ],
+  "events": [],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/herbert-sklenka.jpg\" alt=\"Herbert Sklenka\" width=\"300\"></div><div><h1>Herbert Sklenka</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1958 in Linz, studierte Publizistik und Germanistik in Salzburg. Ab 1984 arbeitete er als Journalist, Redaktionsleiter und Moderator für den ORF. Er unternahm immer wieder ausgedehnte Reisen, unter anderem verbrachte er ein Jahr in Indien und vier Jahre in Westafrika, vor allem in Burkina Faso, Togo und dem Senegal. <br/>Seit 2007 lebt er als freier Schriftsteller in Linz. Sein erster Roman ist 2011 im Piper Verlag erschienen.</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Herbert Sklenka mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/chamaeleonhimmel\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e83791ca3ed8c12e0627420/1768657023556/chama%CC%88leonhimmel_mockup.png?format=1500w\" alt=\"Chamäleonhimmel\" loading=\"lazy\"></div><div class=\"demo-book-title\">Chamäleonhimmel</div><div class=\"demo-book-price\">19.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "meta": {
+    "title": "Herbert Sklenka · Müry Salzmann Verlag",
+    "description": "geboren 1958 in Linz, studierte Publizistik und Germanistik in Salzburg. Ab 1984 arbeitete er als Journalist, Redaktionsleiter und Moderator für den ORF. Er unternahm immer wieder ausgedehnte…"
+  }
+}

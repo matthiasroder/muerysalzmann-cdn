@@ -1,0 +1,31 @@
+{
+  "slug": "ines-haufler",
+  "name": "Ines Häufler",
+  "category": "Kultur/Gesellschaft",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1974 in Salzburg, Studium der Kommunikationswissenschaft und Germanistik, nach einigen Jahren als Regieassistentin an Theatern in Österreich und Deutschland seit 2000 freie Drehbuchberaterin in Wien.</p>",
+  "photo_url": "images/ines-haufler.jpg",
+  "books": [
+    {
+      "title": "Talking Cookies",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5ec6a7f37608ed1d42e3f2c7/1755252109246/TalkingCookies.png?format=1500w",
+      "price": 9.9,
+      "currency": "EUR",
+      "isbn": "978-3-99014-087-1",
+      "page_url": "/kultur-gesellschaft/talking-cookies"
+    },
+    {
+      "title": "Talking Pasta",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5ec6aa7be3443578bd1cb4b6/1755252109248/TalkingPasta.png?format=1500w",
+      "price": 9.9,
+      "currency": "EUR",
+      "isbn": "978-3-99014-114-4",
+      "page_url": "/kultur-gesellschaft/talking-pasta"
+    }
+  ],
+  "events": [],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/ines-haufler.jpg\" alt=\"Ines Häufler\" width=\"300\"></div><div><h1>Ines Häufler</h1><div class=\"demo-author-category\">Kultur/Gesellschaft</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1974 in Salzburg, Studium der Kommunikationswissenschaft und Germanistik, nach einigen Jahren als Regieassistentin an Theatern in Österreich und Deutschland seit 2000 freie Drehbuchberaterin in Wien.</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Ines Häufler mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/kultur-gesellschaft/talking-cookies\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5ec6a7f37608ed1d42e3f2c7/1755252109246/TalkingCookies.png?format=1500w\" alt=\"Talking Cookies\" loading=\"lazy\"></div><div class=\"demo-book-title\">Talking Cookies</div><div class=\"demo-book-price\">9.90 EUR</div></a><a class=\"demo-book\" href=\"/kultur-gesellschaft/talking-pasta\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5ec6aa7be3443578bd1cb4b6/1755252109248/TalkingPasta.png?format=1500w\" alt=\"Talking Pasta\" loading=\"lazy\"></div><div class=\"demo-book-title\">Talking Pasta</div><div class=\"demo-book-price\">9.90 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "meta": {
+    "title": "Ines Häufler · Müry Salzmann Verlag",
+    "description": "geboren 1974 in Salzburg, Studium der Kommunikationswissenschaft und Germanistik, nach einigen Jahren als Regieassistentin an Theatern in Österreich und Deutschland seit 2000 freie…"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "johannes-neuhardt",
+  "name": "Johannes Neuhardt",
+  "category": "Kultur/Gesellschaft",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1930 in Salzburg, Prälat, Prof., Mag. Dr., Studium der Theologie in Salzburg sowie der Kunstgeschichte und Klassischen Archäologie in Innsbruck. Priesterweihe 1953, seither in verschiedenen Sparten der Bistumsverwaltung tätig. Domkapitular und Domdechant, langjähriger Diözesankonservator in Salzburg. Seit Jahrzehnten pflegt er regen Austausch mit Künstlerpersönlichkeiten des In- und Auslandes.</p>",
+  "photo_url": "images/johannes-neuhardt.jpg",
+  "books": [
+    {
+      "title": "Mein Salzburg. Die verkaufte Schönheit",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b8f93c594543643eca6da/1755252109192/mein-salzburg_mockup.png?format=1500w",
+      "price": 25.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-203-5",
+      "page_url": "/kultur-gesellschaft/salzburg-die-verkaufte-stadt"
+    },
+    {
+      "title": "Nur die Stille stillt",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b90100f2af621d71f8b78/1755252109213/?format=1500w",
+      "price": 19.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-183-0",
+      "page_url": "/kultur-gesellschaft/nur-die-stille-stillt"
+    },
+    {
+      "title": "Die beste aller Welten!?",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/669780345c2bb33e1242bb73/1768749463907/20+Jahre+Kardinal+Ko%CC%88nig+Kunspreis.png?format=1500w",
+      "price": 25.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-265-3",
+      "page_url": "/kunst-architektur/die-beste-aller-welten"
+    }
+  ],
+  "events": [],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/johannes-neuhardt.jpg\" alt=\"Johannes Neuhardt\" width=\"300\"></div><div><h1>Johannes Neuhardt</h1><div class=\"demo-author-category\">Kultur/Gesellschaft</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1930 in Salzburg, Prälat, Prof., Mag. Dr., Studium der Theologie in Salzburg sowie der Kunstgeschichte und Klassischen Archäologie in Innsbruck. Priesterweihe 1953, seither in verschiedenen Sparten der Bistumsverwaltung tätig. Domkapitular und Domdechant, langjähriger Diözesankonservator in Salzburg. Seit Jahrzehnten pflegt er regen Austausch mit Künstlerpersönlichkeiten des In- und Auslandes.</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Johannes Neuhardt mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/kultur-gesellschaft/salzburg-die-verkaufte-stadt\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b8f93c594543643eca6da/1755252109192/mein-salzburg_mockup.png?format=1500w\" alt=\"Mein Salzburg. Die verkaufte Schönheit\" loading=\"lazy\"></div><div class=\"demo-book-title\">Mein Salzburg. Die verkaufte Schönheit</div><div class=\"demo-book-price\">25.00 EUR</div></a><a class=\"demo-book\" href=\"/kultur-gesellschaft/nur-die-stille-stillt\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b90100f2af621d71f8b78/1755252109213/?format=1500w\" alt=\"Nur die Stille stillt\" loading=\"lazy\"></div><div class=\"demo-book-title\">Nur die Stille stillt</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/die-beste-aller-welten\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/669780345c2bb33e1242bb73/1768749463907/20+Jahre+Kardinal+Ko%CC%88nig+Kunspreis.png?format=1500w\" alt=\"Die beste aller Welten!?\" loading=\"lazy\"></div><div class=\"demo-book-title\">Die beste aller Welten!?</div><div class=\"demo-book-price\">25.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "meta": {
+    "title": "Johannes Neuhardt · Müry Salzmann Verlag",
+    "description": "geboren 1930 in Salzburg, Prälat, Prof., Mag. Dr., Studium der Theologie in Salzburg sowie der Kunstgeschichte und Klassischen Archäologie in Innsbruck. Priesterweihe 1953, seither in…"
+  }
+}

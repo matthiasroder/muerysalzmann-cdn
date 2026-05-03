@@ -1,0 +1,23 @@
+{
+  "slug": "andreas-schmoller",
+  "name": "Andreas Schmoller",
+  "category": "Kultur/Gesellschaft",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Studium der Geschichte, Theologie und Romanistik (Frz.), Projektmitarbeiter am Fachbereich Geschichte der Universität Salzburg</p>",
+  "photo_url": "images/andreas-schmoller.jpg",
+  "books": [
+    {
+      "title": "Buchraub in Salzburg",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b9241d153b453690cc2c7/1586205254380/BuchraubInSalzburg_m.HG.png?format=1500w",
+      "price": 9.9,
+      "currency": "EUR",
+      "isbn": "",
+      "page_url": "/kultur-gesellschaft/buchraub-in-salzburg"
+    }
+  ],
+  "events": [],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/andreas-schmoller.jpg\" alt=\"Andreas Schmoller\" width=\"300\"></div><div><h1>Andreas Schmoller</h1><div class=\"demo-author-category\">Kultur/Gesellschaft</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">Studium der Geschichte, Theologie und Romanistik (Frz.), Projektmitarbeiter am Fachbereich Geschichte der Universität Salzburg</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Andreas Schmoller mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/kultur-gesellschaft/buchraub-in-salzburg\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b9241d153b453690cc2c7/1586205254380/BuchraubInSalzburg_m.HG.png?format=1500w\" alt=\"Buchraub in Salzburg\" loading=\"lazy\"></div><div class=\"demo-book-title\">Buchraub in Salzburg</div><div class=\"demo-book-price\">9.90 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "meta": {
+    "title": "Andreas Schmoller · Müry Salzmann Verlag",
+    "description": "Studium der Geschichte, Theologie und Romanistik (Frz.), Projektmitarbeiter am Fachbereich Geschichte der Universität Salzburg"
+  }
+}

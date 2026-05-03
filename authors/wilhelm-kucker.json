@@ -1,0 +1,23 @@
+{
+  "slug": "wilhelm-kucker",
+  "name": "Wilhelm Kücker",
+  "category": "Kunst/Architektur",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">1933-2014, Architekturstudium in München, Wien und Zürich, freier Architekt und TU-Professor in München, berufspolitisches Engagement als Präsident des Bundes Deutscher Architekten BDA und Vizepräsident der Union Internationale des Architectes UIA, Paris. Zahlreiche Publikationen, u. a. „Architektur zwischen Kunst und Konsum“ (1976) und „Die verlorene Unschuld der Architektur“ (1989).</p>",
+  "photo_url": "images/wilhelm-kucker.jpg",
+  "books": [
+    {
+      "title": "Das Ego des Architekten",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84df0129345e5fcb1f55c4/1768749463708/?format=1500w",
+      "price": 14.9,
+      "currency": "EUR",
+      "isbn": "978-3-99014-023-9",
+      "page_url": "/kunst-architektur/das-ego-des-architekten"
+    }
+  ],
+  "events": [],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/wilhelm-kucker.jpg\" alt=\"Wilhelm Kücker\" width=\"300\"></div><div><h1>Wilhelm Kücker</h1><div class=\"demo-author-category\">Kunst/Architektur</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">1933-2014, Architekturstudium in München, Wien und Zürich, freier Architekt und TU-Professor in München, berufspolitisches Engagement als Präsident des Bundes Deutscher Architekten BDA und Vizepräsident der Union Internationale des Architectes UIA, Paris. Zahlreiche Publikationen, u. a. „Architektur zwischen Kunst und Konsum“ (1976) und „Die verlorene Unschuld der Architektur“ (1989).</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Wilhelm Kücker mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/kunst-architektur/das-ego-des-architekten\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84df0129345e5fcb1f55c4/1768749463708/?format=1500w\" alt=\"Das Ego des Architekten\" loading=\"lazy\"></div><div class=\"demo-book-title\">Das Ego des Architekten</div><div class=\"demo-book-price\">14.90 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "meta": {
+    "title": "Wilhelm Kücker · Müry Salzmann Verlag",
+    "description": "1933-2014, Architekturstudium in München, Wien und Zürich, freier Architekt und TU-Professor in München, berufspolitisches Engagement als Präsident des Bundes Deutscher Architekten BDA und…"
+  }
+}

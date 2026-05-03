@@ -1,0 +1,120 @@
+{
+  "slug": "elena-winter",
+  "name": "Elena Winter",
+  "category": "Fiction/Die Weiße Reihe",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1980 in Recklinghausen, Nordrhein-Westfalen, ist freie Journalistin, Texterin und Redakteurin. Sie lebt und schreibt in Berlin. Nach einem Studium der Germanistik, Medienwissenschaft und Linguistik in Düsseldorf promovierte sie 2009 über Improvisationsformate im Fernsehen. Nach Publikationen in Literaturzeitschriften und Anthologien ist <em>Im­ Orbit </em>ihre erste Romanveröffentlichung. </p><p class=\"\" style=\"white-space:pre-wrap;\">Foto: Alena Schmick</p>",
+  "photo_url": "images/elena-winter.jpg",
+  "books": [
+    {
+      "title": "Im Orbit",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/659c19761367ba2bb2f6973a/1768657023184/Im+Orbit+MockUp.png?format=1500w",
+      "price": 24.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-254-7",
+      "page_url": "/belletristik/im-orbit"
+    },
+    {
+      "title": "So der Sohn",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/6864f43bc044ab2857c650c5/1768656910239/so-der-sohn-mockup.png?format=1500w",
+      "price": 24.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-285-1",
+      "page_url": "/belletristik/so-der-sohn"
+    }
+  ],
+  "events": [
+    {
+      "title": "Buchpräsentation Elena Winter \"Im Orbit\" - Leipzig liest",
+      "start_date": "2024-03-21T15:30:00+0100",
+      "end_date": "2024-03-21T16:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-elena-winter-im-orbit"
+    },
+    {
+      "title": "Buchpräsentation Elena Winter \"Im Orbit\"",
+      "start_date": "2024-04-29T19:00:00+0200",
+      "end_date": "2024-04-29T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-elena-winter-im-orbit-1"
+    },
+    {
+      "title": "Buchpräsentation \"Im Orbit\" von Elena Winter",
+      "start_date": "2024-07-11T19:30:00+0200",
+      "end_date": "2024-07-11T21:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-im-orbit-von-elena-winter"
+    },
+    {
+      "title": "Lesung Elena Winter aus \"Im Orbit\"",
+      "start_date": "2024-09-06T18:00:00+0200",
+      "end_date": "2024-09-06T19:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-elena-winter-aus-im-orbit"
+    },
+    {
+      "title": "Elena Winter liest aus \"Im Orbit\"",
+      "start_date": "2024-11-07T18:30:00+0100",
+      "end_date": "2024-11-07T19:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elena-winter-liest-aus-im-orbit"
+    },
+    {
+      "title": "Lesung Elena Winter aus \"Im Orbit\"",
+      "start_date": "2025-03-20T19:00:00+0100",
+      "end_date": "2025-03-20T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-elena-winter-aus-im-orbit-1"
+    },
+    {
+      "title": "Lesung & Gespräch mit Katharina Korbach & Elena Winter",
+      "start_date": "2025-07-10T19:30:00+0200",
+      "end_date": "2025-07-10T21:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-amp-gesprch-mit-katharina-korbach-amp-elena-winter"
+    },
+    {
+      "title": "Buchpremiere Elena Winter \"So der Sohn\"",
+      "start_date": "2025-10-09T19:30:00+0200",
+      "end_date": "2025-10-09T20:30:00+0200",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/buchpremiere-elena-winter-so-der-sohn"
+    },
+    {
+      "title": "Elena Winter auf der Frankfurter Buchmesse",
+      "start_date": "2025-10-16T12:00:00+0200",
+      "end_date": "2025-10-16T13:00:00+0200",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/elena-winter-auf-der-frankfurter-buchmesse"
+    },
+    {
+      "title": "Lesung Elena Winter aus \"So der Sohn\"",
+      "start_date": "2025-11-18T19:00:00+0100",
+      "end_date": "2025-11-18T20:00:00+0100",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/lesung-elena-winter-aus-so-der-sohn"
+    },
+    {
+      "title": "Lesung Elena Winter \"So der Sohn\"",
+      "start_date": "2026-03-20T11:00:00+0100",
+      "end_date": "2026-03-20T11:30:00+0100",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/lesung-elena-winter-so-der-sohn"
+    }
+  ],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/elena-winter.jpg\" alt=\"Elena Winter\" width=\"300\"></div><div><h1>Elena Winter</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1980 in Recklinghausen, Nordrhein-Westfalen, ist freie Journalistin, Texterin und Redakteurin. Sie lebt und schreibt in Berlin. Nach einem Studium der Germanistik, Medienwissenschaft und Linguistik in Düsseldorf promovierte sie 2009 über Improvisationsformate im Fernsehen. Nach Publikationen in Literaturzeitschriften und Anthologien ist <em>Im­ Orbit </em>ihre erste Romanveröffentlichung. </p><p class=\"\" style=\"white-space:pre-wrap;\">Foto: Alena Schmick</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Elena Winter mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/im-orbit\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/659c19761367ba2bb2f6973a/1768657023184/Im+Orbit+MockUp.png?format=1500w\" alt=\"Im Orbit\" loading=\"lazy\"></div><div class=\"demo-book-title\">Im Orbit</div><div class=\"demo-book-price\">24.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/so-der-sohn\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/6864f43bc044ab2857c650c5/1768656910239/so-der-sohn-mockup.png?format=1500w\" alt=\"So der Sohn\" loading=\"lazy\"></div><div class=\"demo-book-title\">So der Sohn</div><div class=\"demo-book-price\">24.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">21.03.2024 &middot; 15:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-elena-winter-im-orbit\">Buchpräsentation Elena Winter \"Im Orbit\" - Leipzig liest</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">29.04.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-elena-winter-im-orbit-1\">Buchpräsentation Elena Winter \"Im Orbit\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">11.07.2024 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-im-orbit-von-elena-winter\">Buchpräsentation \"Im Orbit\" von Elena Winter</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">06.09.2024 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-elena-winter-aus-im-orbit\">Lesung Elena Winter aus \"Im Orbit\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">07.11.2024 &middot; 18:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elena-winter-liest-aus-im-orbit\">Elena Winter liest aus \"Im Orbit\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">20.03.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-elena-winter-aus-im-orbit-1\">Lesung Elena Winter aus \"Im Orbit\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">10.07.2025 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-amp-gesprch-mit-katharina-korbach-amp-elena-winter\">Lesung & Gespräch mit Katharina Korbach & Elena Winter</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">09.10.2025 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchpremiere-elena-winter-so-der-sohn\">Buchpremiere Elena Winter \"So der Sohn\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">16.10.2025 &middot; 12:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elena-winter-auf-der-frankfurter-buchmesse\">Elena Winter auf der Frankfurter Buchmesse</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">18.11.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-elena-winter-aus-so-der-sohn\">Lesung Elena Winter aus \"So der Sohn\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">20.03.2026 &middot; 11:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-elena-winter-so-der-sohn\">Lesung Elena Winter \"So der Sohn\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li></ul></div>",
+  "meta": {
+    "title": "Elena Winter · Müry Salzmann Verlag",
+    "description": "geboren 1980 in Recklinghausen, Nordrhein-Westfalen, ist freie Journalistin, Texterin und Redakteurin. Sie lebt und schreibt in Berlin. Nach einem Studium der Germanistik, Medienwissenschaft und…"
+  }
+}

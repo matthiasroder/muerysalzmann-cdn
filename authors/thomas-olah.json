@@ -1,0 +1,104 @@
+{
+  "slug": "thomas-olah",
+  "name": "Thomas Oláh",
+  "category": "Fiction/Die Weiße Reihe",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1966 in Wien, lebt und arbeitet in Wien und Berlin als Kostümdesigner für Kino und TV sowie als Kulturhistoriker mit dem Schwerpunkt Modetheorie / Geschichte des Körpers. Arbeiten u. a. mit Leander Haußmann „Kabale und Liebe“, mit Oskar Roehler „Jud Süß“, mit Detlev Buck „Die Vermessung der Welt“, mit Shirin Neshat „Women without Men“ (Silberner Löwe in Venedig), mit Brad Anderson „Stonehearst Asy­ lum“; Österreichischer Filmpreis 2013 für „Die Vermessung der Welt“, mehrere Nominierungen zum Deutschen Filmpreis. Zuletzt erschien „Wozu mich das Glück noch brauchen wird? Leben und Sterben des Herrn Winckelmann in sechs Monologen“ (2017). „Doppler“ ist sein Romandebüt. </p><p class=\"\" style=\"white-space:pre-wrap;\">Foto: Stefan Oláh</p>",
+  "photo_url": "images/thomas-olah.jpg",
+  "books": [
+    {
+      "title": "Doppler",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/63da688631372c305497a5b6/1768657023214/Doppler+MockUp.png?format=1500w",
+      "price": 24.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-239-4",
+      "page_url": "/belletristik/doppler"
+    }
+  ],
+  "events": [
+    {
+      "title": "Buchpräsentation \"Doppler\" von Thomas Oláh",
+      "start_date": "2023-04-14T19:00:00+0200",
+      "end_date": "2023-04-14T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-doppler-von-thomas-olh"
+    },
+    {
+      "title": "Lesung Thomas Oláh \"Doppler\"",
+      "start_date": "2023-04-17T19:00:00+0200",
+      "end_date": "2023-04-17T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-thomas-olh-doppler"
+    },
+    {
+      "title": "Buchpräsentation \"Doppler\" von Thomas Oláh",
+      "start_date": "2023-04-27T16:30:00+0200",
+      "end_date": "2023-04-27T17:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-doppler-von-thomas-olh-1"
+    },
+    {
+      "title": "Leipzig liest: \"Doppler\" von Thomas Oláh",
+      "start_date": "2023-04-27T20:30:00+0200",
+      "end_date": "2023-04-27T21:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/leipzig-liest-doppler-von-thomas-olh"
+    },
+    {
+      "title": "Thomas Oláh zu Gast in Eva D.s Wohnzimmer im Café Korb",
+      "start_date": "2023-04-28T19:30:00+0200",
+      "end_date": "2023-04-28T21:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/thomas-olh-zu-gast-in-eva-ds-wohnzimmer-im-caf-korb"
+    },
+    {
+      "title": "Literarischer Frühschoppen: Thomas Oláh liest aus \"Doppler\"",
+      "start_date": "2023-05-07T11:00:00+0200",
+      "end_date": "2023-05-07T12:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/literarischer-frhschoppen-thomas-olh-liest-aus-doppler"
+    },
+    {
+      "title": "Thomas Oláh liest auf der summerstage, Wien",
+      "start_date": "2023-06-16T19:00:00+0200",
+      "end_date": "2023-06-16T22:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/thomas-olh-liest-auf-der-summerstage-wien"
+    },
+    {
+      "title": "Blind-Date-Lesung: Thomas Oláh liest aus \"Doppler\"",
+      "start_date": "2023-09-12T19:00:00+0200",
+      "end_date": "2023-09-12T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/blind-date-lesung-thomas-olh-liest-aus-doppler"
+    },
+    {
+      "title": "Leseabend zum Debütpreis des Österreichischen Buchpreises",
+      "start_date": "2023-10-18T19:00:00+0200",
+      "end_date": "2023-10-18T21:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/leseabend-zum-debtpreis-des-sterreichischen-buchpreises"
+    },
+    {
+      "title": "Thomas Oláh liest aus \"Doppler\" im Literaturhaus am Inn",
+      "start_date": "2024-02-28T19:00:00+0100",
+      "end_date": "2024-02-28T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/thomas-olh-liest-aus-doppler-im-literaturhaus-am-inn"
+    }
+  ],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/thomas-olah.jpg\" alt=\"Thomas Oláh\" width=\"300\"></div><div><h1>Thomas Oláh</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1966 in Wien, lebt und arbeitet in Wien und Berlin als Kostümdesigner für Kino und TV sowie als Kulturhistoriker mit dem Schwerpunkt Modetheorie / Geschichte des Körpers. Arbeiten u. a. mit Leander Haußmann „Kabale und Liebe“, mit Oskar Roehler „Jud Süß“, mit Detlev Buck „Die Vermessung der Welt“, mit Shirin Neshat „Women without Men“ (Silberner Löwe in Venedig), mit Brad Anderson „Stonehearst Asy­ lum“; Österreichischer Filmpreis 2013 für „Die Vermessung der Welt“, mehrere Nominierungen zum Deutschen Filmpreis. Zuletzt erschien „Wozu mich das Glück noch brauchen wird? Leben und Sterben des Herrn Winckelmann in sechs Monologen“ (2017). „Doppler“ ist sein Romandebüt. </p><p class=\"\" style=\"white-space:pre-wrap;\">Foto: Stefan Oláh</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Thomas Oláh mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/doppler\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/63da688631372c305497a5b6/1768657023214/Doppler+MockUp.png?format=1500w\" alt=\"Doppler\" loading=\"lazy\"></div><div class=\"demo-book-title\">Doppler</div><div class=\"demo-book-price\">24.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">14.04.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-doppler-von-thomas-olh\">Buchpräsentation \"Doppler\" von Thomas Oláh</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">17.04.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-thomas-olh-doppler\">Lesung Thomas Oláh \"Doppler\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">27.04.2023 &middot; 16:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-doppler-von-thomas-olh-1\">Buchpräsentation \"Doppler\" von Thomas Oláh</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">27.04.2023 &middot; 20:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/leipzig-liest-doppler-von-thomas-olh\">Leipzig liest: \"Doppler\" von Thomas Oláh</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">28.04.2023 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/thomas-olh-zu-gast-in-eva-ds-wohnzimmer-im-caf-korb\">Thomas Oláh zu Gast in Eva D.s Wohnzimmer im Café Korb</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">07.05.2023 &middot; 11:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/literarischer-frhschoppen-thomas-olh-liest-aus-doppler\">Literarischer Frühschoppen: Thomas Oláh liest aus \"Doppler\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">16.06.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/thomas-olh-liest-auf-der-summerstage-wien\">Thomas Oláh liest auf der summerstage, Wien</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">12.09.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/blind-date-lesung-thomas-olh-liest-aus-doppler\">Blind-Date-Lesung: Thomas Oláh liest aus \"Doppler\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">18.10.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/leseabend-zum-debtpreis-des-sterreichischen-buchpreises\">Leseabend zum Debütpreis des Österreichischen Buchpreises</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">28.02.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/thomas-olh-liest-aus-doppler-im-literaturhaus-am-inn\">Thomas Oláh liest aus \"Doppler\" im Literaturhaus am Inn</a></div><div class=\"demo-event-loc\"></div></div></li></ul></div>",
+  "meta": {
+    "title": "Thomas Oláh · Müry Salzmann Verlag",
+    "description": "geboren 1966 in Wien, lebt und arbeitet in Wien und Berlin als Kostümdesigner für Kino und TV sowie als Kulturhistoriker mit dem Schwerpunkt Modetheorie / Geschichte des Körpers. Arbeiten u. a.…"
+  }
+}

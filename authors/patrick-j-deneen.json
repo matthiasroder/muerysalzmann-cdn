@@ -1,0 +1,23 @@
+{
+  "slug": "patrick-j-deneen",
+  "name": "Patrick J. Deneen",
+  "category": "Kultur/Gesellschaft",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Professor für Politikwissenschaften, Inhaber des David A. Potenziani Memorial College Chair of Constitutional Studies an der University of Notre Dame im US-Bundesstaat Indiana. Hat zuvor viele Jahre an der Princeton University und dann an der Georgetown University gelehrt. <br/>Zahlreiche Buchveröffentlichungen, darunter \"The Odyssey of Political Theory\" oder \"Democratic Faith\", Herausgeber diverser Bände. Er lebt in South Bend, Indiana.</p>",
+  "photo_url": "images/patrick-j-deneen.png",
+  "books": [
+    {
+      "title": "Warum der Liberalismus gescheitert ist",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b102c9b6208253a953e0e/1755252109178/liberlismus-mockup.png?format=1500w",
+      "price": 28.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-187-8",
+      "page_url": "/kultur-gesellschaft/warum-der-liberalismus-gescheitert-ist"
+    }
+  ],
+  "events": [],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/patrick-j-deneen.png\" alt=\"Patrick J. Deneen\" width=\"300\"></div><div><h1>Patrick J. Deneen</h1><div class=\"demo-author-category\">Kultur/Gesellschaft</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">Professor für Politikwissenschaften, Inhaber des David A. Potenziani Memorial College Chair of Constitutional Studies an der University of Notre Dame im US-Bundesstaat Indiana. Hat zuvor viele Jahre an der Princeton University und dann an der Georgetown University gelehrt. <br/>Zahlreiche Buchveröffentlichungen, darunter \"The Odyssey of Political Theory\" oder \"Democratic Faith\", Herausgeber diverser Bände. Er lebt in South Bend, Indiana.</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Patrick J. Deneen mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/kultur-gesellschaft/warum-der-liberalismus-gescheitert-ist\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b102c9b6208253a953e0e/1755252109178/liberlismus-mockup.png?format=1500w\" alt=\"Warum der Liberalismus gescheitert ist\" loading=\"lazy\"></div><div class=\"demo-book-title\">Warum der Liberalismus gescheitert ist</div><div class=\"demo-book-price\">28.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "meta": {
+    "title": "Patrick J. Deneen · Müry Salzmann Verlag",
+    "description": "Professor für Politikwissenschaften, Inhaber des David A. Potenziani Memorial College Chair of Constitutional Studies an der University of Notre Dame im US-Bundesstaat Indiana. Hat zuvor viele…"
+  }
+}

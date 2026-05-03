@@ -1,0 +1,152 @@
+{
+  "slug": "gabriel-wolkenfeld",
+  "name": "Gabriel Wolkenfeld",
+  "category": "Fiction/Die Weiße Reihe",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1985 in Berlin. Studierte Germanistik, allgemeine und vergleichende Literaturwissenschaft und Russistik; Studien- und Arbeitsaufenthalte in Estland, Russland und der Ukraine. Bisher erschienen: <em>Wir Propagandisten </em>(2015), <em>Sandoasen (Israelisches Album) </em>(2021).</p>",
+  "photo_url": "images/gabriel-wolkenfeld.jpg",
+  "books": [
+    {
+      "title": "Amarok – Gabriel Wolkenfelds Märchensammlung | Moderne Fabeln",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/696b906c6fed6618b58a9218/1771944716779/amarek-mockup.png?format=1500w",
+      "price": 28.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-312-4",
+      "page_url": "/belletristik/amarek"
+    },
+    {
+      "title": "Babylonisches Repertoire",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b6317209981009e9f075fb/1768657023281/babylonisches_repertoire_mockup.png?format=1500w",
+      "price": 29.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-219-6",
+      "page_url": "/belletristik/babylonisches-repertoire"
+    }
+  ],
+  "events": [
+    {
+      "title": "Lesung Gabriel Wolkenfeld aus \"Babylonisches Repertoire\"",
+      "start_date": "2021-11-20T16:00:00+0100",
+      "end_date": "2021-11-20T17:00:00+0100",
+      "location_name": "Galerie Gustav von Hirschheydt",
+      "location_address": "31 Wielandstraße Berlin, BE, 10629 Deutschland",
+      "page_url": "/kalender/lesung-gabriel-wolkenfeld-aus-babylonisches-repertoire"
+    },
+    {
+      "title": "Lesung Gabriel Wolkenfeld aus \"Babylonisches Repertoire\"",
+      "start_date": "2021-12-04T20:00:00+0100",
+      "end_date": "2021-12-04T21:00:00+0100",
+      "location_name": "Volksbühne ",
+      "location_address": "2 Rosa-Luxemburg-Platz Berlin, BE, 10178 Deutschland",
+      "page_url": "/kalender/lesung-gabriel-wolkenfeld-aus-babylonisches-repertoire-1"
+    },
+    {
+      "title": "Lesung Gabriel Wolkenfeld im LCB",
+      "start_date": "2022-04-12T19:30:00+0200",
+      "end_date": "2022-04-12T20:30:00+0200",
+      "location_name": "Literarisches Colloquium Berlin",
+      "location_address": "5 Am Sandwerder Berlin, BE, 14109 Deutschland",
+      "page_url": "/kalender/lesung-gabriel-wolkenfeld-im-lcb"
+    },
+    {
+      "title": "Lesung von Gabriel Wolkenfeld aus \"Babylonisches Repertoire\"",
+      "start_date": "2022-04-20T19:00:00+0200",
+      "end_date": "2022-04-20T20:00:00+0200",
+      "location_name": "Literaturhaus Mattersburg",
+      "location_address": "4 Brunnenplatz Mattersburg, Burgenland, 7210 Österreich",
+      "page_url": "/kalender/lesung-von-gabriel-wolkenfeld-aus-babylonisches-repertoire-1"
+    },
+    {
+      "title": "Lesung von Gabriel Wolkenfeld aus \"Babylonisches Repertoire\"",
+      "start_date": "2022-04-21T19:30:00+0200",
+      "end_date": "2022-04-21T20:30:00+0200",
+      "location_name": "Buchhandlung Löwenherz",
+      "location_address": "8 Berggasse Wien, Wien, 1090 Österreich",
+      "page_url": "/kalender/lesung-von-gabriel-wolkenfeld-aus-babylonisches-repertoire"
+    },
+    {
+      "title": "Gabriel Wolkenfeld: Auftaktlesung \"writer in residence\"",
+      "start_date": "2022-08-08T19:00:00+0200",
+      "end_date": "2022-08-08T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/gabriel-wolkenfeld-auftaktlesung-writer-in-residence"
+    },
+    {
+      "title": "Lesung Gabriel Wolkenfeld beim 2. Literaturfest \"Nah und Fern\" im Metropolengarten",
+      "start_date": "2022-08-14T16:00:00+0200",
+      "end_date": "2022-08-14T17:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-gabriel-wolkenfeld-beim-2-literaturfest-nah-und-fern-im-metropolengarten"
+    },
+    {
+      "title": "Lesung Gabriel Wolkenfeld \"Szeniale - Festival der freien Künste\"",
+      "start_date": "2022-08-20T11:00:00+0200",
+      "end_date": "2022-08-20T12:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-gabriel-wolkenfeld-szeniale-festival-der-freien-knste"
+    },
+    {
+      "title": "Lesung Gabriel Wolkenfeld \"Babylonisches Repertoire\"",
+      "start_date": "2022-09-23T19:00:00+0200",
+      "end_date": "2022-09-23T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-gabriel-wolkenfeld"
+    },
+    {
+      "title": "Lesung Gabriel Wolkenfeld \"Babylonisches Repertoire\"",
+      "start_date": "2022-09-24T15:00:00+0200",
+      "end_date": "2022-09-24T16:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-gabriel-wolkenfeld-babylonisches-repertoire"
+    },
+    {
+      "title": "Lesung Gabriel Wolkenfeld \"Babylonisches Repertoire\"",
+      "start_date": "2022-09-27T19:00:00+0200",
+      "end_date": "2022-09-27T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-gabriel-wolkenfeld-babylonisches-repertoire-1"
+    },
+    {
+      "title": "Lesung Gabriel Wolkenfeld \"Queere Welten. Literarische Reisen nach Israel und Russland\"",
+      "start_date": "2022-09-29T19:30:00+0200",
+      "end_date": "2022-09-29T20:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-gabriel-wolkenfeld-queere-welten-literarische-reisen-nach-israel-und-russland"
+    },
+    {
+      "title": "Gabriel Wolkenfeld: Abschlusslesung \"writer in residence\"",
+      "start_date": "2022-10-25T19:00:00+0200",
+      "end_date": "2022-10-25T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/gabriel-wolkenfeld-abschlusslesung-writer-in-residence"
+    },
+    {
+      "title": "Buchpräsentation \"Amarek\" von Gabriel Wolkenfeld",
+      "start_date": "2026-04-09T19:30:00+0200",
+      "end_date": "2026-04-09T20:30:00+0200",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/buchprsentation-amarek-von-gabriel-wolkenfeld"
+    },
+    {
+      "title": "Buchpräsentation \"Amarek\" von Gabriel Wolkenfeld",
+      "start_date": "2026-04-24T20:30:00+0200",
+      "end_date": "2026-04-24T21:30:00+0200",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/buchprsentation-amarek-von-gabriel-wolkenfeld-1"
+    }
+  ],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/gabriel-wolkenfeld.jpg\" alt=\"Gabriel Wolkenfeld\" width=\"300\"></div><div><h1>Gabriel Wolkenfeld</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1985 in Berlin. Studierte Germanistik, allgemeine und vergleichende Literaturwissenschaft und Russistik; Studien- und Arbeitsaufenthalte in Estland, Russland und der Ukraine. Bisher erschienen: <em>Wir Propagandisten </em>(2015), <em>Sandoasen (Israelisches Album) </em>(2021).</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Gabriel Wolkenfeld mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/amarek\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/696b906c6fed6618b58a9218/1771944716779/amarek-mockup.png?format=1500w\" alt=\"Amarok – Gabriel Wolkenfelds Märchensammlung | Moderne Fabeln\" loading=\"lazy\"></div><div class=\"demo-book-title\">Amarok – Gabriel Wolkenfelds Märchensammlung | Moderne Fabeln</div><div class=\"demo-book-price\">28.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/babylonisches-repertoire\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b6317209981009e9f075fb/1768657023281/babylonisches_repertoire_mockup.png?format=1500w\" alt=\"Babylonisches Repertoire\" loading=\"lazy\"></div><div class=\"demo-book-title\">Babylonisches Repertoire</div><div class=\"demo-book-price\">29.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">20.11.2021 &middot; 16:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-gabriel-wolkenfeld-aus-babylonisches-repertoire\">Lesung Gabriel Wolkenfeld aus \"Babylonisches Repertoire\"</a></div><div class=\"demo-event-loc\">Galerie Gustav von Hirschheydt</div></div></li><li><div class=\"demo-event-date\">04.12.2021 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-gabriel-wolkenfeld-aus-babylonisches-repertoire-1\">Lesung Gabriel Wolkenfeld aus \"Babylonisches Repertoire\"</a></div><div class=\"demo-event-loc\">Volksbühne </div></div></li><li><div class=\"demo-event-date\">12.04.2022 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-gabriel-wolkenfeld-im-lcb\">Lesung Gabriel Wolkenfeld im LCB</a></div><div class=\"demo-event-loc\">Literarisches Colloquium Berlin</div></div></li><li><div class=\"demo-event-date\">20.04.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-von-gabriel-wolkenfeld-aus-babylonisches-repertoire-1\">Lesung von Gabriel Wolkenfeld aus \"Babylonisches Repertoire\"</a></div><div class=\"demo-event-loc\">Literaturhaus Mattersburg</div></div></li><li><div class=\"demo-event-date\">21.04.2022 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-von-gabriel-wolkenfeld-aus-babylonisches-repertoire\">Lesung von Gabriel Wolkenfeld aus \"Babylonisches Repertoire\"</a></div><div class=\"demo-event-loc\">Buchhandlung Löwenherz</div></div></li><li><div class=\"demo-event-date\">08.08.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/gabriel-wolkenfeld-auftaktlesung-writer-in-residence\">Gabriel Wolkenfeld: Auftaktlesung \"writer in residence\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">14.08.2022 &middot; 16:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-gabriel-wolkenfeld-beim-2-literaturfest-nah-und-fern-im-metropolengarten\">Lesung Gabriel Wolkenfeld beim 2. Literaturfest \"Nah und Fern\" im Metropolengarten</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">20.08.2022 &middot; 11:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-gabriel-wolkenfeld-szeniale-festival-der-freien-knste\">Lesung Gabriel Wolkenfeld \"Szeniale - Festival der freien Künste\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">23.09.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-gabriel-wolkenfeld\">Lesung Gabriel Wolkenfeld \"Babylonisches Repertoire\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">24.09.2022 &middot; 15:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-gabriel-wolkenfeld-babylonisches-repertoire\">Lesung Gabriel Wolkenfeld \"Babylonisches Repertoire\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">27.09.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-gabriel-wolkenfeld-babylonisches-repertoire-1\">Lesung Gabriel Wolkenfeld \"Babylonisches Repertoire\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">29.09.2022 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-gabriel-wolkenfeld-queere-welten-literarische-reisen-nach-israel-und-russland\">Lesung Gabriel Wolkenfeld \"Queere Welten. Literarische Reisen nach Israel und Russland\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">25.10.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/gabriel-wolkenfeld-abschlusslesung-writer-in-residence\">Gabriel Wolkenfeld: Abschlusslesung \"writer in residence\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">09.04.2026 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-amarek-von-gabriel-wolkenfeld\">Buchpräsentation \"Amarek\" von Gabriel Wolkenfeld</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">24.04.2026 &middot; 20:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-amarek-von-gabriel-wolkenfeld-1\">Buchpräsentation \"Amarek\" von Gabriel Wolkenfeld</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li></ul></div>",
+  "meta": {
+    "title": "Gabriel Wolkenfeld · Müry Salzmann Verlag",
+    "description": "geboren 1985 in Berlin. Studierte Germanistik, allgemeine und vergleichende Literaturwissenschaft und Russistik; Studien- und Arbeitsaufenthalte in Estland, Russland und der Ukraine. Bisher…"
+  }
+}

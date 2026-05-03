@@ -1,0 +1,31 @@
+{
+  "slug": "jurgen-flimm",
+  "name": "Jürgen Flimm",
+  "category": "Kunst/Architektur",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">1941-2023, Theater- und Opernregisseur, leitete das Schauspiel Köln, das Thalia Theater Hamburg und die Salzburger Festspiele. Seit September 2010 ist er Intendant der Berliner Staatsoper Unter den Linden. Buchveröffentlichungen: Theatergänger. Begegnungen und Stationen (2004), Theaterbilder. Eine fotografische Werkschau von H. und C. Baus (2008).</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>",
+  "photo_url": "images/jurgen-flimm.jpg",
+  "books": [
+    {
+      "title": "Das Salzburger Kapitel",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e8b91e5f192b6758003e2d8/1768749464001/?format=1500w",
+      "price": 9.9,
+      "currency": "EUR",
+      "isbn": "978-3-99014-022-2",
+      "page_url": "/kunst-architektur/das-salzburger-kapitel"
+    },
+    {
+      "title": "Die gestürzte Pyramide",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5ec3dfdc5bc65724c74f420f/1768749464015/?format=1500w",
+      "price": 9.9,
+      "currency": "EUR",
+      "isbn": "978-3-99014-006-2",
+      "page_url": "/kunst-architektur/die-gestrzte-pyramide"
+    }
+  ],
+  "events": [],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/jurgen-flimm.jpg\" alt=\"Jürgen Flimm\" width=\"300\"></div><div><h1>Jürgen Flimm</h1><div class=\"demo-author-category\">Kunst/Architektur</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">1941-2023, Theater- und Opernregisseur, leitete das Schauspiel Köln, das Thalia Theater Hamburg und die Salzburger Festspiele. Seit September 2010 ist er Intendant der Berliner Staatsoper Unter den Linden. Buchveröffentlichungen: Theatergänger. Begegnungen und Stationen (2004), Theaterbilder. Eine fotografische Werkschau von H. und C. Baus (2008).</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Jürgen Flimm mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/kunst-architektur/das-salzburger-kapitel\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e8b91e5f192b6758003e2d8/1768749464001/?format=1500w\" alt=\"Das Salzburger Kapitel\" loading=\"lazy\"></div><div class=\"demo-book-title\">Das Salzburger Kapitel</div><div class=\"demo-book-price\">9.90 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/die-gestrzte-pyramide\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5ec3dfdc5bc65724c74f420f/1768749464015/?format=1500w\" alt=\"Die gestürzte Pyramide\" loading=\"lazy\"></div><div class=\"demo-book-title\">Die gestürzte Pyramide</div><div class=\"demo-book-price\">9.90 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "meta": {
+    "title": "Jürgen Flimm · Müry Salzmann Verlag",
+    "description": "1941-2023, Theater- und Opernregisseur, leitete das Schauspiel Köln, das Thalia Theater Hamburg und die Salzburger Festspiele. Seit September 2010 ist er Intendant der Berliner Staatsoper Unter…"
+  }
+}

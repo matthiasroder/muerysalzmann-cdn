@@ -1,0 +1,23 @@
+{
+  "slug": "hermann-knoflacher",
+  "name": "Hermann Knoflacher",
+  "category": "Kultur/Gesellschaft",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1940 in Villach, langjähriger Ordinarius des Instituts für Verkehrsplanung der Technischen Universität Wien, ordentliches Mitglied der Europäischen Akademie der Wissenschaften und Künste, Präsident des Club of Vienna, Mitglied des Club of Budapest, globaler Fußgehervertreter der Vereinten Nationen.</p>",
+  "photo_url": "images/hermann-knoflacher.jpg",
+  "books": [
+    {
+      "title": "Verkehrt!",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b1a871b981f2a96e25843/1755252109189/verkehrt%21-mockup.png?format=1500w",
+      "price": 19.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-079-6",
+      "page_url": "/kultur-gesellschaft/verkehrt"
+    }
+  ],
+  "events": [],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/hermann-knoflacher.jpg\" alt=\"Hermann Knoflacher\" width=\"300\"></div><div><h1>Hermann Knoflacher</h1><div class=\"demo-author-category\">Kultur/Gesellschaft</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1940 in Villach, langjähriger Ordinarius des Instituts für Verkehrsplanung der Technischen Universität Wien, ordentliches Mitglied der Europäischen Akademie der Wissenschaften und Künste, Präsident des Club of Vienna, Mitglied des Club of Budapest, globaler Fußgehervertreter der Vereinten Nationen.</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Hermann Knoflacher mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/kultur-gesellschaft/verkehrt\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b1a871b981f2a96e25843/1755252109189/verkehrt%21-mockup.png?format=1500w\" alt=\"Verkehrt!\" loading=\"lazy\"></div><div class=\"demo-book-title\">Verkehrt!</div><div class=\"demo-book-price\">19.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "meta": {
+    "title": "Hermann Knoflacher · Müry Salzmann Verlag",
+    "description": "geboren 1940 in Villach, langjähriger Ordinarius des Instituts für Verkehrsplanung der Technischen Universität Wien, ordentliches Mitglied der Europäischen Akademie der Wissenschaften und Künste,…"
+  }
+}

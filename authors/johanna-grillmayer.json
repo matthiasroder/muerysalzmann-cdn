@@ -1,0 +1,264 @@
+{
+  "slug": "johanna-grillmayer",
+  "name": "Johanna Grillmayer",
+  "category": "Fiction/Die Weiße Reihe",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1974, lebt mit ihrer Familie in Wien. Studium der Geschichte an der Universität Wien. Arbeitet als Redakteurin beim ORF. Bei Müry Salzmann liegen zwei Bände ihrer Dystopia-Trilogie vor: <em>That’s life in Dystopia </em>und <em>Ein sicherer Ort</em>. Der dritte Teil ist in Arbeit. </p>",
+  "photo_url": "images/johanna-grillmayer.jpg",
+  "books": [
+    {
+      "title": "Ein guter Mann",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/6864f42e40a81121db50b77a/1768656910216/ein-guter-mann-mockup.png?format=1500w",
+      "price": 28.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-284-4",
+      "page_url": "/belletristik/ein-guter-mann"
+    },
+    {
+      "title": "Ein sicherer Ort",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/6696808801b30a20bf97f64f/1758813043699/Ein+Sicherer+Ort+MockUp.png?format=1500w",
+      "price": 28.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-260-8",
+      "page_url": "/belletristik/ein-sicherer-ort"
+    },
+    {
+      "title": "That's life in Dystopia",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/646b772d119d0164eb2c360e/1768657023118/Thats+Life+in+Dystopia+MockUp.png?format=1500w",
+      "price": 28.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-246-2",
+      "page_url": "/belletristik/thats-life-in-dystopia"
+    }
+  ],
+  "events": [
+    {
+      "title": "Johanna Grillmayer liest aus \"That's life in Dystopia\"",
+      "start_date": "2023-10-17T19:00:00+0200",
+      "end_date": "2023-10-17T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/johanna-grillmayer-liest-aus-thats-life-in-dystopia"
+    },
+    {
+      "title": "Johanna Grillmayer liest auf der BuchWien",
+      "start_date": "2023-11-11T11:00:00+0100",
+      "end_date": "2023-11-11T11:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/johanna-grillmayer-liest-auf-der-buchwien"
+    },
+    {
+      "title": "Johanna Grillmayer liest aus \"That's life in Dystopia\"",
+      "start_date": "2024-02-22T19:00:00+0100",
+      "end_date": "2024-02-22T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/johanna-grillmayer-liest-aus-thats-life-in-dystopia-1"
+    },
+    {
+      "title": "Lesung Johanna Grillmayer (gemeinsam mit Valerie Fritsch)",
+      "start_date": "2024-03-13T19:00:00+0100",
+      "end_date": "2024-03-13T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-johanna-grillmayer-gemeinsam-mit-valerie-fritsch"
+    },
+    {
+      "title": "Welt und Untergang. Zu Gast am Literaturstammtisch im Literaturhaus Wien u.a. Johanna Grillmayer",
+      "start_date": "2024-03-14T19:00:00+0100",
+      "end_date": "2024-03-14T20:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/welt-und-untergang-zu-gast-am-literaturstammtisch-im-literaturhaus-wien-ua-johanna-grillmayer"
+    },
+    {
+      "title": "Buchpräsentation Johanna Grillmayer \"That's life in Dystopia\"",
+      "start_date": "2024-04-11T19:30:00+0200",
+      "end_date": "2024-04-11T21:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-johanna-grillmayer-thats-life-in-dystopia"
+    },
+    {
+      "title": "Buchpräsentation Johanna Grillmayer \"That's life in Dystopia\"",
+      "start_date": "2024-04-18T19:30:00+0200",
+      "end_date": "2024-04-18T20:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-johanna-grillmayer-thats-life-in-dystopia-1"
+    },
+    {
+      "title": "Buchpremiere \"Ein sicherer Ort\" von Johanna Grillmayer",
+      "start_date": "2024-10-15T19:00:00+0200",
+      "end_date": "2024-10-15T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchpremiere-ein-sicherer-ort-von-johanna-grillmayer"
+    },
+    {
+      "title": "Buchpräsentation \"Ein sicherer Ort\" von Johanna Grillmayer",
+      "start_date": "2024-10-24T19:00:00+0200",
+      "end_date": "2024-10-24T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-ein-sicherer-ort-von-johanna-grillmayer"
+    },
+    {
+      "title": "Buchpräsentation \"Ein sicherer Ort\" von Johanna Grillmayer",
+      "start_date": "2024-11-07T19:00:00+0100",
+      "end_date": "2024-11-07T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-ein-sicherer-ort-von-johanna-grillmayer-1"
+    },
+    {
+      "title": "Johanna Grillmayer liest am Altstadtbuchtag Salzburg",
+      "start_date": "2024-11-09T14:00:00+0100",
+      "end_date": "2024-11-09T15:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/johanna-grillmayer-liest-am-altstadtbuchtag-salzburg"
+    },
+    {
+      "title": "Johanna Grillmayer liest aus \"Ein sicherer Ort\" auf der BuchWien",
+      "start_date": "2024-11-21T12:30:00+0100",
+      "end_date": "2024-11-21T13:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/johanna-grillmayer-liest-aus-ein-sicherer-ort-auf-der-buchwien"
+    },
+    {
+      "title": "ABGESAGT: Johanna Grillmayer liest aus \"Ein sicherer Ort\"",
+      "start_date": "2024-12-11T19:00:00+0100",
+      "end_date": "2024-12-11T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/johanna-grillmayer-liest-aus-ein-sicherer-ort"
+    },
+    {
+      "title": "Lesung Johanna Grillmayer aus \"Ein sicherer Ort\"",
+      "start_date": "2025-01-15T19:00:00+0100",
+      "end_date": "2025-01-15T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-johanna-grillmayer-aus-ein-sicherer-ort"
+    },
+    {
+      "title": "Writers on writers: Johanna Grillmayer und Bettina Balàka",
+      "start_date": "2025-03-06T19:00:00+0100",
+      "end_date": "2025-03-06T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/writers-on-writers-johanna-grillmayer-und-bettina-balnka"
+    },
+    {
+      "title": "Buchpräsentation \"Ein sicherer Ort\" von Johanna Grillmayer",
+      "start_date": "2025-03-24T19:00:00+0100",
+      "end_date": "2025-03-24T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-ein-sicherer-ort-von-johanna-grillmayer-2"
+    },
+    {
+      "title": "Johanna Grillmayer und Christina Maria Landerl stellen ihre neuen Bücher vor",
+      "start_date": "2025-05-20T19:30:00+0200",
+      "end_date": "2025-05-20T20:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/johanna-grillmayer-und-christina-maria-landerl-stellen-ihre-neuen-bcher-vor"
+    },
+    {
+      "title": "Johanna Grillmayer liest auf der Literaturmeile Wien",
+      "start_date": "2025-09-13T17:00:00+0200",
+      "end_date": "2025-09-13T17:30:00+0200",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/johanna-grillmayer-liest-auf-der-literaturmeile-wien"
+    },
+    {
+      "title": "Buchpremiere Johanna Grillmayer \"Ein guter Mann\"",
+      "start_date": "2025-10-09T19:00:00+0200",
+      "end_date": "2025-10-09T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchpremiere-johanna-grillmayer-ein-guter-mann"
+    },
+    {
+      "title": "Buchpräsentation Johanna Grillmayer \"Dystopia-Trilogie\"",
+      "start_date": "2025-10-13T16:00:00+0200",
+      "end_date": "2025-10-13T18:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-johanna-grillmayer-dystopia-trilogie"
+    },
+    {
+      "title": "Lesung Johanna Grillmayer \"Ein guter Mann\"",
+      "start_date": "2025-10-22T19:00:00+0200",
+      "end_date": "2025-10-22T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-johanna-grillmayer-ein-guter-mann"
+    },
+    {
+      "title": "Buchpräsentation Johanna Grillmayer \"Ein guter Mann\"",
+      "start_date": "2025-10-24T19:00:00+0200",
+      "end_date": "2025-10-24T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-johanna-grillmayer-ein-guter-mann"
+    },
+    {
+      "title": "Lesung Johanna Grillmayer \"Ein guter Mann\"",
+      "start_date": "2025-11-20T19:00:00+0100",
+      "end_date": "2025-11-20T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-johanna-grillmayer-ein-guter-mann-1"
+    },
+    {
+      "title": "Abgesagt: Lesung Johanna Grillmayer aus \"Ein guter Mann\"",
+      "start_date": "2025-12-11T19:00:00+0100",
+      "end_date": "2025-12-11T20:00:00+0100",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/lesung-johanna-grillmayer-aus-ein-guter-mann"
+    },
+    {
+      "title": "Lesung Johanna Grillmayer aus \"Ein guter Mann\"",
+      "start_date": "2026-01-21T19:30:00+0100",
+      "end_date": "2026-01-21T20:30:00+0100",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/lesung-johanna-grillmayer-aus-ein-guter-mann-2"
+    },
+    {
+      "title": "Lesung Johanna Grillmayer aus \"Ein guter Mann\"",
+      "start_date": "2026-02-13T19:00:00+0100",
+      "end_date": "2026-02-13T20:00:00+0100",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/lesung-johanna-grillmayer-aus-ein-guter-mann-1"
+    },
+    {
+      "title": "Johanna Grillmayer und Hubert Weinheimer stellen ihre aktuellen Bücher vor",
+      "start_date": "2026-04-09T19:30:00+0200",
+      "end_date": "2026-04-09T21:00:00+0200",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/johanna-grillmayer-und-hubert-weinheimer-stellen-ihre-aktuellen-bcher-vor"
+    },
+    {
+      "title": "Lesung Johanna Grillmayer",
+      "start_date": "2026-04-29T18:30:00+0200",
+      "end_date": "2026-04-29T19:30:00+0200",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/lesung-johanna-grillmayer"
+    }
+  ],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/johanna-grillmayer.jpg\" alt=\"Johanna Grillmayer\" width=\"300\"></div><div><h1>Johanna Grillmayer</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1974, lebt mit ihrer Familie in Wien. Studium der Geschichte an der Universität Wien. Arbeitet als Redakteurin beim ORF. Bei Müry Salzmann liegen zwei Bände ihrer Dystopia-Trilogie vor: <em>That’s life in Dystopia </em>und <em>Ein sicherer Ort</em>. Der dritte Teil ist in Arbeit. </p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Johanna Grillmayer mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/ein-guter-mann\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/6864f42e40a81121db50b77a/1768656910216/ein-guter-mann-mockup.png?format=1500w\" alt=\"Ein guter Mann\" loading=\"lazy\"></div><div class=\"demo-book-title\">Ein guter Mann</div><div class=\"demo-book-price\">28.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/ein-sicherer-ort\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/6696808801b30a20bf97f64f/1758813043699/Ein+Sicherer+Ort+MockUp.png?format=1500w\" alt=\"Ein sicherer Ort\" loading=\"lazy\"></div><div class=\"demo-book-title\">Ein sicherer Ort</div><div class=\"demo-book-price\">28.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/thats-life-in-dystopia\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/646b772d119d0164eb2c360e/1768657023118/Thats+Life+in+Dystopia+MockUp.png?format=1500w\" alt=\"That's life in Dystopia\" loading=\"lazy\"></div><div class=\"demo-book-title\">That's life in Dystopia</div><div class=\"demo-book-price\">28.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">17.10.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/johanna-grillmayer-liest-aus-thats-life-in-dystopia\">Johanna Grillmayer liest aus \"That's life in Dystopia\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">11.11.2023 &middot; 11:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/johanna-grillmayer-liest-auf-der-buchwien\">Johanna Grillmayer liest auf der BuchWien</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.02.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/johanna-grillmayer-liest-aus-thats-life-in-dystopia-1\">Johanna Grillmayer liest aus \"That's life in Dystopia\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">13.03.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-johanna-grillmayer-gemeinsam-mit-valerie-fritsch\">Lesung Johanna Grillmayer (gemeinsam mit Valerie Fritsch)</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">14.03.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/welt-und-untergang-zu-gast-am-literaturstammtisch-im-literaturhaus-wien-ua-johanna-grillmayer\">Welt und Untergang. Zu Gast am Literaturstammtisch im Literaturhaus Wien u.a. Johanna Grillmayer</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">11.04.2024 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-johanna-grillmayer-thats-life-in-dystopia\">Buchpräsentation Johanna Grillmayer \"That's life in Dystopia\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">18.04.2024 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-johanna-grillmayer-thats-life-in-dystopia-1\">Buchpräsentation Johanna Grillmayer \"That's life in Dystopia\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">15.10.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchpremiere-ein-sicherer-ort-von-johanna-grillmayer\">Buchpremiere \"Ein sicherer Ort\" von Johanna Grillmayer</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">24.10.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-ein-sicherer-ort-von-johanna-grillmayer\">Buchpräsentation \"Ein sicherer Ort\" von Johanna Grillmayer</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">07.11.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-ein-sicherer-ort-von-johanna-grillmayer-1\">Buchpräsentation \"Ein sicherer Ort\" von Johanna Grillmayer</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">09.11.2024 &middot; 14:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/johanna-grillmayer-liest-am-altstadtbuchtag-salzburg\">Johanna Grillmayer liest am Altstadtbuchtag Salzburg</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">21.11.2024 &middot; 12:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/johanna-grillmayer-liest-aus-ein-sicherer-ort-auf-der-buchwien\">Johanna Grillmayer liest aus \"Ein sicherer Ort\" auf der BuchWien</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">11.12.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/johanna-grillmayer-liest-aus-ein-sicherer-ort\">ABGESAGT: Johanna Grillmayer liest aus \"Ein sicherer Ort\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">15.01.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-johanna-grillmayer-aus-ein-sicherer-ort\">Lesung Johanna Grillmayer aus \"Ein sicherer Ort\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">06.03.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/writers-on-writers-johanna-grillmayer-und-bettina-balnka\">Writers on writers: Johanna Grillmayer und Bettina Balàka</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">24.03.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-ein-sicherer-ort-von-johanna-grillmayer-2\">Buchpräsentation \"Ein sicherer Ort\" von Johanna Grillmayer</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">20.05.2025 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/johanna-grillmayer-und-christina-maria-landerl-stellen-ihre-neuen-bcher-vor\">Johanna Grillmayer und Christina Maria Landerl stellen ihre neuen Bücher vor</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">13.09.2025 &middot; 17:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/johanna-grillmayer-liest-auf-der-literaturmeile-wien\">Johanna Grillmayer liest auf der Literaturmeile Wien</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">09.10.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchpremiere-johanna-grillmayer-ein-guter-mann\">Buchpremiere Johanna Grillmayer \"Ein guter Mann\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">13.10.2025 &middot; 16:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-johanna-grillmayer-dystopia-trilogie\">Buchpräsentation Johanna Grillmayer \"Dystopia-Trilogie\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.10.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-johanna-grillmayer-ein-guter-mann\">Lesung Johanna Grillmayer \"Ein guter Mann\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">24.10.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-johanna-grillmayer-ein-guter-mann\">Buchpräsentation Johanna Grillmayer \"Ein guter Mann\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">20.11.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-johanna-grillmayer-ein-guter-mann-1\">Lesung Johanna Grillmayer \"Ein guter Mann\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">11.12.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-johanna-grillmayer-aus-ein-guter-mann\">Abgesagt: Lesung Johanna Grillmayer aus \"Ein guter Mann\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">21.01.2026 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-johanna-grillmayer-aus-ein-guter-mann-2\">Lesung Johanna Grillmayer aus \"Ein guter Mann\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">13.02.2026 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-johanna-grillmayer-aus-ein-guter-mann-1\">Lesung Johanna Grillmayer aus \"Ein guter Mann\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">09.04.2026 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/johanna-grillmayer-und-hubert-weinheimer-stellen-ihre-aktuellen-bcher-vor\">Johanna Grillmayer und Hubert Weinheimer stellen ihre aktuellen Bücher vor</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">29.04.2026 &middot; 18:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-johanna-grillmayer\">Lesung Johanna Grillmayer</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li></ul></div>",
+  "meta": {
+    "title": "Johanna Grillmayer · Müry Salzmann Verlag",
+    "description": "geboren 1974, lebt mit ihrer Familie in Wien. Studium der Geschichte an der Universität Wien. Arbeitet als Redakteurin beim ORF. Bei Müry Salzmann liegen zwei Bände ihrer Dystopia-Trilogie vor:…"
+  }
+}

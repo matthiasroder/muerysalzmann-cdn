@@ -1,0 +1,296 @@
+{
+  "slug": "yvonne-zitzmann",
+  "name": "Yvonne Zitzmann",
+  "category": "Fiction/Die Weiße Reihe",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1976, lebt in Rangsdorf bei Berlin. Seit 2010 ist sie freie Autorin und Übersetzerin aus dem Russischen. Sie hat Lyrik, Kurzprosa, Hörspiele für Kinder und Erwachsene sowie Literaturübersetzungen in Anthologien und Zeitschriften veröffentlicht. Zu ihren Auszeichnungen gehören u. a. das Arbeitsstipendium vom Land Brandenburg (2010), der Ehm-Welk-Literaturpreis (2012) und der Kunst-Förderpreis des Landes Brandenburg (2014). 2011 war sie Finalistin beim Literaturpreis Prenzlauer Berg und 2013/14 Stipendiatin der Bayerischen Akademie des Schreibens am Literaturhaus München.</p>",
+  "photo_url": "images/yvonne-zitzmann.jpg",
+  "books": [
+    {
+      "title": "Die Füchse haben Gruben, die Vögel haben Nester",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/6320509c79d82c056f9ad257/1768657023238/Fu%CC%88chse%3AVo%CC%88gel+MockUp.png?format=1500w",
+      "price": 24.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-230-1",
+      "page_url": "/belletristik/die-fchse-haben-gruben-die-vgel-haben-nester-z7zz6"
+    },
+    {
+      "title": "Tage des Vergessens",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60afaf1988531b227f6c0161/1768657023246/Tage+des+Vergessens+MockUp.png?format=1500w",
+      "price": 24.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-214-1",
+      "page_url": "/belletristik/tage-des-vergessens"
+    }
+  ],
+  "events": [
+    {
+      "title": "Frühlingsfest der Salzburger Verlage im Literaturhaus Salzburg",
+      "start_date": "2021-03-26T19:30:00+0100",
+      "end_date": "2021-03-26T20:30:00+0100",
+      "location_name": "Literaturhaus Salzburg",
+      "location_address": "23 Strubergasse Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/frhlingsfest-der-salzburger-verlage-im-literaturhaus-salzburg"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann \"Tage des Vergessens",
+      "start_date": "2021-08-29T14:00:00+0200",
+      "end_date": "2021-08-29T15:00:00+0200",
+      "location_name": "Bibliothek Rangsdorf",
+      "location_address": "30 Seebadallee Rangsdorf, BB, 15834 Deutschland",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-tage-des-vergessens-1"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann \"Tage des Vergessens\"",
+      "start_date": "2021-10-15T19:00:00+0200",
+      "end_date": "2021-10-15T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-tage-des-vergessens-3"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann \"Tage des Vergessens\"",
+      "start_date": "2021-10-29T18:30:00+0200",
+      "end_date": "2021-10-29T19:30:00+0200",
+      "location_name": "Bibliothek Zeuthen",
+      "location_address": "Dorfstraße 22 15738 Zeuthen Deutschland",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-tage-des-vergessens-2"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann \"Tage des Vergessens\"",
+      "start_date": "2022-02-08T19:00:00+0100",
+      "end_date": "2022-02-08T20:00:00+0100",
+      "location_name": "Cinema Arthouse",
+      "location_address": "16 Erich-Maria-Remarque-Ring Osnabrück, NDS, 49074 Deutschland",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-tage-des-vergessens"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann",
+      "start_date": "2022-03-31T19:00:00+0200",
+      "end_date": "2022-03-31T20:00:00+0200",
+      "location_name": "Galerie Kunstflügel",
+      "location_address": "45 Seebadallee Rangsdorf, BB, 15834 Deutschland",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-1"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann",
+      "start_date": "2022-04-06T18:00:00+0200",
+      "end_date": "2022-04-06T19:00:00+0200",
+      "location_name": "Galeriecafé",
+      "location_address": "Kirchplatz 7 15806 Zossen Deutschland",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-3"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann",
+      "start_date": "2022-04-14T18:30:00+0200",
+      "end_date": "2022-04-14T19:30:00+0200",
+      "location_name": "Museum Angermünde",
+      "location_address": "17 Hoher Steinweg Angermünde, BB, 16278 Deutschland",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-2"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann",
+      "start_date": "2022-04-30T19:30:00+0200",
+      "end_date": "2022-04-30T20:30:00+0200",
+      "location_name": "Literaturhaus Hannover",
+      "location_address": "Sophienstraße 2 30159 Hannover Deutschland",
+      "page_url": "/kalender/lesung-yvonne-zitzmann"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann",
+      "start_date": "2022-05-10T19:00:00+0200",
+      "end_date": "2022-05-10T20:00:00+0200",
+      "location_name": "Roter Saal im Schloss",
+      "location_address": "Schlossplatz 1 38100 Braunschweig Deutschland",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-5"
+    },
+    {
+      "title": "Yvonne Zitzmann: Lesung und Gespräch beim Literaturfest Salzburg",
+      "start_date": "2022-05-19T19:00:00+0200",
+      "end_date": "2022-05-19T20:00:00+0200",
+      "location_name": "Rupertus Buchhandlung",
+      "location_address": "Dreifaltigkeitsgasse Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/yvonne-zitzmann-lesung-und-gesprch-beim-literaturfest-salzburg"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann",
+      "start_date": "2022-06-08T16:30:00+0200",
+      "end_date": "2022-06-08T17:30:00+0200",
+      "location_name": "Bürgertreff Königs",
+      "location_address": "Herderstraße 8-9 16868 Wusterhausen Deutschland",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-4"
+    },
+    {
+      "title": "Eleonora Hummel, Jens Wonneberger und Yvonne Zitzmann lesen beim Lesefestival \"Literatur auf der Parkbank\" in Cottbus",
+      "start_date": "2022-09-03T13:00:00+0200",
+      "end_date": "2022-09-04T17:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/eleonora-hummel-jens-wonneberger-und-yvonne-zitzmann-lesen-beim-lesefestival-literatur-auf-der-parkbank-in-cottbus"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann liest aus \"Tage des Vergessens\"",
+      "start_date": "2022-09-23T19:00:00+0200",
+      "end_date": "2022-09-23T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-liest-aus-tage-des-vergessens"
+    },
+    {
+      "title": "Entfällt: Buchpremiere Yvonne Zitzmann \"Die Füchse haben Gruben, die Vögel haben Nester\"",
+      "start_date": "2022-09-27T20:00:00+0200",
+      "end_date": "2022-09-27T21:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchpremiere-yvonne-zitzmann-die-fchse-haben-gruben-die-vgel-haben-nester"
+    },
+    {
+      "title": "Buchpremiere Yvonne Zitzmann \"Die Füchse haben Gruben, die Vögel haben Nester\"",
+      "start_date": "2022-10-13T20:00:00+0200",
+      "end_date": "2022-10-13T21:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchpremiere-yvonne-zitzmann-die-fchse-haben-gruben-die-vgel-haben-nester-1"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann aus \"Die Füchse haben Gruben, die Vögel haben Nester\"",
+      "start_date": "2022-10-20T19:00:00+0200",
+      "end_date": "2022-10-20T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-aus-die-fchse-haben-gruben-die-vgel-haben-nester"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann aus \"Die Füchse haben Gruben, die Vögel haben Nester\"",
+      "start_date": "2023-02-16T20:00:00+0100",
+      "end_date": "2023-02-16T21:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-aus-die-fchse-haben-gruben-die-vgel-haben-nester-3"
+    },
+    {
+      "title": "Yvonne Zitzmann liest aus \"Die Füchse haben Gruben, die Vögel haben Nester\"",
+      "start_date": "2023-03-03T18:00:00+0100",
+      "end_date": "2023-03-03T19:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/yvonne-zitzmann-liest-aus-die-fchse-haben-gruben-die-vgel-haben-nester"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann aus \"Die Füchse haben Gruben, die Vögel haben Nester\"",
+      "start_date": "2023-03-17T19:00:00+0100",
+      "end_date": "2023-03-17T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-aus-die-fchse-haben-gruben-die-vgel-haben-nester-1"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann aus \"Die Füchse haben Gruben, die Vögel haben Nester\" und \"Tage des Vergessens\"",
+      "start_date": "2023-04-23T11:00:00+0200",
+      "end_date": "2023-04-23T12:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-aus-die-fchse-haben-gruben-die-vgel-haben-nester-und-tage-des-vergessens-1"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann aus \"Die Füchse haben Gruben, die Vögel haben Nester\" und \"Tage des Vergessens",
+      "start_date": "2023-04-25T21:00:00+0200",
+      "end_date": "2023-04-25T22:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-aus-die-fchse-haben-gruben-die-vgel-haben-nester-und-tage-des-vergessens"
+    },
+    {
+      "title": "Buchpräsentation \"Die Füchse haben Gruben, die Vögel haben Nester\" von Yvonne Zitzmann",
+      "start_date": "2023-04-30T16:00:00+0200",
+      "end_date": "2023-04-30T16:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-die-fchse-haben-gruben-die-vgel-haben-nester-von-yvonne-zitzmann"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann aus \"Die Füchse haben Gruben, die Vögel haben Nester\"",
+      "start_date": "2023-05-04T19:00:00+0200",
+      "end_date": "2023-05-04T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-yvonne-zitzmann-aus-die-fchse-haben-gruben-die-vgel-haben-nester-2"
+    },
+    {
+      "title": "Yvonne Zitzmann liest aus \"Die Füchse haben Gruben, die Vögel haben Nester\"",
+      "start_date": "2023-05-19T19:00:00+0200",
+      "end_date": "2023-05-19T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/yvonne-zitzmann-liest-aus-die-fchse-haben-gruben-die-vgel-haben-nester-1"
+    },
+    {
+      "title": "Yvonne Zitzmann liest bei LIT:potsdam",
+      "start_date": "2023-06-23T09:00:00+0200",
+      "end_date": "2023-06-23T11:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/yvonne-zitzmann-liest-bei-litpotsdam"
+    },
+    {
+      "title": "Yvonne Zitzmann liest aus \"Die Füchse haben Gruben, die Vögel haben Nester\"",
+      "start_date": "2023-08-31T19:00:00+0200",
+      "end_date": "2023-08-31T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/yvonne-zitzmann-liest-aus-die-fchse-haben-gruben-die-vgel-haben-nester-2"
+    },
+    {
+      "title": "Lesung Yvonne Zitzmann",
+      "start_date": "2023-10-10T10:00:00+0200",
+      "end_date": "2023-10-10T12:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/hjzxr9rpmzpsx9nchfcehebd28xtg7"
+    },
+    {
+      "title": "Yvonne Zitzmann liest bei \"Brandenburg liest!\"",
+      "start_date": "2024-06-08T18:00:00+0200",
+      "end_date": "2024-06-08T23:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/yvonne-zitzmann-liest-bei-brandenburg-liest"
+    },
+    {
+      "title": "Yvonne Zitzmann liest aus \"Die Füchse haben Gruben, die Vögel haben Nester\"",
+      "start_date": "2024-09-15T18:00:00+0200",
+      "end_date": "2024-09-15T19:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/yvonne-zitzmann-liest-aus-die-fchse-haben-gruben-die-vgel-haben-nester-3"
+    },
+    {
+      "title": "Yvonne Zitzmann liest aus \"Die Füchse haben Gruben, die Vögel haben Nester\"",
+      "start_date": "2024-09-15T19:00:00+0200",
+      "end_date": "2024-09-15T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/yvonne-zitzmann-liest-aus-die-fchse-haben-gruben-die-vgel-haben-nester-4"
+    },
+    {
+      "title": "Yvonne Zitzmann liest aus \"Die Füchse haben Gruben, die Vögel haben Nester\"",
+      "start_date": "2024-09-27T19:00:00+0200",
+      "end_date": "2024-09-27T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/yvonne-zitzmann-liest-aus-die-fchse-haben-gruben-die-vgel-haben-nester-5"
+    },
+    {
+      "title": "Yvonne Zitzmann liest aus \"Tage des Vergessens\"",
+      "start_date": "2024-11-15T18:00:00+0100",
+      "end_date": "2024-11-15T23:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/yvonne-zitzmann-liest-aus-tage-des-vergessens"
+    }
+  ],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/yvonne-zitzmann.jpg\" alt=\"Yvonne Zitzmann\" width=\"300\"></div><div><h1>Yvonne Zitzmann</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1976, lebt in Rangsdorf bei Berlin. Seit 2010 ist sie freie Autorin und Übersetzerin aus dem Russischen. Sie hat Lyrik, Kurzprosa, Hörspiele für Kinder und Erwachsene sowie Literaturübersetzungen in Anthologien und Zeitschriften veröffentlicht. Zu ihren Auszeichnungen gehören u. a. das Arbeitsstipendium vom Land Brandenburg (2010), der Ehm-Welk-Literaturpreis (2012) und der Kunst-Förderpreis des Landes Brandenburg (2014). 2011 war sie Finalistin beim Literaturpreis Prenzlauer Berg und 2013/14 Stipendiatin der Bayerischen Akademie des Schreibens am Literaturhaus München.</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Yvonne Zitzmann mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/die-fchse-haben-gruben-die-vgel-haben-nester-z7zz6\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/6320509c79d82c056f9ad257/1768657023238/Fu%CC%88chse%3AVo%CC%88gel+MockUp.png?format=1500w\" alt=\"Die Füchse haben Gruben, die Vögel haben Nester\" loading=\"lazy\"></div><div class=\"demo-book-title\">Die Füchse haben Gruben, die Vögel haben Nester</div><div class=\"demo-book-price\">24.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/tage-des-vergessens\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60afaf1988531b227f6c0161/1768657023246/Tage+des+Vergessens+MockUp.png?format=1500w\" alt=\"Tage des Vergessens\" loading=\"lazy\"></div><div class=\"demo-book-title\">Tage des Vergessens</div><div class=\"demo-book-price\">24.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">26.03.2021 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/frhlingsfest-der-salzburger-verlage-im-literaturhaus-salzburg\">Frühlingsfest der Salzburger Verlage im Literaturhaus Salzburg</a></div><div class=\"demo-event-loc\">Literaturhaus Salzburg</div></div></li><li><div class=\"demo-event-date\">29.08.2021 &middot; 14:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-tage-des-vergessens-1\">Lesung Yvonne Zitzmann \"Tage des Vergessens</a></div><div class=\"demo-event-loc\">Bibliothek Rangsdorf</div></div></li><li><div class=\"demo-event-date\">15.10.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-tage-des-vergessens-3\">Lesung Yvonne Zitzmann \"Tage des Vergessens\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">29.10.2021 &middot; 18:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-tage-des-vergessens-2\">Lesung Yvonne Zitzmann \"Tage des Vergessens\"</a></div><div class=\"demo-event-loc\">Bibliothek Zeuthen</div></div></li><li><div class=\"demo-event-date\">08.02.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-tage-des-vergessens\">Lesung Yvonne Zitzmann \"Tage des Vergessens\"</a></div><div class=\"demo-event-loc\">Cinema Arthouse</div></div></li><li><div class=\"demo-event-date\">31.03.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-1\">Lesung Yvonne Zitzmann</a></div><div class=\"demo-event-loc\">Galerie Kunstflügel</div></div></li><li><div class=\"demo-event-date\">06.04.2022 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-3\">Lesung Yvonne Zitzmann</a></div><div class=\"demo-event-loc\">Galeriecafé</div></div></li><li><div class=\"demo-event-date\">14.04.2022 &middot; 18:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-2\">Lesung Yvonne Zitzmann</a></div><div class=\"demo-event-loc\">Museum Angermünde</div></div></li><li><div class=\"demo-event-date\">30.04.2022 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann\">Lesung Yvonne Zitzmann</a></div><div class=\"demo-event-loc\">Literaturhaus Hannover</div></div></li><li><div class=\"demo-event-date\">10.05.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-5\">Lesung Yvonne Zitzmann</a></div><div class=\"demo-event-loc\">Roter Saal im Schloss</div></div></li><li><div class=\"demo-event-date\">19.05.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/yvonne-zitzmann-lesung-und-gesprch-beim-literaturfest-salzburg\">Yvonne Zitzmann: Lesung und Gespräch beim Literaturfest Salzburg</a></div><div class=\"demo-event-loc\">Rupertus Buchhandlung</div></div></li><li><div class=\"demo-event-date\">08.06.2022 &middot; 16:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-4\">Lesung Yvonne Zitzmann</a></div><div class=\"demo-event-loc\">Bürgertreff Königs</div></div></li><li><div class=\"demo-event-date\">03.09.2022 &middot; 13:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/eleonora-hummel-jens-wonneberger-und-yvonne-zitzmann-lesen-beim-lesefestival-literatur-auf-der-parkbank-in-cottbus\">Eleonora Hummel, Jens Wonneberger und Yvonne Zitzmann lesen beim Lesefestival \"Literatur auf der Parkbank\" in Cottbus</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">23.09.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-liest-aus-tage-des-vergessens\">Lesung Yvonne Zitzmann liest aus \"Tage des Vergessens\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">27.09.2022 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchpremiere-yvonne-zitzmann-die-fchse-haben-gruben-die-vgel-haben-nester\">Entfällt: Buchpremiere Yvonne Zitzmann \"Die Füchse haben Gruben, die Vögel haben Nester\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">13.10.2022 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchpremiere-yvonne-zitzmann-die-fchse-haben-gruben-die-vgel-haben-nester-1\">Buchpremiere Yvonne Zitzmann \"Die Füchse haben Gruben, die Vögel haben Nester\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">20.10.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-aus-die-fchse-haben-gruben-die-vgel-haben-nester\">Lesung Yvonne Zitzmann aus \"Die Füchse haben Gruben, die Vögel haben Nester\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">16.02.2023 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-aus-die-fchse-haben-gruben-die-vgel-haben-nester-3\">Lesung Yvonne Zitzmann aus \"Die Füchse haben Gruben, die Vögel haben Nester\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">03.03.2023 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/yvonne-zitzmann-liest-aus-die-fchse-haben-gruben-die-vgel-haben-nester\">Yvonne Zitzmann liest aus \"Die Füchse haben Gruben, die Vögel haben Nester\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">17.03.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-aus-die-fchse-haben-gruben-die-vgel-haben-nester-1\">Lesung Yvonne Zitzmann aus \"Die Füchse haben Gruben, die Vögel haben Nester\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">23.04.2023 &middot; 11:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-aus-die-fchse-haben-gruben-die-vgel-haben-nester-und-tage-des-vergessens-1\">Lesung Yvonne Zitzmann aus \"Die Füchse haben Gruben, die Vögel haben Nester\" und \"Tage des Vergessens\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">25.04.2023 &middot; 21:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-aus-die-fchse-haben-gruben-die-vgel-haben-nester-und-tage-des-vergessens\">Lesung Yvonne Zitzmann aus \"Die Füchse haben Gruben, die Vögel haben Nester\" und \"Tage des Vergessens</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">30.04.2023 &middot; 16:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-die-fchse-haben-gruben-die-vgel-haben-nester-von-yvonne-zitzmann\">Buchpräsentation \"Die Füchse haben Gruben, die Vögel haben Nester\" von Yvonne Zitzmann</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">04.05.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-yvonne-zitzmann-aus-die-fchse-haben-gruben-die-vgel-haben-nester-2\">Lesung Yvonne Zitzmann aus \"Die Füchse haben Gruben, die Vögel haben Nester\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">19.05.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/yvonne-zitzmann-liest-aus-die-fchse-haben-gruben-die-vgel-haben-nester-1\">Yvonne Zitzmann liest aus \"Die Füchse haben Gruben, die Vögel haben Nester\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">23.06.2023 &middot; 09:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/yvonne-zitzmann-liest-bei-litpotsdam\">Yvonne Zitzmann liest bei LIT:potsdam</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">31.08.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/yvonne-zitzmann-liest-aus-die-fchse-haben-gruben-die-vgel-haben-nester-2\">Yvonne Zitzmann liest aus \"Die Füchse haben Gruben, die Vögel haben Nester\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">10.10.2023 &middot; 10:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/hjzxr9rpmzpsx9nchfcehebd28xtg7\">Lesung Yvonne Zitzmann</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">08.06.2024 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/yvonne-zitzmann-liest-bei-brandenburg-liest\">Yvonne Zitzmann liest bei \"Brandenburg liest!\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">15.09.2024 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/yvonne-zitzmann-liest-aus-die-fchse-haben-gruben-die-vgel-haben-nester-3\">Yvonne Zitzmann liest aus \"Die Füchse haben Gruben, die Vögel haben Nester\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">15.09.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/yvonne-zitzmann-liest-aus-die-fchse-haben-gruben-die-vgel-haben-nester-4\">Yvonne Zitzmann liest aus \"Die Füchse haben Gruben, die Vögel haben Nester\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">27.09.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/yvonne-zitzmann-liest-aus-die-fchse-haben-gruben-die-vgel-haben-nester-5\">Yvonne Zitzmann liest aus \"Die Füchse haben Gruben, die Vögel haben Nester\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">15.11.2024 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/yvonne-zitzmann-liest-aus-tage-des-vergessens\">Yvonne Zitzmann liest aus \"Tage des Vergessens\"</a></div><div class=\"demo-event-loc\"></div></div></li></ul></div>",
+  "meta": {
+    "title": "Yvonne Zitzmann · Müry Salzmann Verlag",
+    "description": "geboren 1976, lebt in Rangsdorf bei Berlin. Seit 2010 ist sie freie Autorin und Übersetzerin aus dem Russischen. Sie hat Lyrik, Kurzprosa, Hörspiele für Kinder und Erwachsene sowie…"
+  }
+}

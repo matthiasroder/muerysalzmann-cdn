@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>Author Router Test Harness</title>
+  <link rel="stylesheet" href="router.css">
+  <style>
+    body { font-family: Georgia, serif; margin: 0; background: #f6f3ee; color: #222; }
+    .toolbar { padding: 1rem 1.5rem; background: #fff; border-bottom: 1px solid #ddd; display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; }
+    .toolbar code { background: #f0e9dd; padding: 2px 6px; border-radius: 3px; font-size: 0.85rem; }
+    select, button { padding: 0.4rem 0.6rem; font: inherit; }
+  </style>
+</head>
+<body>
+  <div class="toolbar">
+    <strong>Router test harness:</strong>
+    <span>this page simulates the Squarespace host page <code>/autoren-detail</code>.</span>
+    <label>
+      Author:
+      <select id="picker"></select>
+    </label>
+    <span id="status"></span>
+  </div>
+
+  <!-- Same mount point that Squarespace's Code Block will host. -->
+  <div id="ms-author-mount"></div>
+
+  <script>
+    // The router uses window.location.pathname to decide what to do. The harness
+    // overrides the default to pretend we're on the host page, then reads the
+    // ?a= param normally.
+    Object.defineProperty(window.location, 'pathname', {
+      configurable: true,
+      get: function () { return '/autoren-detail'; }
+    });
+    window.MS_CDN_BASE = '.';  // load JSON from this same dist folder
+
+    // Populate the picker from index.json so the harness mirrors prod data.
+    fetch('authors/index.json').then(function (r) { return r.json(); }).then(function (idx) {
+      var sel = document.getElementById('picker');
+      var qs = new URLSearchParams(window.location.search);
+      var current = qs.get('a') || (idx[0] && idx[0].slug);
+      idx.sort(function (a, b) { return a.name.localeCompare(b.name); });
+      idx.forEach(function (a) {
+        var opt = document.createElement('option');
+        opt.value = a.slug;
+        opt.textContent = a.name;
+        if (a.slug === current) opt.selected = true;
+        sel.appendChild(opt);
+      });
+      sel.addEventListener('change', function () {
+        window.location.search = '?a=' + encodeURIComponent(sel.value);
+      });
+      document.getElementById('status').textContent = idx.length + ' authors loaded';
+    });
+  </script>
+  <script src="router.js" defer></script>
+</body>
+</html>

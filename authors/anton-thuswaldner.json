@@ -1,0 +1,112 @@
+{
+  "slug": "anton-thuswaldner",
+  "name": "Anton Thuswaldner",
+  "category": "Fiction/Die Weiße Reihe",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1956 in Lienz, studierte Germanistik und Geschichtswissenschaft in Salzburg, lebt und arbeitet dort als Herausgeber und Kulturredakteur, unter anderem für die \"Salzburger Nachrichten\", von 1993 bis 2012 war er Jurymitglied des aspekte-Literaturpreises, Träger des Österreichischen Staatspreises für Literaturkritik.</p>",
+  "photo_url": "images/anton-thuswaldner.jpg",
+  "books": [
+    {
+      "title": "Das Buch Helga",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/677e87d206d1883834f09678/1768656910300/Das+Buch+Helga+MockUp+.png?format=1500w",
+      "price": 22.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-268-4",
+      "page_url": "/belletristik/das-buch-helga"
+    },
+    {
+      "title": "Die Zeitforscherin",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/646b711cf8c209158fd3cf7f/1768657023199/Die+Zeitforscherin+MockUp.png?format=1500w",
+      "price": 22.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-245-5",
+      "page_url": "/belletristik/die-zeitforscherin"
+    },
+    {
+      "title": "Ein Gegenkanon",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/620bd62d00d61716e1ea246c/1768657023259/Gegenkanon+MockUp.png?format=1500w",
+      "price": 24.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-228-8",
+      "page_url": "/belletristik/der-gegenkanon"
+    },
+    {
+      "title": "Mein Proust-Moment",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b63c5763c4315e5efdf51e/1768657023275/Mein+Proust+Moment.png?format=1500w",
+      "price": 19.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-221-9",
+      "page_url": "/belletristik/mein-proust-moment"
+    },
+    {
+      "title": "Mit dem Barock fängt alles an",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b9073a5c26c4b76a07a5e/1755252109194/Barock_mHg.png?format=1500w",
+      "price": 15.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-134-2",
+      "page_url": "/kultur-gesellschaft/mit-dem-barock-faengt-alles-an"
+    }
+  ],
+  "events": [
+    {
+      "title": "Verschoben auf 9.2.2022: Mein Proust-Moment im Literaturhaus am Inn",
+      "start_date": "2021-12-07T19:00:00+0100",
+      "end_date": "2021-12-07T21:00:00+0100",
+      "location_name": "Literaturhaus am Inn",
+      "location_address": "5 Josef-Hirn-Straße Innsbruck, Tirol, 6020 Österreich",
+      "page_url": "/kalender/mein-proust-moment-im-literaturhaus-am-inn"
+    },
+    {
+      "title": "\"Mein Proust-Moment\" im Literaturhaus am Inn",
+      "start_date": "2022-02-09T19:00:00+0100",
+      "end_date": "2022-02-09T21:00:00+0100",
+      "location_name": "Literaturhaus am Inn",
+      "location_address": "5 Josef-Hirn-Straße Innsbruck, Tirol, 6020 Österreich",
+      "page_url": "/kalender/mein-proust-moment-im-literaturhaus-am-inn-1"
+    },
+    {
+      "title": "\"Ein Gegenkanon\": Buchvorstellung mit Anton Thuswaldner",
+      "start_date": "2022-11-05T12:30:00+0100",
+      "end_date": "2022-11-05T13:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/ein-gegenkanon-buchvorstellung-mit-anton-thuswaldner"
+    },
+    {
+      "title": "Mein Proust-Moment im Literaturhaus Salzburg",
+      "start_date": "2022-11-18T18:00:00+0100",
+      "end_date": "2022-11-18T20:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/mein-proust-moment-im-literaturhaus-salzburg"
+    },
+    {
+      "title": "\"Ein Gegenkanon\" mit Anton Thuswaldner und Cornelius Hell",
+      "start_date": "2023-01-26T19:00:00+0100",
+      "end_date": "2023-01-26T20:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/ein-gegenkanon-mit-anton-thuswaldner-und-cornelius-hell"
+    },
+    {
+      "title": "Anton Thuswaldner stellt den \"Gegenkanon\" vor",
+      "start_date": "2023-05-26T19:00:00+0200",
+      "end_date": "2023-05-26T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/anton-thuswaldner-stellt-den-gegenkanon-vor"
+    },
+    {
+      "title": "Gegen den Kanon",
+      "start_date": "2023-07-11T12:30:00+0200",
+      "end_date": "2023-07-11T13:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/gegen-den-kanon"
+    }
+  ],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/anton-thuswaldner.jpg\" alt=\"Anton Thuswaldner\" width=\"300\"></div><div><h1>Anton Thuswaldner</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1956 in Lienz, studierte Germanistik und Geschichtswissenschaft in Salzburg, lebt und arbeitet dort als Herausgeber und Kulturredakteur, unter anderem für die \"Salzburger Nachrichten\", von 1993 bis 2012 war er Jurymitglied des aspekte-Literaturpreises, Träger des Österreichischen Staatspreises für Literaturkritik.</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Anton Thuswaldner mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/das-buch-helga\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/677e87d206d1883834f09678/1768656910300/Das+Buch+Helga+MockUp+.png?format=1500w\" alt=\"Das Buch Helga\" loading=\"lazy\"></div><div class=\"demo-book-title\">Das Buch Helga</div><div class=\"demo-book-price\">22.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/die-zeitforscherin\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/646b711cf8c209158fd3cf7f/1768657023199/Die+Zeitforscherin+MockUp.png?format=1500w\" alt=\"Die Zeitforscherin\" loading=\"lazy\"></div><div class=\"demo-book-title\">Die Zeitforscherin</div><div class=\"demo-book-price\">22.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/der-gegenkanon\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/620bd62d00d61716e1ea246c/1768657023259/Gegenkanon+MockUp.png?format=1500w\" alt=\"Ein Gegenkanon\" loading=\"lazy\"></div><div class=\"demo-book-title\">Ein Gegenkanon</div><div class=\"demo-book-price\">24.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/mein-proust-moment\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b63c5763c4315e5efdf51e/1768657023275/Mein+Proust+Moment.png?format=1500w\" alt=\"Mein Proust-Moment\" loading=\"lazy\"></div><div class=\"demo-book-title\">Mein Proust-Moment</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/kultur-gesellschaft/mit-dem-barock-faengt-alles-an\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b9073a5c26c4b76a07a5e/1755252109194/Barock_mHg.png?format=1500w\" alt=\"Mit dem Barock fängt alles an\" loading=\"lazy\"></div><div class=\"demo-book-title\">Mit dem Barock fängt alles an</div><div class=\"demo-book-price\">15.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">07.12.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/mein-proust-moment-im-literaturhaus-am-inn\">Verschoben auf 9.2.2022: Mein Proust-Moment im Literaturhaus am Inn</a></div><div class=\"demo-event-loc\">Literaturhaus am Inn</div></div></li><li><div class=\"demo-event-date\">09.02.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/mein-proust-moment-im-literaturhaus-am-inn-1\">\"Mein Proust-Moment\" im Literaturhaus am Inn</a></div><div class=\"demo-event-loc\">Literaturhaus am Inn</div></div></li><li><div class=\"demo-event-date\">05.11.2022 &middot; 12:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/ein-gegenkanon-buchvorstellung-mit-anton-thuswaldner\">\"Ein Gegenkanon\": Buchvorstellung mit Anton Thuswaldner</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">18.11.2022 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/mein-proust-moment-im-literaturhaus-salzburg\">Mein Proust-Moment im Literaturhaus Salzburg</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">26.01.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/ein-gegenkanon-mit-anton-thuswaldner-und-cornelius-hell\">\"Ein Gegenkanon\" mit Anton Thuswaldner und Cornelius Hell</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">26.05.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/anton-thuswaldner-stellt-den-gegenkanon-vor\">Anton Thuswaldner stellt den \"Gegenkanon\" vor</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">11.07.2023 &middot; 12:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/gegen-den-kanon\">Gegen den Kanon</a></div><div class=\"demo-event-loc\"></div></div></li></ul></div>",
+  "meta": {
+    "title": "Anton Thuswaldner · Müry Salzmann Verlag",
+    "description": "geboren 1956 in Lienz, studierte Germanistik und Geschichtswissenschaft in Salzburg, lebt und arbeitet dort als Herausgeber und Kulturredakteur, unter anderem für die \"Salzburger Nachrichten\", von…"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "johann-josef-boker",
+  "name": "Johann Josef Böker",
+  "category": "Kunst/Architektur",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Professor für Baugeschichte am Karlsruher Institut für Technologie. Publikation der gotischen Baurisse in Wien (2005) und zur Baugeschichte des Wiener Stephansdoms (2007)</p>",
+  "photo_url": "images/johann-josef-boker.jpg",
+  "books": [
+    {
+      "title": "Architektur der Gotik Rheinlande",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84e0ed3b8c717823a209a3/1768749463762/B%C3%B6ker_Gotik_Rheinlande.jpg?format=1500w",
+      "price": 189.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-064-2",
+      "page_url": "/kunst-architektur/architektur-der-gotik-rheinlande"
+    },
+    {
+      "title": "Architektur der Gotik. Ulm und Donauraum (CD)",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5fd1002fae104d647cba0de1/1768749463756/Ulm_CD.png?format=1500w",
+      "price": 99.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-143-4",
+      "page_url": "/kunst-architektur/architektur-der-gotik-ulm-und-donauraum-cd"
+    },
+    {
+      "title": "Friedrich Ostendorf Bauten und Schriften",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84e1f0f355ea7fc3189b6f/1768749463784/?format=1500w",
+      "price": 24.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-011-6",
+      "page_url": "/kunst-architektur/friedrich-ostendorf"
+    }
+  ],
+  "events": [],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/johann-josef-boker.jpg\" alt=\"Johann Josef Böker\" width=\"300\"></div><div><h1>Johann Josef Böker</h1><div class=\"demo-author-category\">Kunst/Architektur</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">Professor für Baugeschichte am Karlsruher Institut für Technologie. Publikation der gotischen Baurisse in Wien (2005) und zur Baugeschichte des Wiener Stephansdoms (2007)</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Johann Josef Böker mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/kunst-architektur/architektur-der-gotik-rheinlande\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84e0ed3b8c717823a209a3/1768749463762/B%C3%B6ker_Gotik_Rheinlande.jpg?format=1500w\" alt=\"Architektur der Gotik Rheinlande\" loading=\"lazy\"></div><div class=\"demo-book-title\">Architektur der Gotik Rheinlande</div><div class=\"demo-book-price\">189.00 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/architektur-der-gotik-ulm-und-donauraum-cd\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5fd1002fae104d647cba0de1/1768749463756/Ulm_CD.png?format=1500w\" alt=\"Architektur der Gotik. Ulm und Donauraum (CD)\" loading=\"lazy\"></div><div class=\"demo-book-title\">Architektur der Gotik. Ulm und Donauraum (CD)</div><div class=\"demo-book-price\">99.00 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/friedrich-ostendorf\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84e1f0f355ea7fc3189b6f/1768749463784/?format=1500w\" alt=\"Friedrich Ostendorf Bauten und Schriften\" loading=\"lazy\"></div><div class=\"demo-book-title\">Friedrich Ostendorf Bauten und Schriften</div><div class=\"demo-book-price\">24.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "meta": {
+    "title": "Johann Josef Böker · Müry Salzmann Verlag",
+    "description": "Professor für Baugeschichte am Karlsruher Institut für Technologie. Publikation der gotischen Baurisse in Wien (2005) und zur Baugeschichte des Wiener Stephansdoms (2007)"
+  }
+}

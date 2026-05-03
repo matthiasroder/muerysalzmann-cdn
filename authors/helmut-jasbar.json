@@ -1,0 +1,112 @@
+{
+  "slug": "helmut-jasbar",
+  "name": "Helmut Jasbar",
+  "category": "Fiction/Die Weiße Reihe",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren in Wien. Er studierte Konzertfach Klassische Gitarre und Komposition an der Kölner Musikuni und Weiterführendes in den USA. Seitdem konzertiert er weltweit. Er ist Opernkomponist (Theater an der Wien, Linzer Landestheater), Librettist und Autor (Bühnentexte für Karl Markovics, Cornelius Obonya, Katharina Strasser, Hanna Schygulla u.a.). Für Radio Ö1 ist er als freier Mitarbeiter tätig und zählt zu den bekanntesten Stimmen Österreichs (Klassik-Treffpunkt, Pasticcio...). </p><p class=\"\" style=\"white-space:pre-wrap;\">Foto: Mischa Nawrata</p>",
+  "photo_url": "images/helmut-jasbar.jpeg",
+  "books": [
+    {
+      "title": "Vierundzwanzigster Dezember",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/669691d4e9057b01aea48eba/1768656910333/Helmut+Jasbar%2C+24.+Dezember+Mockup.png?format=1500w",
+      "price": 19.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-262-2",
+      "page_url": "/belletristik/vierundzwanzigster-dezember"
+    }
+  ],
+  "events": [
+    {
+      "title": "Helmut Jasbar liest am Altstadtbuchtag Salzburg",
+      "start_date": "2024-11-09T15:00:00+0100",
+      "end_date": "2024-11-09T16:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/helmut-jasbar-liest-am-altstadtbuchtag-salzburg"
+    },
+    {
+      "title": "Helmut Jasbar liest aus \"Vierundzwanzigster Dezember\" auf der BuchWien",
+      "start_date": "2024-11-21T10:00:00+0100",
+      "end_date": "2024-11-21T10:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/helmut-jasbar-liest-aus-vierundzwanzigster-dezember-auf-der-buchwien"
+    },
+    {
+      "title": "Buchpräsentation Helmut Jasbar \"Vierundzwanzigster Dezember\"",
+      "start_date": "2024-12-10T18:00:00+0100",
+      "end_date": "2024-12-10T21:00:00+0100",
+      "location_name": "Müry Salzmann Verlag ",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/buchprsentation-helmut-jasbar-vierundzwanzigster-dezember"
+    },
+    {
+      "title": "Helmut Jasbar, Vierundzwanzigster Dezember - Lesung und Konzert",
+      "start_date": "2024-12-22T14:00:00+0100",
+      "end_date": "2024-12-22T15:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/helmut-jasbar-vierundzwanzigster-dezember-lesung-und-konzert"
+    },
+    {
+      "title": "Helmut Jasbar: \"Vierzundzwanzigster Dezember\" - Buchpräsentation",
+      "start_date": "2024-12-23T19:30:00+0100",
+      "end_date": "2024-12-23T21:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/helmut-jasbar-vierzundzwanzigster-dezember-buchprsentation"
+    },
+    {
+      "title": "Lesung Helmut Jasbar \"Der Vierundzwanzigste Dezember\"",
+      "start_date": "2025-11-20T19:00:00+0100",
+      "end_date": "2025-11-20T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-helmut-jasbar-der-vierundzwanzigste-dezember"
+    },
+    {
+      "title": "Helmut Jasbar liest aus \"Vierundzwanzigster Dezember\"",
+      "start_date": "2025-11-22T17:00:00+0100",
+      "end_date": "2025-11-22T18:00:00+0100",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/helmut-jasbar-liest-aus-vierundzwanzigster-dezember"
+    },
+    {
+      "title": "Lesung Helmut Jasbar \"Der Vierundzwanzigste Dezember\"",
+      "start_date": "2025-11-27T19:15:00+0100",
+      "end_date": "2025-11-27T20:15:00+0100",
+      "location_name": "Buchhandlung analog",
+      "location_address": "6 Otto-Bauer-Gasse Wien, Wien, 1060 Österreich",
+      "page_url": "/kalender/lesung-helmut-jasbar-der-vierundzwanzigste-dezember-2"
+    },
+    {
+      "title": "Lesung Helmut Jasbar aus \"Der Vierundzwanzigste Dezember\"",
+      "start_date": "2025-12-03T19:00:00+0100",
+      "end_date": "2025-12-03T20:00:00+0100",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/lesung-helmut-jasbar-aus-der-vierundzwanzigste-dezember"
+    },
+    {
+      "title": "Lesung Helmut Jasbar \"Der Vierundzwanzigste Dezember\"",
+      "start_date": "2025-12-04T20:00:00+0100",
+      "end_date": "2025-12-04T21:00:00+0100",
+      "location_name": "Kulturverein Blaues Fenster",
+      "location_address": "14 Markt Wagrain Markt, Salzburg, 5602 Österreich",
+      "page_url": "/kalender/lesung-helmut-jasbar-der-vierundzwanzigste-dezember-1"
+    },
+    {
+      "title": "Lesung Helmut Jasbar \"Der Vierundzwanzigste Dezember\"",
+      "start_date": "2025-12-11T20:00:00+0100",
+      "end_date": "2025-12-11T21:00:00+0100",
+      "location_name": "Kultur- und Bildungshaus ProDiagonal",
+      "location_address": "13 Sand Lambach, Oberösterreich, 4650 Österreich",
+      "page_url": "/kalender/lesung-helmut-jasbar-der-vierundzwanzigste-dezember-3"
+    }
+  ],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/helmut-jasbar.jpeg\" alt=\"Helmut Jasbar\" width=\"300\"></div><div><h1>Helmut Jasbar</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren in Wien. Er studierte Konzertfach Klassische Gitarre und Komposition an der Kölner Musikuni und Weiterführendes in den USA. Seitdem konzertiert er weltweit. Er ist Opernkomponist (Theater an der Wien, Linzer Landestheater), Librettist und Autor (Bühnentexte für Karl Markovics, Cornelius Obonya, Katharina Strasser, Hanna Schygulla u.a.). Für Radio Ö1 ist er als freier Mitarbeiter tätig und zählt zu den bekanntesten Stimmen Österreichs (Klassik-Treffpunkt, Pasticcio...). </p><p class=\"\" style=\"white-space:pre-wrap;\">Foto: Mischa Nawrata</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Helmut Jasbar mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/vierundzwanzigster-dezember\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/669691d4e9057b01aea48eba/1768656910333/Helmut+Jasbar%2C+24.+Dezember+Mockup.png?format=1500w\" alt=\"Vierundzwanzigster Dezember\" loading=\"lazy\"></div><div class=\"demo-book-title\">Vierundzwanzigster Dezember</div><div class=\"demo-book-price\">19.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">09.11.2024 &middot; 15:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/helmut-jasbar-liest-am-altstadtbuchtag-salzburg\">Helmut Jasbar liest am Altstadtbuchtag Salzburg</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">21.11.2024 &middot; 10:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/helmut-jasbar-liest-aus-vierundzwanzigster-dezember-auf-der-buchwien\">Helmut Jasbar liest aus \"Vierundzwanzigster Dezember\" auf der BuchWien</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">10.12.2024 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-helmut-jasbar-vierundzwanzigster-dezember\">Buchpräsentation Helmut Jasbar \"Vierundzwanzigster Dezember\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag </div></div></li><li><div class=\"demo-event-date\">22.12.2024 &middot; 14:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/helmut-jasbar-vierundzwanzigster-dezember-lesung-und-konzert\">Helmut Jasbar, Vierundzwanzigster Dezember - Lesung und Konzert</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">23.12.2024 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/helmut-jasbar-vierzundzwanzigster-dezember-buchprsentation\">Helmut Jasbar: \"Vierzundzwanzigster Dezember\" - Buchpräsentation</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">20.11.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-helmut-jasbar-der-vierundzwanzigste-dezember\">Lesung Helmut Jasbar \"Der Vierundzwanzigste Dezember\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.11.2025 &middot; 17:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/helmut-jasbar-liest-aus-vierundzwanzigster-dezember\">Helmut Jasbar liest aus \"Vierundzwanzigster Dezember\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">27.11.2025 &middot; 19:15</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-helmut-jasbar-der-vierundzwanzigste-dezember-2\">Lesung Helmut Jasbar \"Der Vierundzwanzigste Dezember\"</a></div><div class=\"demo-event-loc\">Buchhandlung analog</div></div></li><li><div class=\"demo-event-date\">03.12.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-helmut-jasbar-aus-der-vierundzwanzigste-dezember\">Lesung Helmut Jasbar aus \"Der Vierundzwanzigste Dezember\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">04.12.2025 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-helmut-jasbar-der-vierundzwanzigste-dezember-1\">Lesung Helmut Jasbar \"Der Vierundzwanzigste Dezember\"</a></div><div class=\"demo-event-loc\">Kulturverein Blaues Fenster</div></div></li><li><div class=\"demo-event-date\">11.12.2025 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-helmut-jasbar-der-vierundzwanzigste-dezember-3\">Lesung Helmut Jasbar \"Der Vierundzwanzigste Dezember\"</a></div><div class=\"demo-event-loc\">Kultur- und Bildungshaus ProDiagonal</div></div></li></ul></div>",
+  "meta": {
+    "title": "Helmut Jasbar · Müry Salzmann Verlag",
+    "description": "geboren in Wien. Er studierte Konzertfach Klassische Gitarre und Komposition an der Kölner Musikuni und Weiterführendes in den USA. Seitdem konzertiert er weltweit. Er ist Opernkomponist (Theater…"
+  }
+}

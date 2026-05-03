@@ -1,0 +1,400 @@
+{
+  "slug": "elke-laznia",
+  "name": "elke Laznia",
+  "category": "Fiction/Die Weiße Reihe",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geb. in Klagenfurt, lebt als freie Autorin in Salzburg, veröffentlicht Lyrik und Prosa in Literaturzeitschriften (u.a. Manuskripte) und Anthologien; Projekte mit oenm (Neue Musik) und Performancekünstlerinnen; erhielt Auszeichnungen und Stipendien, u.a. Rauriser Förderungspreis, manuskripte Literaturförderpreis, Georg-Trakl-Förderpreis, Kärntner Lyrikpreis, Franz- und Eugenie-Kain-Literaturpreis 2024, Alois Vogel-Literaturpreis 2024; Shortlist des Österreichischen Buchpreises 2024. Helena-Adler-Preis für rebellische Literatur 2025.</p><p class=\"\" style=\"white-space:pre-wrap;\">2014 Roman <strong>kindheitswald</strong>, 2017 Dichtungen <strong>salzgehalt</strong>,<strong> </strong>2019 <strong>Lavendellied, </strong>2024 <strong>fischgrätentage</strong>, alle im Müry-Salzmann-Verlag.</p>",
+  "photo_url": "images/elke-laznia.jpg",
+  "books": [
+    {
+      "title": "Fischgrätentage",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/659c544f9831c27a90af24f3/1768657023192/Fischgra%CC%88tentage+MockUp.png?format=1500w",
+      "price": 22.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-256-1",
+      "page_url": "/belletristik/fischgrtentage"
+    },
+    {
+      "title": "Kindheitswald",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/t/60b0e075dc1205130b037dc3/1622204539329/Bildschirmfoto+2021-05-28+um+14.21.58.png?format=1500w",
+      "price": 19.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-093-2",
+      "page_url": "/belletristik/kindheitswald"
+    },
+    {
+      "title": "Lavendellied",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a1b228a5547407c6923eb/1768657023350/lavendellied_mockup.png?format=1500w",
+      "price": 19.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-193-9",
+      "page_url": "/belletristik/lavendellied"
+    },
+    {
+      "title": "Mein Proust-Moment",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b63c5763c4315e5efdf51e/1768657023275/Mein+Proust+Moment.png?format=1500w",
+      "price": 19.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-221-9",
+      "page_url": "/belletristik/mein-proust-moment"
+    },
+    {
+      "title": "Meine stille Nacht",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/6321965c3c369e69eb0af3aa/1768657023264/Meine+Stille+Nacht+MockUp+.png?format=1500w",
+      "price": 24.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-236-2",
+      "page_url": "/belletristik/meine-stille-nacht-sa6fx"
+    },
+    {
+      "title": "Salzgehalt",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a19e031c7210fd42b51cc/1768657023355/salzgehalt_mockup.png?format=1500w",
+      "price": 19.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-146-5",
+      "page_url": "/belletristik/salzgehalt"
+    },
+    {
+      "title": "Gerold Tusch",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/6864f47ec044ab2857c654e7/1768656910280/tusch_mockup.png?format=1500w",
+      "price": 35.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-290-5",
+      "page_url": "/kunst-architektur/gerold-tusch"
+    }
+  ],
+  "events": [
+    {
+      "title": "Elke Laznia liest auf der Leipziger Buchmesse",
+      "start_date": "2020-03-13T13:30:00+0100",
+      "end_date": "2020-03-13T14:30:00+0100",
+      "location_name": "Leipziger Messe GmbH",
+      "location_address": "1 Messe-Allee Leipzig, SN, 04356 Deutschland",
+      "page_url": "/kalender/elke-laznia-liet-auf-der-leipziger-buchmesse"
+    },
+    {
+      "title": "Elke Laznia und Helmut Neundlinger lesen bei der Poesiegalerie, Wien",
+      "start_date": "2020-10-02T20:20:00+0200",
+      "end_date": "2020-10-02T21:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elke-laznia-und-helmut-neundlinger-lesen-bei-der-poesiegalerie-wien"
+    },
+    {
+      "title": "Elke Laznia liest im Rahmen von \"NEUE ÖSTERREICHISCHE LITERATUR / ÜBER.SETZEN\"",
+      "start_date": "2020-11-11T18:00:00+0100",
+      "end_date": "2020-11-11T20:00:00+0100",
+      "location_name": "Österreichische Gesellschaft für Literatur",
+      "location_address": "5 Herrengasse Wien, Wien, 1010 Österreich",
+      "page_url": "/kalender/elke-laznia-liest-im-rahmen-von-neue-sterreichische-literatur-bersetzen"
+    },
+    {
+      "title": "Verschoben auf 2021!! Elke Laznia liest in Schillers Gartenhaus",
+      "start_date": "2020-12-08T19:30:00+0100",
+      "end_date": "2020-12-08T20:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elke-laznia-liest-in-schillers-gartenhaus"
+    },
+    {
+      "title": "Elke Laznia liest bei den Musiktagen Hundsmarktmühle",
+      "start_date": "2021-06-26T19:00:00+0200",
+      "end_date": "2021-06-26T21:00:00+0200",
+      "location_name": "Hundsmarktmühle",
+      "location_address": "Seestraße 20 5303 Thalgau Österreich",
+      "page_url": "/kalender/elke-laznia-liest-bei-den-musiktagen-hundsmarkmhle"
+    },
+    {
+      "title": "Lesung Elke Laznia",
+      "start_date": "2021-09-14T19:00:00+0200",
+      "end_date": "2021-09-14T20:00:00+0200",
+      "location_name": "Literaturhaus Wien",
+      "location_address": "13 Seidengasse Wien, Wien, 1070 Österreich",
+      "page_url": "/kalender/lesung-elke-laznia"
+    },
+    {
+      "title": "Elke Laznia liest in Schillers Gartenhaus",
+      "start_date": "2021-10-05T19:30:00+0200",
+      "end_date": "2021-10-05T20:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elke-laznia-liest-in-schillers-gartenhaus-1"
+    },
+    {
+      "title": "Abgesagt: Lesung und Musik mit Elke Laznia und Klaus Lippitsch",
+      "start_date": "2021-12-02T16:00:00+0100",
+      "end_date": "2021-12-02T17:00:00+0100",
+      "location_name": "Heiligengeistkirche",
+      "location_address": "Ursulinengasse 1 Klagenfurt Österreich",
+      "page_url": "/kalender/abgesagt-lesung-und-musik-mit-elke-laznia-und-klaus-lippitsch"
+    },
+    {
+      "title": "Uraufführung von DURST, eine performative Oper über sechs Frequenzen (nach einem Libretto von Elke Laznia)",
+      "start_date": "2021-12-03T19:30:00+0100",
+      "end_date": "2021-12-03T21:30:00+0100",
+      "location_name": "Tanzquartier Wien",
+      "location_address": "Museumsplatz 1 1070 Wien",
+      "page_url": "/kalender/urauffhrung-von-durst-eine-performative-oper-ber-sechs-frequenzen-nach-einem-libretto-von-elke-laznia"
+    },
+    {
+      "title": "\"Die Stimme beim Schreiben\" - Lesung mit Malte Borsdorf, Elke Laznia, Christian Schulteisz und Sabine Schönfellner",
+      "start_date": "2022-07-07T19:00:00+0200",
+      "end_date": "2022-07-07T20:30:00+0200",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "2a Robinigstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/die-stimme-beim-schreiben-lesung-mit-malte-borsdorf-elke-laznia-christian-schulteisz-und-sabine-schnfellner"
+    },
+    {
+      "title": "Elke Laznia liest aus \"Lavendellied\"",
+      "start_date": "2022-07-14T16:30:00+0200",
+      "end_date": "2022-07-14T21:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elke-laznia-liest-aus-lavendellied"
+    },
+    {
+      "title": "Elke Laznia liest aus \"Lavendellied\"",
+      "start_date": "2022-09-13T19:30:00+0200",
+      "end_date": "2022-09-13T20:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elke-laznia-liest-aus-lavendellied-1"
+    },
+    {
+      "title": "Lesung Elke Laznia",
+      "start_date": "2022-09-27T20:00:00+0200",
+      "end_date": "2022-09-27T21:00:00+0200",
+      "location_name": "Literaturhaus Göttingen",
+      "location_address": "22 Nikolaistraße Göttingen, NDS, 37073 Deutschland",
+      "page_url": "/kalender/lesung-elke-laznia-1"
+    },
+    {
+      "title": "Mein Proust-Moment im Literaturhaus Salzburg",
+      "start_date": "2022-11-18T18:00:00+0100",
+      "end_date": "2022-11-18T20:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/mein-proust-moment-im-literaturhaus-salzburg"
+    },
+    {
+      "title": "Buchpräsentation \"Meine stille Nacht\" mit Elke Laznia",
+      "start_date": "2023-11-24T19:00:00+0100",
+      "end_date": "2023-11-24T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-meine-stille-nacht-mit-elke-laznia"
+    },
+    {
+      "title": "Elke Laznia liest beim Eferdinger Literaturherbst im Gastzimmer dreimaldrei 2023",
+      "start_date": "2023-12-07T19:30:00+0100",
+      "end_date": "2023-12-07T20:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elke-laznia-liest-beim-eferdinger-literaturherbst-im-gastzimmer-dreimaldrei-2023"
+    },
+    {
+      "title": "Buchpräsentation \"fischgrätentage\" von Elke Laznia",
+      "start_date": "2024-05-02T19:00:00+0200",
+      "end_date": "2024-05-02T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-fischgrtentage-von-elke-laznia-1"
+    },
+    {
+      "title": "Elke Laznia bei den 46. Innsbrucker Wochenendgesprächen",
+      "start_date": "2024-05-16T20:00:00+0200",
+      "end_date": "2024-05-18T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elke-laznia-bei-den-46-innsbrucker-wochenendgesprchen"
+    },
+    {
+      "title": "Buchpräsentation \"fischgrätentage\" von Elke Laznia",
+      "start_date": "2024-06-24T19:00:00+0200",
+      "end_date": "2024-06-24T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-fischgrtentage-von-elke-laznia"
+    },
+    {
+      "title": "Preisverleihung Alois Vogel Literaturpreis an Elke Laznia",
+      "start_date": "2024-09-13T19:00:00+0200",
+      "end_date": "2024-09-13T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/preisverleihung-alois-vogel-literaturpreis-an-elke-laznia"
+    },
+    {
+      "title": "Elke Laznia liest aus \"fischgrätentage\"",
+      "start_date": "2024-11-15T19:00:00+0100",
+      "end_date": "2024-11-15T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elke-laznia-liest-aus-fischgrtentage-1"
+    },
+    {
+      "title": "Elke Laznia mit Miriam Laznia am Piano",
+      "start_date": "2024-11-16T21:35:00+0100",
+      "end_date": "2024-11-16T21:55:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elke-laznia-mit-miriam-laznia-am-piano"
+    },
+    {
+      "title": "Elke Laznia liest aus \"fischgrätentage\"",
+      "start_date": "2024-11-26T19:00:00+0100",
+      "end_date": "2024-11-26T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elke-laznia-liest-aus-fischgrtentage-2"
+    },
+    {
+      "title": "Elke Laznia liest aus \"fischgrätentage\"",
+      "start_date": "2024-12-11T19:00:00+0100",
+      "end_date": "2024-12-11T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elke-laznia-liest-aus-fischgrtentage"
+    },
+    {
+      "title": "Lesung Elke Laznia aus \"fischgrätentage\"",
+      "start_date": "2025-03-05T18:00:00+0100",
+      "end_date": "2025-03-05T19:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-elke-laznia-aus-fischgrtentage-1"
+    },
+    {
+      "title": "Verleihung des Helena-Adler-Preises an Elke Laznia",
+      "start_date": "2025-03-09T11:00:00+0100",
+      "end_date": "2025-03-09T12:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/verleihung-des-helena-adler-preises-an-elke-laznia"
+    },
+    {
+      "title": "Lesung Elke Laznia aus \"fischgrätentage\"",
+      "start_date": "2025-03-18T19:30:00+0100",
+      "end_date": "2025-03-18T20:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-elke-laznia-aus-fischgrtentage-2"
+    },
+    {
+      "title": "Lesung von Elke Laznia",
+      "start_date": "2025-04-24T19:00:00+0200",
+      "end_date": "2025-04-24T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-von-elke-laznia"
+    },
+    {
+      "title": "Elke Laznia liest zur Eröffnung des Literaturfests Salzburg",
+      "start_date": "2025-05-14T19:30:00+0200",
+      "end_date": "2025-05-14T21:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-elke-laznia-aus-fischgrtentage-3"
+    },
+    {
+      "title": "Elke Laznia liest aus \"fischgrätentage\"",
+      "start_date": "2025-05-15T16:30:00+0200",
+      "end_date": "2025-05-15T17:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elke-laznia-liest-aus-fischgrtentage-3"
+    },
+    {
+      "title": "Fest für das Buch mit Elke Laznia, Mona Müry, Klaus Seufer-Wasserthal, Karin Buttenhauser u.a.",
+      "start_date": "2025-05-22T19:30:00+0200",
+      "end_date": "2025-05-22T21:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/fest-fr-das-buch-mit-elke-laznia-mona-mry-klaus-seufer-wasserthal-karin-buttenhauser-ua"
+    },
+    {
+      "title": "Lesung Elke Laznia aus \"fischgrätentage\"",
+      "start_date": "2025-05-22T19:30:00+0200",
+      "end_date": "2025-05-22T20:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-elke-laznia-aus-fischgrtentage-4"
+    },
+    {
+      "title": "lyrik:unwiderstehlich: Elke Laznia liest aus \"fischgrätentage\"",
+      "start_date": "2025-06-05T19:30:00+0200",
+      "end_date": "2025-06-05T20:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lyrikunwiderstehlich-elke-laznia-liest-aus-fischgrtentage"
+    },
+    {
+      "title": "Elke Laznia liest aus \"fischgrätentage\"",
+      "start_date": "2025-08-17T17:00:00+0200",
+      "end_date": "2025-08-17T18:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/elke-laznia-liest-aus-fischgrtentage-4"
+    },
+    {
+      "title": "Sommerlesung Elke Laznia aus \"fischgrätentage\"",
+      "start_date": "2025-08-24T17:00:00+0200",
+      "end_date": "2025-08-24T18:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-elke-laznia-aus-fischgrtentage"
+    },
+    {
+      "title": "Lyrische Matinee: Elke Laznia / Eva Maria Leunberger / Miriam Laznia",
+      "start_date": "2025-09-07T11:00:00+0200",
+      "end_date": "2025-09-07T12:00:00+0200",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/lyrische-matinee-elke-laznia-eva-maria-leunberger-miriam-laznia"
+    },
+    {
+      "title": "Lesung Elke Laznia aus \"fischgrätentage\"",
+      "start_date": "2025-09-20T19:30:00+0200",
+      "end_date": "2025-09-20T21:00:00+0200",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/mj9gm79nr7rggex489rlcyz9jk66fc"
+    },
+    {
+      "title": "Lesung Elke Laznia aus \"fischgrätentage\"",
+      "start_date": "2025-10-12T10:30:00+0200",
+      "end_date": "2025-10-12T11:30:00+0200",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/lesung-elke-laznia-aus-fischgrtentage-5"
+    },
+    {
+      "title": "Lesung und Gespräch mit Elke Laznia",
+      "start_date": "2025-10-31T16:00:00+0100",
+      "end_date": "2025-10-31T18:00:00+0100",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/lesung-und-gesprch-mit-elke-laznia"
+    },
+    {
+      "title": "elke Laznia beim 6. Poesiefestival POP & PETERSILIE, Neuruppin",
+      "start_date": "2025-11-15T17:30:00+0100",
+      "end_date": "2025-11-15T18:30:00+0100",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/elke-laznia-beim-6-poesiefestival-pop-amp-petersilie-neuruppin"
+    },
+    {
+      "title": "Buchpräsentation und Atelierbesuch mit Gerold Tusch",
+      "start_date": "2025-11-22T11:30:00+0100",
+      "end_date": "2025-11-22T12:30:00+0100",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/buchprsentation-und-atelierbesuch-mit-gerold-tusch"
+    }
+  ],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/elke-laznia.jpg\" alt=\"elke Laznia\" width=\"300\"></div><div><h1>elke Laznia</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geb. in Klagenfurt, lebt als freie Autorin in Salzburg, veröffentlicht Lyrik und Prosa in Literaturzeitschriften (u.a. Manuskripte) und Anthologien; Projekte mit oenm (Neue Musik) und Performancekünstlerinnen; erhielt Auszeichnungen und Stipendien, u.a. Rauriser Förderungspreis, manuskripte Literaturförderpreis, Georg-Trakl-Förderpreis, Kärntner Lyrikpreis, Franz- und Eugenie-Kain-Literaturpreis 2024, Alois Vogel-Literaturpreis 2024; Shortlist des Österreichischen Buchpreises 2024. Helena-Adler-Preis für rebellische Literatur 2025.</p><p class=\"\" style=\"white-space:pre-wrap;\">2014 Roman <strong>kindheitswald</strong>, 2017 Dichtungen <strong>salzgehalt</strong>,<strong> </strong>2019 <strong>Lavendellied, </strong>2024 <strong>fischgrätentage</strong>, alle im Müry-Salzmann-Verlag.</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu elke Laznia mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/fischgrtentage\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/659c544f9831c27a90af24f3/1768657023192/Fischgra%CC%88tentage+MockUp.png?format=1500w\" alt=\"Fischgrätentage\" loading=\"lazy\"></div><div class=\"demo-book-title\">Fischgrätentage</div><div class=\"demo-book-price\">22.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/kindheitswald\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/t/60b0e075dc1205130b037dc3/1622204539329/Bildschirmfoto+2021-05-28+um+14.21.58.png?format=1500w\" alt=\"Kindheitswald\" loading=\"lazy\"></div><div class=\"demo-book-title\">Kindheitswald</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/lavendellied\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a1b228a5547407c6923eb/1768657023350/lavendellied_mockup.png?format=1500w\" alt=\"Lavendellied\" loading=\"lazy\"></div><div class=\"demo-book-title\">Lavendellied</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/mein-proust-moment\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b63c5763c4315e5efdf51e/1768657023275/Mein+Proust+Moment.png?format=1500w\" alt=\"Mein Proust-Moment\" loading=\"lazy\"></div><div class=\"demo-book-title\">Mein Proust-Moment</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/meine-stille-nacht-sa6fx\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/6321965c3c369e69eb0af3aa/1768657023264/Meine+Stille+Nacht+MockUp+.png?format=1500w\" alt=\"Meine stille Nacht\" loading=\"lazy\"></div><div class=\"demo-book-title\">Meine stille Nacht</div><div class=\"demo-book-price\">24.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/salzgehalt\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e7a19e031c7210fd42b51cc/1768657023355/salzgehalt_mockup.png?format=1500w\" alt=\"Salzgehalt\" loading=\"lazy\"></div><div class=\"demo-book-title\">Salzgehalt</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/gerold-tusch\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/6864f47ec044ab2857c654e7/1768656910280/tusch_mockup.png?format=1500w\" alt=\"Gerold Tusch\" loading=\"lazy\"></div><div class=\"demo-book-title\">Gerold Tusch</div><div class=\"demo-book-price\">35.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">13.03.2020 &middot; 13:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-liet-auf-der-leipziger-buchmesse\">Elke Laznia liest auf der Leipziger Buchmesse</a></div><div class=\"demo-event-loc\">Leipziger Messe GmbH</div></div></li><li><div class=\"demo-event-date\">02.10.2020 &middot; 20:20</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-und-helmut-neundlinger-lesen-bei-der-poesiegalerie-wien\">Elke Laznia und Helmut Neundlinger lesen bei der Poesiegalerie, Wien</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">11.11.2020 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-liest-im-rahmen-von-neue-sterreichische-literatur-bersetzen\">Elke Laznia liest im Rahmen von \"NEUE ÖSTERREICHISCHE LITERATUR / ÜBER.SETZEN\"</a></div><div class=\"demo-event-loc\">Österreichische Gesellschaft für Literatur</div></div></li><li><div class=\"demo-event-date\">08.12.2020 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-liest-in-schillers-gartenhaus\">Verschoben auf 2021!! Elke Laznia liest in Schillers Gartenhaus</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">26.06.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-liest-bei-den-musiktagen-hundsmarkmhle\">Elke Laznia liest bei den Musiktagen Hundsmarktmühle</a></div><div class=\"demo-event-loc\">Hundsmarktmühle</div></div></li><li><div class=\"demo-event-date\">14.09.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-elke-laznia\">Lesung Elke Laznia</a></div><div class=\"demo-event-loc\">Literaturhaus Wien</div></div></li><li><div class=\"demo-event-date\">05.10.2021 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-liest-in-schillers-gartenhaus-1\">Elke Laznia liest in Schillers Gartenhaus</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">02.12.2021 &middot; 16:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/abgesagt-lesung-und-musik-mit-elke-laznia-und-klaus-lippitsch\">Abgesagt: Lesung und Musik mit Elke Laznia und Klaus Lippitsch</a></div><div class=\"demo-event-loc\">Heiligengeistkirche</div></div></li><li><div class=\"demo-event-date\">03.12.2021 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/urauffhrung-von-durst-eine-performative-oper-ber-sechs-frequenzen-nach-einem-libretto-von-elke-laznia\">Uraufführung von DURST, eine performative Oper über sechs Frequenzen (nach einem Libretto von Elke Laznia)</a></div><div class=\"demo-event-loc\">Tanzquartier Wien</div></div></li><li><div class=\"demo-event-date\">07.07.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/die-stimme-beim-schreiben-lesung-mit-malte-borsdorf-elke-laznia-christian-schulteisz-und-sabine-schnfellner\">\"Die Stimme beim Schreiben\" - Lesung mit Malte Borsdorf, Elke Laznia, Christian Schulteisz und Sabine Schönfellner</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">14.07.2022 &middot; 16:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-liest-aus-lavendellied\">Elke Laznia liest aus \"Lavendellied\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">13.09.2022 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-liest-aus-lavendellied-1\">Elke Laznia liest aus \"Lavendellied\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">27.09.2022 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-elke-laznia-1\">Lesung Elke Laznia</a></div><div class=\"demo-event-loc\">Literaturhaus Göttingen</div></div></li><li><div class=\"demo-event-date\">18.11.2022 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/mein-proust-moment-im-literaturhaus-salzburg\">Mein Proust-Moment im Literaturhaus Salzburg</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">24.11.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-meine-stille-nacht-mit-elke-laznia\">Buchpräsentation \"Meine stille Nacht\" mit Elke Laznia</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">07.12.2023 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-liest-beim-eferdinger-literaturherbst-im-gastzimmer-dreimaldrei-2023\">Elke Laznia liest beim Eferdinger Literaturherbst im Gastzimmer dreimaldrei 2023</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">02.05.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-fischgrtentage-von-elke-laznia-1\">Buchpräsentation \"fischgrätentage\" von Elke Laznia</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">16.05.2024 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-bei-den-46-innsbrucker-wochenendgesprchen\">Elke Laznia bei den 46. Innsbrucker Wochenendgesprächen</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">24.06.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-fischgrtentage-von-elke-laznia\">Buchpräsentation \"fischgrätentage\" von Elke Laznia</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">13.09.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/preisverleihung-alois-vogel-literaturpreis-an-elke-laznia\">Preisverleihung Alois Vogel Literaturpreis an Elke Laznia</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">15.11.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-liest-aus-fischgrtentage-1\">Elke Laznia liest aus \"fischgrätentage\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">16.11.2024 &middot; 21:35</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-mit-miriam-laznia-am-piano\">Elke Laznia mit Miriam Laznia am Piano</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">26.11.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-liest-aus-fischgrtentage-2\">Elke Laznia liest aus \"fischgrätentage\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">11.12.2024 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-liest-aus-fischgrtentage\">Elke Laznia liest aus \"fischgrätentage\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">05.03.2025 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-elke-laznia-aus-fischgrtentage-1\">Lesung Elke Laznia aus \"fischgrätentage\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">09.03.2025 &middot; 11:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/verleihung-des-helena-adler-preises-an-elke-laznia\">Verleihung des Helena-Adler-Preises an Elke Laznia</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">18.03.2025 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-elke-laznia-aus-fischgrtentage-2\">Lesung Elke Laznia aus \"fischgrätentage\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">24.04.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-von-elke-laznia\">Lesung von Elke Laznia</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">14.05.2025 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-elke-laznia-aus-fischgrtentage-3\">Elke Laznia liest zur Eröffnung des Literaturfests Salzburg</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">15.05.2025 &middot; 16:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-liest-aus-fischgrtentage-3\">Elke Laznia liest aus \"fischgrätentage\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.05.2025 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/fest-fr-das-buch-mit-elke-laznia-mona-mry-klaus-seufer-wasserthal-karin-buttenhauser-ua\">Fest für das Buch mit Elke Laznia, Mona Müry, Klaus Seufer-Wasserthal, Karin Buttenhauser u.a.</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.05.2025 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-elke-laznia-aus-fischgrtentage-4\">Lesung Elke Laznia aus \"fischgrätentage\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">05.06.2025 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lyrikunwiderstehlich-elke-laznia-liest-aus-fischgrtentage\">lyrik:unwiderstehlich: Elke Laznia liest aus \"fischgrätentage\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">17.08.2025 &middot; 17:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-liest-aus-fischgrtentage-4\">Elke Laznia liest aus \"fischgrätentage\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">24.08.2025 &middot; 17:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-elke-laznia-aus-fischgrtentage\">Sommerlesung Elke Laznia aus \"fischgrätentage\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">07.09.2025 &middot; 11:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lyrische-matinee-elke-laznia-eva-maria-leunberger-miriam-laznia\">Lyrische Matinee: Elke Laznia / Eva Maria Leunberger / Miriam Laznia</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">20.09.2025 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/mj9gm79nr7rggex489rlcyz9jk66fc\">Lesung Elke Laznia aus \"fischgrätentage\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">12.10.2025 &middot; 10:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-elke-laznia-aus-fischgrtentage-5\">Lesung Elke Laznia aus \"fischgrätentage\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">31.10.2025 &middot; 16:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-und-gesprch-mit-elke-laznia\">Lesung und Gespräch mit Elke Laznia</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">15.11.2025 &middot; 17:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/elke-laznia-beim-6-poesiefestival-pop-amp-petersilie-neuruppin\">elke Laznia beim 6. Poesiefestival POP & PETERSILIE, Neuruppin</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">22.11.2025 &middot; 11:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-und-atelierbesuch-mit-gerold-tusch\">Buchpräsentation und Atelierbesuch mit Gerold Tusch</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li></ul></div>",
+  "meta": {
+    "title": "elke Laznia · Müry Salzmann Verlag",
+    "description": "geb. in Klagenfurt, lebt als freie Autorin in Salzburg, veröffentlicht Lyrik und Prosa in Literaturzeitschriften (u.a. Manuskripte) und Anthologien; Projekte mit oenm (Neue Musik) und…"
+  }
+}

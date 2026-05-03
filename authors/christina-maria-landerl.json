@@ -1,0 +1,312 @@
+{
+  "slug": "christina-maria-landerl",
+  "name": "Christina Maria Landerl",
+  "category": "Fiction/Die Weiße Reihe",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1979 in Steyr (Oberösterreich). Sie lebt und arbeitet derzeit als Schriftstellerin und Sozialpädagogin in Berlin. Für ihre Prosa erhielt sie zahlreiche Preise und Stipendien. Ihr viel beachtetes Debüt \"Verlass die Stadt\" erschien 2011 (Schöffling &amp; Co). Bei Müry Salzmann erschienen die Romane “Donnas Haus” und “Alles von mir” sowie der Text-Foto-Band “TelaviVienna. Vom Heimkommen” (gemeinsam mit Ronny Aviram).</p><p class=\"\" style=\"white-space:pre-wrap;\">Foto: Ronny Aviram</p>",
+  "photo_url": "images/christina-maria-landerl.jpeg",
+  "books": [
+    {
+      "title": "Alles von mir",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5ec4ebecf4eaf46a7bc76f62/1768657023286/alles_von_mir_mockup.png?format=1500w",
+      "price": 19.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-206-6",
+      "page_url": "/belletristik/alles-von-mir"
+    },
+    {
+      "title": "Das Buch Helga",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/677e87d206d1883834f09678/1768656910300/Das+Buch+Helga+MockUp+.png?format=1500w",
+      "price": 22.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-268-4",
+      "page_url": "/belletristik/das-buch-helga"
+    },
+    {
+      "title": "Donnas Haus",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e83772a5372a429b9d01f64/1768657023292/donnas_haus_mockup.png?format=1500w",
+      "price": 19.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-140-3",
+      "page_url": "/belletristik/donnas-haus"
+    },
+    {
+      "title": "Mein Proust-Moment",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b63c5763c4315e5efdf51e/1768657023275/Mein+Proust+Moment.png?format=1500w",
+      "price": 19.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-221-9",
+      "page_url": "/belletristik/mein-proust-moment"
+    },
+    {
+      "title": "Meine stille Nacht",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/6321965c3c369e69eb0af3aa/1768657023264/Meine+Stille+Nacht+MockUp+.png?format=1500w",
+      "price": 24.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-236-2",
+      "page_url": "/belletristik/meine-stille-nacht-sa6fx"
+    },
+    {
+      "title": "Telavivienna",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/620f82287cfc0e3d7527a3de/1768749463613/telavivienna-mockup.png?format=1500w",
+      "price": 24.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-226-4",
+      "page_url": "/kunst-architektur/telavivienna"
+    }
+  ],
+  "events": [
+    {
+      "title": "Buchpremiere \"Alles von mir\", Christina Maria Landerl",
+      "start_date": "2020-08-25T20:00:00+0200",
+      "end_date": "2020-08-25T22:00:00+0200",
+      "location_name": "",
+      "location_address": "10 John-Foster-Dulles-Allee Berlin, Berlin, 10557 Deutschland",
+      "page_url": "/kalender/buchpremiere-alles-von-mir-christina-maria-landerl"
+    },
+    {
+      "title": "Christina Maria Landerl und Petra Piuk lesen in der ÖGfL",
+      "start_date": "2021-01-25T18:00:00+0100",
+      "end_date": "2021-01-25T20:00:00+0100",
+      "location_name": "Österreichische Gesellschaft für Literatur",
+      "location_address": "5 Herrengasse Wien, Wien, 1010 Österreich",
+      "page_url": "/kalender/christina-maria-landerl-und-petra-pick-lesen-in-der-gfl"
+    },
+    {
+      "title": "Christina Maria Landerl und Helmut Neundlinger präsentieren ihre neuen Bücher",
+      "start_date": "2021-02-02T19:30:00+0100",
+      "end_date": "2021-02-02T20:30:00+0100",
+      "location_name": "Stifterhaus ",
+      "location_address": "1 Adalbert-Stifter-Platz Linz, Oberösterreich, 4020 Österreich",
+      "page_url": "/kalender/buchprsentationen-von-christina-maria-landerl-und-helmut-neundlinger"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl",
+      "start_date": "2021-08-23T19:00:00+0200",
+      "end_date": "2021-08-23T21:00:00+0200",
+      "location_name": "Haus der Kulturen der Welt",
+      "location_address": "10 John-Foster-Dulles-Allee Berlin, Berlin, 10557 Deutschland",
+      "page_url": "/kalender/lesung-christina-maria-landerl"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl",
+      "start_date": "2021-09-17T20:00:00+0200",
+      "end_date": "2021-09-17T21:00:00+0200",
+      "location_name": "Bibliothek am Luisenbad",
+      "location_address": "39 Badstraße Berlin, Berlin, 13357 Deutschland",
+      "page_url": "/kalender/lesung-christina-maria-landerl-1"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl",
+      "start_date": "2021-09-21T19:30:00+0200",
+      "end_date": "2021-09-21T20:30:00+0200",
+      "location_name": "Literarisches Colloquium Berlin",
+      "location_address": "5 Am Sandwerder Berlin, Berlin, 14109 Deutschland",
+      "page_url": "/kalender/lesung-christina-maria-landerl-2"
+    },
+    {
+      "title": "Verschoben: Christina Maria Landerl liest aus \"Alles von mir\"",
+      "start_date": "2021-11-27T20:00:00+0100",
+      "end_date": "2021-11-27T21:00:00+0100",
+      "location_name": "Rabatz",
+      "location_address": "Rheinstraße 4 69126 Heidelberg Deutschland",
+      "page_url": "/kalender/christina-maria-landerl-liest-aus-alles-von-mir"
+    },
+    {
+      "title": "Buchpräsentation \"TelAviVienna\"",
+      "start_date": "2022-05-30T18:30:00+0200",
+      "end_date": "2022-05-30T19:30:00+0200",
+      "location_name": "Jüdisches Museum Wien",
+      "location_address": "11 Dorotheergasse Wien, Wien, 1010 Österreich",
+      "page_url": "/kalender/buchprsentation-telavivienna"
+    },
+    {
+      "title": "Christina Maria Landerl liest aus \"Alles von mir\"",
+      "start_date": "2022-06-25T19:30:00+0200",
+      "end_date": "2022-06-25T20:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/christina-maria-landerl-liest-aus-alles-von-mir-1"
+    },
+    {
+      "title": "Buchpräsentation \"Meine stille Nacht\"",
+      "start_date": "2022-11-02T19:00:00+0100",
+      "end_date": "2022-11-02T21:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-meine-stille-nacht"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl aus \"Alles von mir\"",
+      "start_date": "2022-11-25T20:00:00+0100",
+      "end_date": "2022-11-25T21:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-christina-maria-landerl-aus-alles-von-mir"
+    },
+    {
+      "title": "Buchpräsentation \"TelAviVienna\" mit Christina Maria Landerl und Ronny Aviram",
+      "start_date": "2023-04-29T18:00:00+0200",
+      "end_date": "2023-04-29T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-telavivienna-mit-christina-maria-landerl-und-ronny-aviram"
+    },
+    {
+      "title": "Buchpräsentation \"Die Zeitforscherin\" von Flora S. Mahler",
+      "start_date": "2023-11-12T19:00:00+0100",
+      "end_date": "2023-11-12T20:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-die-zeitforscherin-von-flora-s-mahler"
+    },
+    {
+      "title": "Buchpremiere \"Das Buch Helga\" von Christina Maria Landerl",
+      "start_date": "2025-03-07T20:00:00+0100",
+      "end_date": "2025-03-07T21:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchpremiere-das-buch-helga-von-christina-maria-landerl"
+    },
+    {
+      "title": "Buchpräsentation \"Das Buch Helga\" von Christina Maria Landerl",
+      "start_date": "2025-03-14T19:00:00+0100",
+      "end_date": "2025-03-14T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-das-buch-helga-von-christina-maria-landerl"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl, \"Das Buch Helga\"",
+      "start_date": "2025-03-16T10:30:00+0100",
+      "end_date": "2025-03-16T11:45:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-christina-maria-landerl-das-buch-helga-1"
+    },
+    {
+      "title": "Buchpräsentation Christina Maria Landerl \"Das Buch Helga\"",
+      "start_date": "2025-03-17T19:00:00+0100",
+      "end_date": "2025-03-17T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-christina-maria-landerl-das-buch-helga"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl, \"Das Buch Helga\"",
+      "start_date": "2025-03-21T18:30:00+0100",
+      "end_date": "2025-03-21T19:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-christina-maria-landerl-das-buch-helga"
+    },
+    {
+      "title": "Buchpräsentation Christina Maria Landerl, Das Buch Helga",
+      "start_date": "2025-03-27T16:30:00+0100",
+      "end_date": "2025-03-27T17:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/buchprsentation-christina-maria-landerl-das-buch-helga-1"
+    },
+    {
+      "title": "Christina Maria Landerl liest auf der Langen Leipziger Lesenacht",
+      "start_date": "2025-03-27T21:00:00+0100",
+      "end_date": "2025-03-27T21:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/christina-maria-landerl-liest-auf-der-langen-leipziger-lesenacht"
+    },
+    {
+      "title": "Christina Maria Landerl liest auf der Leipziger Buchmesse",
+      "start_date": "2025-03-28T14:30:00+0100",
+      "end_date": "2025-03-28T15:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/christina-maria-landerl-liest-auf-der-leipziger-buchmesse"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl, \"Das Buch Helga\"",
+      "start_date": "2025-03-28T19:00:00+0100",
+      "end_date": "2025-03-28T20:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-christina-maria-landerl-das-buch-helga-2"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl aus \"Das Buch Helga\"",
+      "start_date": "2025-05-19T20:00:00+0200",
+      "end_date": "2025-05-19T21:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-christina-maria-landerl-aus-das-buch-helga"
+    },
+    {
+      "title": "Johanna Grillmayer und Christina Maria Landerl stellen ihre neuen Bücher vor",
+      "start_date": "2025-05-20T19:30:00+0200",
+      "end_date": "2025-05-20T20:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/johanna-grillmayer-und-christina-maria-landerl-stellen-ihre-neuen-bcher-vor"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl aus \"Das Buch Helga\"",
+      "start_date": "2025-07-05T15:15:00+0200",
+      "end_date": "2025-07-05T15:45:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-christina-maria-landerl-aus-das-buch-helga-1"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl aus \"Das Buch Helga\"",
+      "start_date": "2025-09-24T19:00:00+0200",
+      "end_date": "2025-09-24T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-christina-maria-landerl-aus-das-buch-helga-2"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl aus \"Das Buch Helga\"",
+      "start_date": "2025-09-25T19:30:00+0200",
+      "end_date": "2025-09-25T20:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-christina-maria-landerl-aus-das-buch-helga-3"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl aus \"Das Buch Helga\"",
+      "start_date": "2025-10-25T19:00:00+0200",
+      "end_date": "2025-10-25T20:00:00+0200",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/lesung-christina-maria-landerl-aus-das-buch-helga-4"
+    },
+    {
+      "title": "Christina Maria Landerl liest aus \"Das Buch Helga\" auf der BuchWien",
+      "start_date": "2025-11-13T16:00:00+0100",
+      "end_date": "2025-11-13T17:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/christina-maria-landerl-liest-aus-das-buch-helga-auf-der-buchwien"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl \"Das Buch Helga\"",
+      "start_date": "2026-03-14T19:00:00+0100",
+      "end_date": "2026-03-14T20:00:00+0100",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/lesung-christina-maria-landerl-das-buch-helga-3"
+    },
+    {
+      "title": "Lesung Christina Maria Landerl \"Das Buch Helga\"",
+      "start_date": "2026-04-25T14:00:00+0200",
+      "end_date": "2026-04-25T15:00:00+0200",
+      "location_name": "Müry Salzmann Verlag",
+      "location_address": "3C Rainbergstraße Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/lesung-christina-maria-landerl-das-buch-helga-4"
+    }
+  ],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/christina-maria-landerl.jpeg\" alt=\"Christina Maria Landerl\" width=\"300\"></div><div><h1>Christina Maria Landerl</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1979 in Steyr (Oberösterreich). Sie lebt und arbeitet derzeit als Schriftstellerin und Sozialpädagogin in Berlin. Für ihre Prosa erhielt sie zahlreiche Preise und Stipendien. Ihr viel beachtetes Debüt \"Verlass die Stadt\" erschien 2011 (Schöffling &amp; Co). Bei Müry Salzmann erschienen die Romane “Donnas Haus” und “Alles von mir” sowie der Text-Foto-Band “TelaviVienna. Vom Heimkommen” (gemeinsam mit Ronny Aviram).</p><p class=\"\" style=\"white-space:pre-wrap;\">Foto: Ronny Aviram</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Christina Maria Landerl mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/alles-von-mir\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5ec4ebecf4eaf46a7bc76f62/1768657023286/alles_von_mir_mockup.png?format=1500w\" alt=\"Alles von mir\" loading=\"lazy\"></div><div class=\"demo-book-title\">Alles von mir</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/das-buch-helga\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfef0379fe7804bd0f3b0b/677e87d206d1883834f09678/1768656910300/Das+Buch+Helga+MockUp+.png?format=1500w\" alt=\"Das Buch Helga\" loading=\"lazy\"></div><div class=\"demo-book-title\">Das Buch Helga</div><div class=\"demo-book-price\">22.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/donnas-haus\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/5e83772a5372a429b9d01f64/1768657023292/donnas_haus_mockup.png?format=1500w\" alt=\"Donnas Haus\" loading=\"lazy\"></div><div class=\"demo-book-title\">Donnas Haus</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/mein-proust-moment\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/60b63c5763c4315e5efdf51e/1768657023275/Mein+Proust+Moment.png?format=1500w\" alt=\"Mein Proust-Moment\" loading=\"lazy\"></div><div class=\"demo-book-title\">Mein Proust-Moment</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"/belletristik/meine-stille-nacht-sa6fx\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/6321965c3c369e69eb0af3aa/1768657023264/Meine+Stille+Nacht+MockUp+.png?format=1500w\" alt=\"Meine stille Nacht\" loading=\"lazy\"></div><div class=\"demo-book-title\">Meine stille Nacht</div><div class=\"demo-book-price\">24.00 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/telavivienna\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/620f82287cfc0e3d7527a3de/1768749463613/telavivienna-mockup.png?format=1500w\" alt=\"Telavivienna\" loading=\"lazy\"></div><div class=\"demo-book-title\">Telavivienna</div><div class=\"demo-book-price\">24.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">25.08.2020 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchpremiere-alles-von-mir-christina-maria-landerl\">Buchpremiere \"Alles von mir\", Christina Maria Landerl</a></div><div class=\"demo-event-loc\">10 John-Foster-Dulles-Allee Berlin, Berlin, 10557 Deutschland</div></div></li><li><div class=\"demo-event-date\">25.01.2021 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/christina-maria-landerl-und-petra-pick-lesen-in-der-gfl\">Christina Maria Landerl und Petra Piuk lesen in der ÖGfL</a></div><div class=\"demo-event-loc\">Österreichische Gesellschaft für Literatur</div></div></li><li><div class=\"demo-event-date\">02.02.2021 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentationen-von-christina-maria-landerl-und-helmut-neundlinger\">Christina Maria Landerl und Helmut Neundlinger präsentieren ihre neuen Bücher</a></div><div class=\"demo-event-loc\">Stifterhaus </div></div></li><li><div class=\"demo-event-date\">23.08.2021 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl\">Lesung Christina Maria Landerl</a></div><div class=\"demo-event-loc\">Haus der Kulturen der Welt</div></div></li><li><div class=\"demo-event-date\">17.09.2021 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl-1\">Lesung Christina Maria Landerl</a></div><div class=\"demo-event-loc\">Bibliothek am Luisenbad</div></div></li><li><div class=\"demo-event-date\">21.09.2021 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl-2\">Lesung Christina Maria Landerl</a></div><div class=\"demo-event-loc\">Literarisches Colloquium Berlin</div></div></li><li><div class=\"demo-event-date\">27.11.2021 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/christina-maria-landerl-liest-aus-alles-von-mir\">Verschoben: Christina Maria Landerl liest aus \"Alles von mir\"</a></div><div class=\"demo-event-loc\">Rabatz</div></div></li><li><div class=\"demo-event-date\">30.05.2022 &middot; 18:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-telavivienna\">Buchpräsentation \"TelAviVienna\"</a></div><div class=\"demo-event-loc\">Jüdisches Museum Wien</div></div></li><li><div class=\"demo-event-date\">25.06.2022 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/christina-maria-landerl-liest-aus-alles-von-mir-1\">Christina Maria Landerl liest aus \"Alles von mir\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">02.11.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-meine-stille-nacht\">Buchpräsentation \"Meine stille Nacht\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">25.11.2022 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl-aus-alles-von-mir\">Lesung Christina Maria Landerl aus \"Alles von mir\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">29.04.2023 &middot; 18:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-telavivienna-mit-christina-maria-landerl-und-ronny-aviram\">Buchpräsentation \"TelAviVienna\" mit Christina Maria Landerl und Ronny Aviram</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">12.11.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-die-zeitforscherin-von-flora-s-mahler\">Buchpräsentation \"Die Zeitforscherin\" von Flora S. Mahler</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">07.03.2025 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchpremiere-das-buch-helga-von-christina-maria-landerl\">Buchpremiere \"Das Buch Helga\" von Christina Maria Landerl</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">14.03.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-das-buch-helga-von-christina-maria-landerl\">Buchpräsentation \"Das Buch Helga\" von Christina Maria Landerl</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">16.03.2025 &middot; 10:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl-das-buch-helga-1\">Lesung Christina Maria Landerl, \"Das Buch Helga\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">17.03.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-christina-maria-landerl-das-buch-helga\">Buchpräsentation Christina Maria Landerl \"Das Buch Helga\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">21.03.2025 &middot; 18:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl-das-buch-helga\">Lesung Christina Maria Landerl, \"Das Buch Helga\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">27.03.2025 &middot; 16:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchprsentation-christina-maria-landerl-das-buch-helga-1\">Buchpräsentation Christina Maria Landerl, Das Buch Helga</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">27.03.2025 &middot; 21:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/christina-maria-landerl-liest-auf-der-langen-leipziger-lesenacht\">Christina Maria Landerl liest auf der Langen Leipziger Lesenacht</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">28.03.2025 &middot; 14:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/christina-maria-landerl-liest-auf-der-leipziger-buchmesse\">Christina Maria Landerl liest auf der Leipziger Buchmesse</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">28.03.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl-das-buch-helga-2\">Lesung Christina Maria Landerl, \"Das Buch Helga\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">19.05.2025 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl-aus-das-buch-helga\">Lesung Christina Maria Landerl aus \"Das Buch Helga\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">20.05.2025 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/johanna-grillmayer-und-christina-maria-landerl-stellen-ihre-neuen-bcher-vor\">Johanna Grillmayer und Christina Maria Landerl stellen ihre neuen Bücher vor</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">05.07.2025 &middot; 15:15</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl-aus-das-buch-helga-1\">Lesung Christina Maria Landerl aus \"Das Buch Helga\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">24.09.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl-aus-das-buch-helga-2\">Lesung Christina Maria Landerl aus \"Das Buch Helga\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">25.09.2025 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl-aus-das-buch-helga-3\">Lesung Christina Maria Landerl aus \"Das Buch Helga\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">25.10.2025 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl-aus-das-buch-helga-4\">Lesung Christina Maria Landerl aus \"Das Buch Helga\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">13.11.2025 &middot; 16:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/christina-maria-landerl-liest-aus-das-buch-helga-auf-der-buchwien\">Christina Maria Landerl liest aus \"Das Buch Helga\" auf der BuchWien</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">14.03.2026 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl-das-buch-helga-3\">Lesung Christina Maria Landerl \"Das Buch Helga\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li><li><div class=\"demo-event-date\">25.04.2026 &middot; 14:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-christina-maria-landerl-das-buch-helga-4\">Lesung Christina Maria Landerl \"Das Buch Helga\"</a></div><div class=\"demo-event-loc\">Müry Salzmann Verlag</div></div></li></ul></div>",
+  "meta": {
+    "title": "Christina Maria Landerl · Müry Salzmann Verlag",
+    "description": "geboren 1979 in Steyr (Oberösterreich). Sie lebt und arbeitet derzeit als Schriftstellerin und Sozialpädagogin in Berlin. Für ihre Prosa erhielt sie zahlreiche Preise und Stipendien. Ihr viel…"
+  }
+}

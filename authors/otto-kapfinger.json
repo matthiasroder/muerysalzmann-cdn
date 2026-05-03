@@ -1,0 +1,63 @@
+{
+  "slug": "otto-kapfinger",
+  "name": "Otto Kapfinger",
+  "category": "Kunst/Architektur",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1949, Architekturstudium an der TU Wien, 1970 Mitbegründer von \"Missing Link\", Architekturkritiker. Zahlreiche Publikationen und Ausstellungen, Preis der Stadt Wien für Publizistik (1997), Würdigungspreis des Landes Kärnten (2005).</p>",
+  "photo_url": "images/otto-kapfinger.jpg",
+  "books": [
+    {
+      "title": "Bauherrenpreis 2011",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2159a4f5804d11f83df/5e84b4d72e188c3feceae24f/1751631128615/BHP11_mockup.png?format=1500w",
+      "price": 15.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-058-1",
+      "page_url": "/architektur-im-ringturm/bauherrenpreis-2011"
+    },
+    {
+      "title": "Baukunst in Salzburg seit 1980",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5ec6a1ee258b3a78f2af9c78/1768749463806/?format=1500w",
+      "price": 28.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-012-3",
+      "page_url": "/kunst-architektur/baukunst"
+    },
+    {
+      "title": "Form & Energy (deutsche Ausgabe)",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2159a4f5804d11f83df/5ec78b6d04e378060009ea9e/1751631310775/form%26energy_mockup.png?format=1500w",
+      "price": 27.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-018-5",
+      "page_url": "/architektur-im-ringturm/form-and-energy-deutsch"
+    },
+    {
+      "title": "Form & Energy (englische Ausgabe)",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2159a4f5804d11f83df/5ec78bcf18c584174f570b81/1751629336089/form%26energy_eng_mockup.png?format=1500w",
+      "price": 27.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-033-8",
+      "page_url": "/architektur-im-ringturm/form-and-energy-englisch"
+    },
+    {
+      "title": "Fundamente der Demokratie",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2159a4f5804d11f83df/5ec506bb0c338913a7654b02/1751624993342/fundamente-demokratie.png?format=1500w",
+      "price": 28.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-171-7",
+      "page_url": "/architektur-im-ringturm/fundamente-der-demokratie"
+    },
+    {
+      "title": "Luigi Blau. Architekt",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84ddf094b35b74b67d12d7/1768749463686/?format=1500w",
+      "price": 45.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-172-4",
+      "page_url": "/kunst-architektur/luigi-blau"
+    }
+  ],
+  "events": [],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/otto-kapfinger.jpg\" alt=\"Otto Kapfinger\" width=\"300\"></div><div><h1>Otto Kapfinger</h1><div class=\"demo-author-category\">Kunst/Architektur</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1949, Architekturstudium an der TU Wien, 1970 Mitbegründer von \"Missing Link\", Architekturkritiker. Zahlreiche Publikationen und Ausstellungen, Preis der Stadt Wien für Publizistik (1997), Würdigungspreis des Landes Kärnten (2005).</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Otto Kapfinger mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/architektur-im-ringturm/bauherrenpreis-2011\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2159a4f5804d11f83df/5e84b4d72e188c3feceae24f/1751631128615/BHP11_mockup.png?format=1500w\" alt=\"Bauherrenpreis 2011\" loading=\"lazy\"></div><div class=\"demo-book-title\">Bauherrenpreis 2011</div><div class=\"demo-book-price\">15.00 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/baukunst\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5ec6a1ee258b3a78f2af9c78/1768749463806/?format=1500w\" alt=\"Baukunst in Salzburg seit 1980\" loading=\"lazy\"></div><div class=\"demo-book-title\">Baukunst in Salzburg seit 1980</div><div class=\"demo-book-price\">28.00 EUR</div></a><a class=\"demo-book\" href=\"/architektur-im-ringturm/form-and-energy-deutsch\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2159a4f5804d11f83df/5ec78b6d04e378060009ea9e/1751631310775/form%26energy_mockup.png?format=1500w\" alt=\"Form & Energy (deutsche Ausgabe)\" loading=\"lazy\"></div><div class=\"demo-book-title\">Form & Energy (deutsche Ausgabe)</div><div class=\"demo-book-price\">27.00 EUR</div></a><a class=\"demo-book\" href=\"/architektur-im-ringturm/form-and-energy-englisch\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2159a4f5804d11f83df/5ec78bcf18c584174f570b81/1751629336089/form%26energy_eng_mockup.png?format=1500w\" alt=\"Form & Energy (englische Ausgabe)\" loading=\"lazy\"></div><div class=\"demo-book-title\">Form & Energy (englische Ausgabe)</div><div class=\"demo-book-price\">27.00 EUR</div></a><a class=\"demo-book\" href=\"/architektur-im-ringturm/fundamente-der-demokratie\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2159a4f5804d11f83df/5ec506bb0c338913a7654b02/1751624993342/fundamente-demokratie.png?format=1500w\" alt=\"Fundamente der Demokratie\" loading=\"lazy\"></div><div class=\"demo-book-title\">Fundamente der Demokratie</div><div class=\"demo-book-price\">28.00 EUR</div></a><a class=\"demo-book\" href=\"/kunst-architektur/luigi-blau\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84ddf094b35b74b67d12d7/1768749463686/?format=1500w\" alt=\"Luigi Blau. Architekt\" loading=\"lazy\"></div><div class=\"demo-book-title\">Luigi Blau. Architekt</div><div class=\"demo-book-price\">45.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "meta": {
+    "title": "Otto Kapfinger · Müry Salzmann Verlag",
+    "description": "geboren 1949, Architekturstudium an der TU Wien, 1970 Mitbegründer von \"Missing Link\", Architekturkritiker. Zahlreiche Publikationen und Ausstellungen, Preis der Stadt Wien für Publizistik (1997),…"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "sandra-reichert",
+  "name": "Sandra Reichert",
+  "category": "Fiction/Die Weiße Reihe",
+  "bio_html": "<p class=\"\" style=\"white-space:pre-wrap;\">geboren 1979 in Nauen, lebt seit 1984 in West-Berlin.<br/>Studium der Philosophie, u. a. bei Peter Bieri, auch bekannt als Pascal Mercier. Abschlüsse in der Anglistik, Germanistik sowie Amerikanistik.</p><p class=\"\" style=\"white-space:pre-wrap;\">Für das Manuskript <em>Wenn dich der Himmel nicht will, versuch’s in der Hölle </em>erhielt sie im Herbst 2021 ein Literaturrecherche-Stipendium der Berliner Senatsverwaltung für Kultur und Europa. Im Februar 2022 gewann sie damit den Literaturwettbewerb <em>Wir lesen uns die Münder wund</em>, eine Kooperation von MARK Salzburg, erostepost und Literaturhaus Salzburg.</p>",
+  "photo_url": "images/sandra-reichert.jpg",
+  "books": [
+    {
+      "title": "Der Himmel muss warten",
+      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/632052be969a29006ae4dea3/1768657023253/Der+Himmel+muss+warten+MockUp.png?format=1500w",
+      "price": 24.0,
+      "currency": "EUR",
+      "isbn": "978-3-99014-231-8",
+      "page_url": "/belletristik/der-himmel-muss-warten-3st4w"
+    }
+  ],
+  "events": [
+    {
+      "title": "Lesung Sandra Reichert \"Der Himmel muss warten\"",
+      "start_date": "2022-09-04T14:00:00+0200",
+      "end_date": "2022-09-04T15:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-sandra-reichert-der-himmel-muss-warten-2"
+    },
+    {
+      "title": "Buchpremiere \"Der Himmel muss warten\" von Sandra Reichert",
+      "start_date": "2022-10-06T19:30:00+0200",
+      "end_date": "2022-10-06T20:30:00+0200",
+      "location_name": "Literaturhaus Salzburg",
+      "location_address": "23 Strubergasse Salzburg, Salzburg, 5020 Österreich",
+      "page_url": "/kalender/buchpremiere-der-himmel-muss-warten-von-sandra-reichert"
+    },
+    {
+      "title": "Lesung Sandra Reichert \"Der Himmel muss warten\"",
+      "start_date": "2022-10-16T19:00:00+0200",
+      "end_date": "2022-10-16T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-sandra-reichert-der-himmel-muss-warten"
+    },
+    {
+      "title": "Lesung Sandra Reichert \"Der Himmel muss warten\"",
+      "start_date": "2022-10-22T19:30:00+0200",
+      "end_date": "2022-10-22T20:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-sandra-reichert-der-himmel-muss-warten-1"
+    },
+    {
+      "title": "Lesung Sandra Reichert aus \"Der Himmel muss warten\"",
+      "start_date": "2022-10-27T20:00:00+0200",
+      "end_date": "2022-10-27T21:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-sandra-reichert-aus-der-himmel-muss-warten"
+    },
+    {
+      "title": "Lesung Sandra Reichert aus \"Der Himmel muss warten\"",
+      "start_date": "2022-10-30T19:30:00+0100",
+      "end_date": "2022-10-30T20:30:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-sandra-reichert-aus-der-himmel-muss-warten-1"
+    },
+    {
+      "title": "Lesung Sandra Reichert aus \"Der Himmel muss warten\"",
+      "start_date": "2022-12-11T20:00:00+0100",
+      "end_date": "2022-12-11T21:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-sandra-reichert-aus-der-himmel-muss-warten-2"
+    },
+    {
+      "title": "Lesung Sandra Reichert aus \"Der Himmel muss warten\"",
+      "start_date": "2022-12-14T20:00:00+0100",
+      "end_date": "2022-12-14T21:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-sandra-reichert-aus-der-himmel-muss-warten-3"
+    },
+    {
+      "title": "Sandra Reichert liest aus \"Der Himmel muss warten\"",
+      "start_date": "2023-02-20T20:00:00+0100",
+      "end_date": "2023-02-20T21:00:00+0100",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/sandra-reichert-liest-aus-der-himmel-muss-warten"
+    },
+    {
+      "title": "Lesung Sandra Reichert aus \"Der Himmel muss warten\"",
+      "start_date": "2023-05-24T19:00:00+0200",
+      "end_date": "2023-05-24T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-sandra-reichert-aus-der-himmel-muss-warten-4"
+    },
+    {
+      "title": "Sandra Reichert liest aus \"Der Himmel muss warten\"",
+      "start_date": "2023-06-18T00:00:00+0200",
+      "end_date": "2023-06-18T00:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/sandra-reichert-liest-aus-der-himmel-muss-warten-1"
+    },
+    {
+      "title": "Sandra Reichert liest aus \"Der Himmel muss warten\"",
+      "start_date": "2023-08-08T19:00:00+0200",
+      "end_date": "2023-08-08T20:00:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/sandra-reichert-liest-aus-der-himmel-muss-warten-2"
+    },
+    {
+      "title": "Sandra Reichert liest aus \"Der Himmel muss warten\"",
+      "start_date": "2023-09-02T18:45:00+0200",
+      "end_date": "2023-09-03T19:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/sandra-reichert-liest-aus-der-himmel-muss-warten-3"
+    },
+    {
+      "title": "Lesung Sandra Reichert aus \"Der Himmel muss warten\"",
+      "start_date": "2023-09-28T19:30:00+0200",
+      "end_date": "2023-09-28T20:30:00+0200",
+      "location_name": "",
+      "location_address": "",
+      "page_url": "/kalender/lesung-sandra-reichert-aus-der-himmel-muss-warten-5"
+    }
+  ],
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/sandra-reichert.jpg\" alt=\"Sandra Reichert\" width=\"300\"></div><div><h1>Sandra Reichert</h1><div class=\"demo-author-category\">Fiction/Die Weiße Reihe</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1979 in Nauen, lebt seit 1984 in West-Berlin.<br/>Studium der Philosophie, u. a. bei Peter Bieri, auch bekannt als Pascal Mercier. Abschlüsse in der Anglistik, Germanistik sowie Amerikanistik.</p><p class=\"\" style=\"white-space:pre-wrap;\">Für das Manuskript <em>Wenn dich der Himmel nicht will, versuch’s in der Hölle </em>erhielt sie im Herbst 2021 ein Literaturrecherche-Stipendium der Berliner Senatsverwaltung für Kultur und Europa. Im Februar 2022 gewann sie damit den Literaturwettbewerb <em>Wir lesen uns die Münder wund</em>, eine Kooperation von MARK Salzburg, erostepost und Literaturhaus Salzburg.</p></div></div></section><section class=\"demo-newsletter\" aria-label=\"Newsletter\"><div class=\"demo-newsletter-text\"><h3>Sie wollen keine Neuigkeit zu Sandra Reichert mehr verpassen?</h3><p>Wir informieren Sie gern über neue Publikationen und Veranstaltungen. Tragen Sie dafür einfach Ihre E-Mail-Adresse ein.</p></div><form onsubmit=\"alert('Demo: Anmeldung wäre jetzt verarbeitet.'); return false;\"><input type=\"email\" placeholder=\"ihre@email.at\" required><button type=\"submit\">Anmelden</button></form></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"/belletristik/der-himmel-muss-warten-3st4w\"><div class=\"demo-book-cover\"><img src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ce94a7c3b19d4080c4c628/632052be969a29006ae4dea3/1768657023253/Der+Himmel+muss+warten+MockUp.png?format=1500w\" alt=\"Der Himmel muss warten\" loading=\"lazy\"></div><div class=\"demo-book-title\">Der Himmel muss warten</div><div class=\"demo-book-price\">24.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><ul class=\"demo-events\"><li><div class=\"demo-event-date\">04.09.2022 &middot; 14:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-sandra-reichert-der-himmel-muss-warten-2\">Lesung Sandra Reichert \"Der Himmel muss warten\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">06.10.2022 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/buchpremiere-der-himmel-muss-warten-von-sandra-reichert\">Buchpremiere \"Der Himmel muss warten\" von Sandra Reichert</a></div><div class=\"demo-event-loc\">Literaturhaus Salzburg</div></div></li><li><div class=\"demo-event-date\">16.10.2022 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-sandra-reichert-der-himmel-muss-warten\">Lesung Sandra Reichert \"Der Himmel muss warten\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">22.10.2022 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-sandra-reichert-der-himmel-muss-warten-1\">Lesung Sandra Reichert \"Der Himmel muss warten\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">27.10.2022 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-sandra-reichert-aus-der-himmel-muss-warten\">Lesung Sandra Reichert aus \"Der Himmel muss warten\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">30.10.2022 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-sandra-reichert-aus-der-himmel-muss-warten-1\">Lesung Sandra Reichert aus \"Der Himmel muss warten\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">11.12.2022 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-sandra-reichert-aus-der-himmel-muss-warten-2\">Lesung Sandra Reichert aus \"Der Himmel muss warten\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">14.12.2022 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-sandra-reichert-aus-der-himmel-muss-warten-3\">Lesung Sandra Reichert aus \"Der Himmel muss warten\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">20.02.2023 &middot; 20:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/sandra-reichert-liest-aus-der-himmel-muss-warten\">Sandra Reichert liest aus \"Der Himmel muss warten\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">24.05.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-sandra-reichert-aus-der-himmel-muss-warten-4\">Lesung Sandra Reichert aus \"Der Himmel muss warten\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">18.06.2023 &middot; 00:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/sandra-reichert-liest-aus-der-himmel-muss-warten-1\">Sandra Reichert liest aus \"Der Himmel muss warten\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">08.08.2023 &middot; 19:00</div><div><div class=\"demo-event-title\"><a href=\"/kalender/sandra-reichert-liest-aus-der-himmel-muss-warten-2\">Sandra Reichert liest aus \"Der Himmel muss warten\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">02.09.2023 &middot; 18:45</div><div><div class=\"demo-event-title\"><a href=\"/kalender/sandra-reichert-liest-aus-der-himmel-muss-warten-3\">Sandra Reichert liest aus \"Der Himmel muss warten\"</a></div><div class=\"demo-event-loc\"></div></div></li><li><div class=\"demo-event-date\">28.09.2023 &middot; 19:30</div><div><div class=\"demo-event-title\"><a href=\"/kalender/lesung-sandra-reichert-aus-der-himmel-muss-warten-5\">Lesung Sandra Reichert aus \"Der Himmel muss warten\"</a></div><div class=\"demo-event-loc\"></div></div></li></ul></div>",
+  "meta": {
+    "title": "Sandra Reichert · Müry Salzmann Verlag",
+    "description": "geboren 1979 in Nauen, lebt seit 1984 in West-Berlin.Studium der Philosophie, u. a. bei Peter Bieri, auch bekannt als Pascal Mercier. Abschlüsse in der Anglistik, Germanistik sowie…"
+  }
+}
