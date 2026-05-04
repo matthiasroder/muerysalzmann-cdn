@@ -7,7 +7,7 @@
   "books": [
     {
       "title": "Aus Salzburgs hoher Schule geplaudert",
-      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b9278f192b67580040422/1586205323862/AusSalzburgsSchule_m.HG.png?format=1500w",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1586205318883-NCPDQM4UAZPDFJHJ3NTI/AusSalzburgsSchule_m.HG.png",
       "image_url_alt": null,
       "price": 9.9,
       "currency": "EUR",
@@ -16,7 +16,7 @@
     },
     {
       "title": "Buchraub in Salzburg",
-      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b9241d153b453690cc2c7/1586205254380/BuchraubInSalzburg_m.HG.png?format=1500w",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1586205251464-270RFEIE9Y540ZUK5908/BuchraubInSalzburg_m.HG.png",
       "image_url_alt": null,
       "price": 9.9,
       "currency": "EUR",
@@ -25,7 +25,7 @@
     },
     {
       "title": "Gymnasium Mortis",
-      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b9305800312630b7604d0/1755252109240/?format=1500w",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1586205479245-TSCE4Z4CXOFEQ8KA2PBV/image-asset.png",
       "image_url_alt": null,
       "price": 19.0,
       "currency": "EUR",
@@ -34,7 +34,7 @@
     },
     {
       "title": "In Stein gemeißelt",
-      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b92ab0f2af621d720214c/1755252109233/?format=1500w",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1586205398821-IPZOJYWRA6R5R9UJ1ZNI/image-asset.png",
       "image_url_alt": null,
       "price": 39.0,
       "currency": "EUR",
@@ -43,7 +43,7 @@
     },
     {
       "title": "Kochkunst und Esskultur im barocken Salzburg",
-      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b92850f2af621d72018d0/1755252109229/Kochkunst_und_Esskultur.png?format=1500w",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1588059938055-PPQXKB9FT2IUYX6HLAXY/Kochkunst_und_Esskultur.png",
       "image_url_alt": null,
       "price": 28.0,
       "currency": "EUR",
@@ -52,7 +52,7 @@
     },
     {
       "title": "Kräuterkunst und Knochensäge",
-      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b92052bc9084f75453d3f/1586205225576/Kr%C3%A4uterKunst.png?format=1500w",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1586205195216-8NXHAJF9GBWUI4RVCRYV/Kr%C3%A4uterKunst.png",
       "image_url_alt": null,
       "price": 19.0,
       "currency": "EUR",
@@ -61,7 +61,7 @@
     }
   ],
   "events": [],
-  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/ursula-schachl-raber.jpg\" alt=\"Ursula Schachl-Raber\" width=\"300\"></div><div><h1>Ursula Schachl-Raber</h1><div class=\"demo-author-category\">Kultur/Gesellschaft</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1959, Studium der Theologie und Klassischen Philologie, Latein in Graz und Salzburg, Leiterin der Universitätsbibliothek Salzburg.</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kultur-gesellschaft/aus-salzburgs-hoher-schule-geplaudert\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b9278f192b67580040422/1586205323862/AusSalzburgsSchule_m.HG.png?format=1500w\" alt=\"Aus Salzburgs hoher Schule geplaudert\" loading=\"lazy\"></div><div class=\"demo-book-title\">Aus Salzburgs hoher Schule geplaudert</div><div class=\"demo-book-price\">9.90 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kultur-gesellschaft/buchraub-in-salzburg\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b9241d153b453690cc2c7/1586205254380/BuchraubInSalzburg_m.HG.png?format=1500w\" alt=\"Buchraub in Salzburg\" loading=\"lazy\"></div><div class=\"demo-book-title\">Buchraub in Salzburg</div><div class=\"demo-book-price\">9.90 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kultur-gesellschaft/gymnasium-mortis\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b9305800312630b7604d0/1755252109240/?format=1500w\" alt=\"Gymnasium Mortis\" loading=\"lazy\"></div><div class=\"demo-book-title\">Gymnasium Mortis</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kultur-gesellschaft/in-stein-gemeisselt\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b92ab0f2af621d720214c/1755252109233/?format=1500w\" alt=\"In Stein gemeißelt\" loading=\"lazy\"></div><div class=\"demo-book-title\">In Stein gemeißelt</div><div class=\"demo-book-price\">39.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kultur-gesellschaft/kochkunst-und-esskultur\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b92850f2af621d72018d0/1755252109229/Kochkunst_und_Esskultur.png?format=1500w\" alt=\"Kochkunst und Esskultur im barocken Salzburg\" loading=\"lazy\"></div><div class=\"demo-book-title\">Kochkunst und Esskultur im barocken Salzburg</div><div class=\"demo-book-price\">28.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kultur-gesellschaft/kraeuterkunst-und-knochensaege\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62cfeee11da26579d6369df6/5e8b92052bc9084f75453d3f/1586205225576/Kr%C3%A4uterKunst.png?format=1500w\" alt=\"Kräuterkunst und Knochensäge\" loading=\"lazy\"></div><div class=\"demo-book-title\">Kräuterkunst und Knochensäge</div><div class=\"demo-book-price\">19.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/ursula-schachl-raber.jpg\" alt=\"Ursula Schachl-Raber\" width=\"300\"></div><div><h1>Ursula Schachl-Raber</h1><div class=\"demo-author-category\">Kultur/Gesellschaft</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1959, Studium der Theologie und Klassischen Philologie, Latein in Graz und Salzburg, Leiterin der Universitätsbibliothek Salzburg.</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kultur-gesellschaft/aus-salzburgs-hoher-schule-geplaudert\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1586205318883-NCPDQM4UAZPDFJHJ3NTI/AusSalzburgsSchule_m.HG.png\" alt=\"Aus Salzburgs hoher Schule geplaudert\" loading=\"lazy\"></div><div class=\"demo-book-title\">Aus Salzburgs hoher Schule geplaudert</div><div class=\"demo-book-price\">9.90 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kultur-gesellschaft/buchraub-in-salzburg\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1586205251464-270RFEIE9Y540ZUK5908/BuchraubInSalzburg_m.HG.png\" alt=\"Buchraub in Salzburg\" loading=\"lazy\"></div><div class=\"demo-book-title\">Buchraub in Salzburg</div><div class=\"demo-book-price\">9.90 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kultur-gesellschaft/gymnasium-mortis\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1586205479245-TSCE4Z4CXOFEQ8KA2PBV/image-asset.png\" alt=\"Gymnasium Mortis\" loading=\"lazy\"></div><div class=\"demo-book-title\">Gymnasium Mortis</div><div class=\"demo-book-price\">19.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kultur-gesellschaft/in-stein-gemeisselt\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1586205398821-IPZOJYWRA6R5R9UJ1ZNI/image-asset.png\" alt=\"In Stein gemeißelt\" loading=\"lazy\"></div><div class=\"demo-book-title\">In Stein gemeißelt</div><div class=\"demo-book-price\">39.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kultur-gesellschaft/kochkunst-und-esskultur\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1588059938055-PPQXKB9FT2IUYX6HLAXY/Kochkunst_und_Esskultur.png\" alt=\"Kochkunst und Esskultur im barocken Salzburg\" loading=\"lazy\"></div><div class=\"demo-book-title\">Kochkunst und Esskultur im barocken Salzburg</div><div class=\"demo-book-price\">28.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kultur-gesellschaft/kraeuterkunst-und-knochensaege\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1586205195216-8NXHAJF9GBWUI4RVCRYV/Kr%C3%A4uterKunst.png\" alt=\"Kräuterkunst und Knochensäge\" loading=\"lazy\"></div><div class=\"demo-book-title\">Kräuterkunst und Knochensäge</div><div class=\"demo-book-price\">19.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
   "meta": {
     "title": "Ursula Schachl-Raber · Müry Salzmann Verlag",
     "description": "geboren 1959, Studium der Theologie und Klassischen Philologie, Latein in Graz und Salzburg, Leiterin der Universitätsbibliothek Salzburg."

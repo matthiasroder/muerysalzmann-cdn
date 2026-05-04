@@ -7,7 +7,7 @@
   "books": [
     {
       "title": "Harry Glück",
-      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84deee1cafef34d6ecc68d/1585766130036/Seiss_HarryGl%C3%BCck_m.HG.jpeg?format=1500w",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1585766128205-72EAYKLBC3X1DKV1XCS5/Seiss_HarryGl%C3%BCck_m.HG.jpeg",
       "image_url_alt": null,
       "price": 48.0,
       "currency": "EUR",
@@ -16,7 +16,7 @@
     },
     {
       "title": "Häuser für Menschen",
-      "image_url": "http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5ec78f3ae3267952692e56fa/1768749463702/?format=1500w",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1590136651402-Q9LXBEB1I29IXI6P1XRD/image-asset.png",
       "image_url_alt": null,
       "price": 25.0,
       "currency": "EUR",
@@ -25,7 +25,7 @@
     }
   ],
   "events": [],
-  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/reinhard-sei.jpg\" alt=\"Reinhard Seiß\" width=\"300\"></div><div><h1>Reinhard Seiß</h1><div class=\"demo-author-category\">Kunst/Architektur</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1970 in Oberösterreich, Studium der Raumplanung und Raumordnung an der TU Wien, Dr. techn.; Arbeit als Planer und Berater, Fachpublizist und Filmemacher; Autor von „Wer baut Wien?“ (Salzburg, 2007/2013); internationale Lehr- und Vortragstätigkeit; Mitglied des Beirats für Baukultur im Bundeskanzleramt, Mitglied der Deutschen Akademie für Städtebau und Landesplanung.</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/harry-glueck\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5e84deee1cafef34d6ecc68d/1585766130036/Seiss_HarryGl%C3%BCck_m.HG.jpeg?format=1500w\" alt=\"Harry Glück\" loading=\"lazy\"></div><div class=\"demo-book-title\">Harry Glück</div><div class=\"demo-book-price\">48.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/haeuser-fuer-menschen\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"http://static1.squarespace.com/static/5e64d70aea31d869d6cfcb2e/62ceb2740fb3e851e3c5bfc7/5ec78f3ae3267952692e56fa/1768749463702/?format=1500w\" alt=\"Häuser für Menschen\" loading=\"lazy\"></div><div class=\"demo-book-title\">Häuser für Menschen</div><div class=\"demo-book-price\">25.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
+  "rendered_html": "<div class=\"demo-author-page\"><div class=\"demo-author-breadcrumb\"><a href=\"https://www.muerysalzmann.com/autorinnen-und-autoren\">&larr; Alle Autor:innen</a></div><section class=\"demo-author-head\"><div class=\"demo-author-photo\"><img src=\"images/reinhard-sei.jpg\" alt=\"Reinhard Seiß\" width=\"300\"></div><div><h1>Reinhard Seiß</h1><div class=\"demo-author-category\">Kunst/Architektur</div><div class=\"demo-author-bio\"><p class=\"\" style=\"white-space:pre-wrap;\">geboren 1970 in Oberösterreich, Studium der Raumplanung und Raumordnung an der TU Wien, Dr. techn.; Arbeit als Planer und Berater, Fachpublizist und Filmemacher; Autor von „Wer baut Wien?“ (Salzburg, 2007/2013); internationale Lehr- und Vortragstätigkeit; Mitglied des Beirats für Baukultur im Bundeskanzleramt, Mitglied der Deutschen Akademie für Städtebau und Landesplanung.</p></div></div></section><h2 class=\"demo-author-section-title\">Bücher</h2><div class=\"demo-books\"><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/harry-glueck\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1585766128205-72EAYKLBC3X1DKV1XCS5/Seiss_HarryGl%C3%BCck_m.HG.jpeg\" alt=\"Harry Glück\" loading=\"lazy\"></div><div class=\"demo-book-title\">Harry Glück</div><div class=\"demo-book-price\">48.00 EUR</div></a><a class=\"demo-book\" href=\"https://www.muerysalzmann.com/kunst-architektur/haeuser-fuer-menschen\"><div class=\"demo-book-cover\"><img class=\"demo-book-cover-primary\" src=\"https://images.squarespace-cdn.com/content/v1/5e64d70aea31d869d6cfcb2e/1590136651402-Q9LXBEB1I29IXI6P1XRD/image-asset.png\" alt=\"Häuser für Menschen\" loading=\"lazy\"></div><div class=\"demo-book-title\">Häuser für Menschen</div><div class=\"demo-book-price\">25.00 EUR</div></a></div><h2 class=\"demo-author-section-title\">Veranstaltungen</h2><p class=\"demo-empty\">Keine Veranstaltungen erfasst.</p></div>",
   "meta": {
     "title": "Reinhard Seiß · Müry Salzmann Verlag",
     "description": "geboren 1970 in Oberösterreich, Studium der Raumplanung und Raumordnung an der TU Wien, Dr. techn.; Arbeit als Planer und Berater, Fachpublizist und Filmemacher; Autor von „Wer baut Wien?“…"
